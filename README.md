@@ -16,18 +16,21 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
+*   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
+*   [Classic ASP](#classic-asp)
+*   [Kotlin](#kotlin)
+*   [Perl](#perl)
 *   [Dart](#dart)
 *   [C#](#c)
-*   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Svelte](#svelte)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [PHP](#php)
-*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [SCSS](#scss)
 *   [EJS](#ejs)
@@ -41,7 +44,95 @@
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
 
+## miscellaneous
+
+*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+
+*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
+
+*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
+
+*   [jchwl0527/Start](https://github.com/jchwl0527/Start) -
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
+
+*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
+
+*   [gnoloehz/996.OD](https://github.com/gnoloehz/996.OD) - 列出长期996后容易遭遇的职业病，为职业病防治法提供立法依据
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+
+*   [k8gege/PasswordDic](https://github.com/k8gege/PasswordDic) - 2011-2019年Top100弱口令密码字典 Top1000密码字典 服务器SSH/VPS密码字典 后台管理密码字典 数据库密码字典  子域名字典
+
+*   [lmk123/blog](https://github.com/lmk123/blog) - 个人技术博客，博文写在 Issues 里。
+
+*   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
+
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
+
+*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
+
+*   [changfengoss/pub](https://github.com/changfengoss/pub) - 科学上网工具
+
+*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
+
+*   [chasenz/BypassCampusNet](https://github.com/chasenz/BypassCampusNet) - 校园网防断网; UDP 53 免流上网; DNS 隧道
+
+*   [asche910/FreeWireless](https://github.com/asche910/FreeWireless) - 绕过校园网、公共热点认证，从而实现免费上网
+
+*   [xtoys/AdGuardHome](https://github.com/xtoys/AdGuardHome) - AdGuard Filter Rules.
+
+*   [Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD) - 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品
+
+*   [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) -
+
+*   [Waikkii/Waikiki\_ninja](https://github.com/Waikkii/Waikiki_ninja) - 自用，仅为青龙变量添加工具
+
+*   [0voice/computer\_expert\_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
+
+*   [kujian/30-seconds-of-css](https://github.com/kujian/30-seconds-of-css) - 30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。
+
+*   [Miku-programm/V2rayList](https://github.com/Miku-programm/V2rayList) - 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
+
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V25.7.1）、TikTok TestFlight 25.8.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+
+*   [iCSToCS/CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+
+*   [Ailln/awesome-hexo-theme](https://github.com/Ailln/awesome-hexo-theme) - 🌟排名前 10 的 Hexo 主题 | Top 10 Hexo theme
+
+*   [laoxong/66analytics](https://github.com/laoxong/66analytics) - Chinese translation
+
+*   [HexoPlusPlus/CloudFlare2Vercel](https://github.com/HexoPlusPlus/CloudFlare2Vercel) - :zap:Vercel中继CloudFlareWorker脚本
+
+*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
+
+*   [dylanderick/nezha](https://github.com/dylanderick/nezha) - :trollface: 哪吒面板 可能是最优秀的探针了
+
+*   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
+
+*   [7ednet/yard](https://github.com/7ednet/yard) -
+
+*   [jchwl0527/Any-Proxy](https://github.com/jchwl0527/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
+
+*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
+
+*   [pluwen/china-domain-allowlist](https://github.com/pluwen/china-domain-allowlist) - 常用中国网站白名单，纯列表，用于 SwitchyOmega，控制不走代理的网站。
+
+*   [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
+
+*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
+
+*   [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
+
 ## Python
+
+*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
+
+*   [abdulkadir-gungor/JPGtoMalware](https://github.com/abdulkadir-gungor/JPGtoMalware) - It embeds the executable file or payload inside the jpg file.  The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in the JPG file.  The JPG file size and payload do not have to be proportional.The JPG file is displayed normally in any viewing application or web application. It can bypass various security programs such as firewall, antivirus. If the file is examined in detail, it is easier to detect than steganography methods. However, since the payload in the JPG file is encrypted, it cannot be easily decrypted. It also uses the "garbage code insertion/dead-code insertion" method to prevent the payload from being caught by the antivirus at runtime.
+
+*   [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 
 *   [moxun33/real-url](https://github.com/moxun33/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
@@ -141,111 +232,35 @@
 
 *   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 
-*   [AlanDecode/Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
+## TypeScript
 
-## Dart
+*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
 
-*   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。
+*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
 
-*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
 
-## C\#
+*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
 
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
 
-*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
+*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
 
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
-*   [jynew/jynew](https://github.com/jynew/jynew) - 金庸群侠传3D重制版
+*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
 
-*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 
-## miscellaneous
+*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
-*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
+*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 
-*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-
-*   [jchwl0527/Start](https://github.com/jchwl0527/Start) -
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
-
-*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
-
-*   [gnoloehz/996.OD](https://github.com/gnoloehz/996.OD) - 列出长期996后容易遭遇的职业病，为职业病防治法提供立法依据
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
-
-*   [k8gege/PasswordDic](https://github.com/k8gege/PasswordDic) - 2011-2019年Top100弱口令密码字典 Top1000密码字典 服务器SSH/VPS密码字典 后台管理密码字典 数据库密码字典  子域名字典
-
-*   [lmk123/blog](https://github.com/lmk123/blog) - 个人技术博客，博文写在 Issues 里。
-
-*   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-
-*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
-
-*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-
-*   [changfengoss/pub](https://github.com/changfengoss/pub) - 科学上网工具
-
-*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
-
-*   [chasenz/BypassCampusNet](https://github.com/chasenz/BypassCampusNet) - 校园网防断网; UDP 53 免流上网; DNS 隧道
-
-*   [asche910/FreeWireless](https://github.com/asche910/FreeWireless) - 绕过校园网、公共热点认证，从而实现免费上网
-
-*   [xtoys/AdGuardHome](https://github.com/xtoys/AdGuardHome) - AdGuard Filter Rules.
-
-*   [Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD) - 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品
-
-*   [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) -
-
-*   [Waikkii/Waikiki\_ninja](https://github.com/Waikkii/Waikiki_ninja) - 自用，仅为青龙变量添加工具
-
-*   [0voice/computer\_expert\_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
-
-*   [kujian/30-seconds-of-css](https://github.com/kujian/30-seconds-of-css) - 30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。
-
-*   [Miku-programm/V2rayList](https://github.com/Miku-programm/V2rayList) - 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
-
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V25.7.1）、TikTok TestFlight 25.8.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
-
-*   [iCSToCS/CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
-
-*   [Ailln/awesome-hexo-theme](https://github.com/Ailln/awesome-hexo-theme) - 🌟排名前 10 的 Hexo 主题 | Top 10 Hexo theme
-
-*   [laoxong/66analytics](https://github.com/laoxong/66analytics) - Chinese translation
-
-*   [HexoPlusPlus/CloudFlare2Vercel](https://github.com/HexoPlusPlus/CloudFlare2Vercel) - :zap:Vercel中继CloudFlareWorker脚本
-
-*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
-
-*   [dylanderick/nezha](https://github.com/dylanderick/nezha) - :trollface: 哪吒面板 可能是最优秀的探针了
-
-*   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
-
-*   [7ednet/yard](https://github.com/7ednet/yard) -
-
-*   [jchwl0527/Any-Proxy](https://github.com/jchwl0527/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
-
-*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
-
-*   [pluwen/china-domain-allowlist](https://github.com/pluwen/china-domain-allowlist) - 常用中国网站白名单，纯列表，用于 SwitchyOmega，控制不走代理的网站。
-
-*   [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
-
-*   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
-
-*   [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
-
-*   [peng4740/ibm-cf-restart-actions](https://github.com/peng4740/ibm-cf-restart-actions) - 使用Github Actions定时重启IBM Cloud Foundry应用程序
-
-*   [HuaweiJoke/Huawei-Joke](https://github.com/HuaweiJoke/Huawei-Joke) - 本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。
-
-*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 
 ## JavaScript
+
+*   [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
 *   [jchwl0527/GLaDOS-CheckIn-1](https://github.com/jchwl0527/GLaDOS-CheckIn-1) - GLaDOS AutoCheckIn 定时自动签到
 
@@ -369,11 +384,35 @@
 
 *   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
 
-*   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
+## Classic ASP
 
-*   [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+*   [Aabyss-Team/WebShell](https://github.com/Aabyss-Team/WebShell) - 各种无后门大马的整理，有用就点个Star吧~
 
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+## Kotlin
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+## Perl
+
+*   [Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
+
+## Dart
+
+*   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。
+
+*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
+
+## C\#
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+
+*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+
+*   [jynew/jynew](https://github.com/jynew/jynew) - 金庸群侠传3D重制版
+
+*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
 ## CSS
 
@@ -436,10 +475,6 @@
 *   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 
 *   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
-
-*   [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 ## Go
 
@@ -582,32 +617,6 @@
 *   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
 
 *   [txperl/Story-for-Typecho](https://github.com/txperl/Story-for-Typecho) - Typecho Theme Story - 爱上你我的故事
-
-*   [youranreus/Subscription-Manager](https://github.com/youranreus/Subscription-Manager) - 订阅管理
-
-## TypeScript
-
-*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
-
-*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
-
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
-
-*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
-
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-
-*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 
 ## Java
 

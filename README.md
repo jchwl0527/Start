@@ -99,7 +99,7 @@
 
 *   [Miku-programm/V2rayList](https://github.com/Miku-programm/V2rayList) - 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
 
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V25.8.0）、TikTok TestFlight 25.9.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V25.8.0）、TikTok TestFlight 26.0.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 *   [iCSToCS/CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 
@@ -393,7 +393,7 @@
 
 *   [casbin/casnode](https://github.com/casbin/casnode) - An open-source forum (BBS) software developed by Go and React, QQ group: 555019739
 
-*   [iyear/searchx](https://github.com/iyear/searchx) - 🔍 Enhance Telegram Group/Channel Search In 5 Minutes (developing v0.2.0...)
+*   [iyear/searchx](https://github.com/iyear/searchx) - 🔍 Enhance Telegram Search In 5 Minutes
 
 *   [Yoshino-s/ElectronInjector](https://github.com/Yoshino-s/ElectronInjector) - inject script into encrypted electron
 
@@ -471,7 +471,7 @@
 
 ## Perl
 
-*   [Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
+*   [OreosLab/checkinpanel](https://github.com/OreosLab/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
 
 ## Dart
 

@@ -615,7 +615,7 @@
 
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
-*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - 一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script
+*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
 
 *   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 

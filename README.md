@@ -220,8 +220,6 @@
 
 *   [TeaWeb/build](https://github.com/TeaWeb/build) -  TeaWeb-可视化的Web代理服务。DEMO: http://teaos.cn:7777
 
-*   [xhuanya/euserv\_renew](https://github.com/xhuanya/euserv_renew) - 使用Golang编写的自动续费工具
-
 *   [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 
 *   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -285,6 +283,8 @@
 *   [shiningw/pdns-symfony](https://github.com/shiningw/pdns-symfony) - A Symfony-based web management interface for Powerdns
 
 *   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
+
+*   [txperl/Story-for-Typecho](https://github.com/txperl/Story-for-Typecho) - Typecho Theme Story - 爱上你我的故事
 
 ## JavaScript
 
@@ -512,7 +512,7 @@
 
 ## Yacc
 
-*   [WheatBox/WheatCloudSleep](https://github.com/WheatBox/WheatCloudSleep) - 小麦云睡觉软件，很无意义的那种
+*   [WheatBox/WheatCloudSleep\_correcting](https://github.com/WheatBox/WheatCloudSleep_correcting) - 小麦云睡觉软件，很无意义的那种
 
 ## Classic ASP
 

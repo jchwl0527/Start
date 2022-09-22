@@ -26,7 +26,7 @@
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
-*   [Yacc](#yacc)
+*   [Game Maker Language](#game-maker-language)
 *   [Classic ASP](#classic-asp)
 *   [Kotlin](#kotlin)
 *   [Perl](#perl)
@@ -537,7 +537,7 @@
 
 *   [Miku-programm/V2rayList](https://github.com/Miku-programm/V2rayList) - 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
 
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V25.9.0）、TikTok TestFlight 26.0.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.1） 、TikTok（V26.2.0）、TikTok TestFlight 26.3.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 *   [iCSToCS/CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 
@@ -561,7 +561,7 @@
 
 *   [pluwen/china-domain-allowlist](https://github.com/pluwen/china-domain-allowlist) - 常用中国网站白名单，纯列表，用于 SwitchyOmega，控制不走代理的网站。
 
-## Yacc
+## Game Maker Language
 
 *   [WheatBox/WheatCloudSleep\_correcting](https://github.com/WheatBox/WheatCloudSleep_correcting) - 小麦云睡觉软件，很无意义的那种
 

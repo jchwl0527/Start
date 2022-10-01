@@ -405,7 +405,7 @@
 
 *   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
 
-*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) - Recommend to use a better project(推荐使用更好的项目) https://github.com/midoks/mdserver-web
+*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) -
 
 *   [ellermister/free-backup](https://github.com/ellermister/free-backup) - Backup files to the cloud for free https://t.me/ellerhk
 

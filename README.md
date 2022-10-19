@@ -532,7 +532,7 @@
 
 *   [rehiy/cloudflare-panel](https://github.com/rehiy/cloudflare-panel) - Cloudflare DNS 管理面板
 
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - 一个宝塔第三方云端的php站点程序
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
 
 *   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
 

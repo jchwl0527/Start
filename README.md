@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Vue](#vue)
@@ -27,7 +28,6 @@
 *   [HTML](#html)
 *   [TeX](#tex)
 *   [C++](#c-2)
-*   [PHP](#php)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [Java](#java)
@@ -45,6 +45,48 @@
 *   [Stylus](#stylus)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
+
+## PHP
+
+*   [jiix/plugins](https://github.com/jiix/plugins) - xiuno bbs插件、主题收集，欢迎提交。
+
+*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
+
+*   [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
+
+*   [rehiy/cloudflare-panel](https://github.com/rehiy/cloudflare-panel) - Cloudflare DNS 管理面板
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
+
+*   [david082321/BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器(PHP)
+
+*   [yswery/PHP-DNS-SERVER](https://github.com/yswery/PHP-DNS-SERVER) - An Authoritative DNS Server written purely in PHP
+
+*   [sy-records/GetFavicon](https://github.com/sy-records/GetFavicon) - 用PHP获取网站favicon的API，可用于美化网站外链显示效果。
+
+*   [jiix/xiunobbs](https://github.com/jiix/xiunobbs) - Xiuno BBS 4.0 是一款轻论坛程序。 本版修复了php7.4、php8.0兼容问题；采用utf8mb4，支持emoji；，jQuery更新到 3.5.1；bootstrap更新到4.5.0。移除部分插件，更新默认主题。
+
+*   [klsf/kldns](https://github.com/klsf/kldns) - 快乐二级域名分发系统
+
+*   [ping-xiong/saylovewall](https://github.com/ping-xiong/saylovewall) - PHP表白墙，微信表白墙，双11表白墙，光棍节表白墙，单身节表白墙，情人节表白墙
+
+*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
+
+*   [wuxiaocong/jiba](https://github.com/wuxiaocong/jiba) - jiba union
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [asiacny/zero-width-qrcode-shortener](https://github.com/asiacny/zero-width-qrcode-shortener) - 零宽度短网址与二维码生成工具(PHP+ORACLE/MYSQL/SQLite)
+
+*   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
+
+*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 
 ## JavaScript
 
@@ -366,8 +408,6 @@
 
 *   [7ednet/yard](https://github.com/7ednet/yard) -
 
-*   [jchwl0527/Any-Proxy](https://github.com/jchwl0527/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
-
 ## Shell
 
 *   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪测评脚本(测评频道：https://t.me/vps\_reviews )(脚本未完善，点star就好了，fork属实没啥必要)
@@ -523,46 +563,6 @@
 *   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-## PHP
-
-*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
-
-*   [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
-
-*   [rehiy/cloudflare-panel](https://github.com/rehiy/cloudflare-panel) - Cloudflare DNS 管理面板
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
-
-*   [david082321/BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器(PHP)
-
-*   [yswery/PHP-DNS-SERVER](https://github.com/yswery/PHP-DNS-SERVER) - An Authoritative DNS Server written purely in PHP
-
-*   [sy-records/GetFavicon](https://github.com/sy-records/GetFavicon) - 用PHP获取网站favicon的API，可用于美化网站外链显示效果。
-
-*   [jiix/xiunobbs](https://github.com/jiix/xiunobbs) - Xiuno BBS 4.0 是一款轻论坛程序。 本版修复了php7.4、php8.0兼容问题；采用utf8mb4，支持emoji；，jQuery更新到 3.5.1；bootstrap更新到4.5.0。移除部分插件，更新默认主题。
-
-*   [klsf/kldns](https://github.com/klsf/kldns) - 快乐二级域名分发系统
-
-*   [ping-xiong/saylovewall](https://github.com/ping-xiong/saylovewall) - PHP表白墙，微信表白墙，双11表白墙，光棍节表白墙，单身节表白墙，情人节表白墙
-
-*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-
-*   [wuxiaocong/jiba](https://github.com/wuxiaocong/jiba) - jiba union
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [asiacny/zero-width-qrcode-shortener](https://github.com/asiacny/zero-width-qrcode-shortener) - 零宽度短网址与二维码生成工具(PHP+ORACLE/MYSQL/SQLite)
-
-*   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
-
-*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 
 ## Rust
 

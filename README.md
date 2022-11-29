@@ -16,10 +16,11 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
+*   [C#](#c)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [C#](#c)
 *   [HTML](#html)
 *   [Python](#python)
 *   [Vue](#vue)
@@ -38,7 +39,6 @@
 *   [Classic ASP](#classic-asp)
 *   [Perl](#perl)
 *   [Dart](#dart)
-*   [Svelte](#svelte)
 *   [SCSS](#scss)
 *   [EJS](#ejs)
 *   [Adblock Filter List](#adblock-filter-list)
@@ -47,6 +47,30 @@
 *   [Stylus](#stylus)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
+
+## Svelte
+
+*   [NMTuan/maths](https://github.com/NMTuan/maths) - 加减法数学题生成器
+
+*   [YeungKC/Hakuba](https://github.com/YeungKC/Hakuba) - A fast blog starter that reads data off GitHub Discussions.
+
+## C\#
+
+*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+
+*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+
+*   [jynew/jynew](https://github.com/jynew/jynew) - 群侠传，启动！（原金群3D重制版）
+
+*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
 ## Go
 
@@ -367,26 +391,6 @@
 *   [252860883/ArtQRCode](https://github.com/252860883/ArtQRCode) - :crystal\_ball:艺术二维码生成工具（Art QRcode productivity tool ）
 
 *   [Aunger-ops/Arena-Of-Valor-Battleboard](https://github.com/Aunger-ops/Arena-Of-Valor-Battleboard) - 《我的第一个开源项目》基于原生PHP开发的王者荣耀战绩板网页挂件，仅供学习娱乐用途。
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
-
-## C\#
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
-
-*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-*   [jynew/jynew](https://github.com/jynew/jynew) - 群侠传，启动！（原金群3D重制版）
-
-*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
 ## HTML
 
@@ -875,10 +879,6 @@
 *   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。
 
 *   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
-
-## Svelte
-
-*   [YeungKC/Hakuba](https://github.com/YeungKC/Hakuba) - A fast blog starter that reads data off GitHub Discussions.
 
 ## SCSS
 

@@ -16,17 +16,18 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
+*   [Blade](#blade)
+*   [C#](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Svelte](#svelte)
-*   [C#](#c)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Dockerfile](#dockerfile)
-*   [Shell](#shell)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
@@ -47,6 +48,88 @@
 *   [Stylus](#stylus)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [DevHaoZi/Panel\_Scripts](https://github.com/DevHaoZi/Panel_Scripts) - （镜像）耗子Linux面板 - 脚本
+
+*   [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
+
+*   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
+
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪测评脚本(测评频道：https://t.me/vps\_reviews )(脚本未完善，点star就好了，fork属实没啥必要)
+
+*   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
+
+*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) -
+
+*   [ellermister/free-backup](https://github.com/ellermister/free-backup) - Backup files to the cloud for free https://t.me/ellerhk
+
+*   [haoduck/dd](https://github.com/haoduck/dd) -
+
+*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
+
+*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+
+*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
+
+*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
+
+*   [nieaowei/campus-network-unlock](https://github.com/nieaowei/campus-network-unlock) - 基于VPN端口转发突破校园网限制，破解校园网，傻瓜式Docker容器部署
+
+*   [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
+
+*   [kkkyg/CFwarp](https://github.com/kkkyg/CFwarp) - Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…
+
+*   [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
+
+*   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
+
+*   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
+
+*   [kolbwang/pentmenu](https://github.com/kolbwang/pentmenu) - pentmenu汉化版
+
+*   [YG-tsj/Netflix-Check](https://github.com/YG-tsj/Netflix-Check) - 只检测奈非Netflix在当前IPV4、IPV6下是否全解锁！
+
+*   [YG-tsj/EUserv-warp](https://github.com/YG-tsj/EUserv-warp) - EUserv德鸡纯IPV6 VPS添加WARP三模式脚本（双栈IPV6+IPV4、单IPV4、单IPV6）
+
+*   [theme-keep/hexo-deploy-github-pages-action](https://github.com/theme-keep/hexo-deploy-github-pages-action) - 🚀 GitHub action for deploying a Hexo project to GitHub pages.
+
+*   [Aranxu/NodePanels](https://github.com/Aranxu/NodePanels) - Nodepanels - 安全,私密,好用的云端服务器集群管理系统
+
+*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜
+
+*   [sunpma/mtp](https://github.com/sunpma/mtp) - MTProxy TLS 绿色版一键安装脚本
+
+## Blade
+
+*   [DevHaoZi/Panel\_Plugins](https://github.com/DevHaoZi/Panel_Plugins) - （镜像）耗子Linux面板 - 插件
+
+## C\#
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+
+*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+
+*   [jynew/jynew](https://github.com/jynew/jynew) - 群侠传，启动！（原金群3D重制版）
+
+*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
 ## Python
 
@@ -195,8 +278,6 @@
 *   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 
 *   [cokemine/EUserv\_extend](https://github.com/cokemine/EUserv_extend) - A simple Python Script help you renew free EUserv IPv6 VPS
-
-*   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 
 ## JavaScript
 
@@ -428,24 +509,6 @@
 
 *   [YeungKC/Hakuba](https://github.com/YeungKC/Hakuba) - A fast blog starter that reads data off GitHub Discussions.
 
-## C\#
-
-*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
-
-*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-*   [jynew/jynew](https://github.com/jynew/jynew) - 群侠传，启动！（原金群3D重制版）
-
-*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
-
 ## Go
 
 *   [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) -
@@ -580,7 +643,7 @@
 
 *   [Miku-programm/V2rayList](https://github.com/Miku-programm/V2rayList) - 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
 
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.0.0）、TikTok TestFlight 27.1.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.1.0）、TikTok TestFlight 27.2.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 *   [iCSToCS/CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 
@@ -688,62 +751,6 @@
 
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
-## Shell
-
-*   [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
-
-*   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
-
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪测评脚本(测评频道：https://t.me/vps\_reviews )(脚本未完善，点star就好了，fork属实没啥必要)
-
-*   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
-
-*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) -
-
-*   [ellermister/free-backup](https://github.com/ellermister/free-backup) - Backup files to the cloud for free https://t.me/ellerhk
-
-*   [haoduck/dd](https://github.com/haoduck/dd) -
-
-*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
-
-*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-
-*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
-
-*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
-
-*   [nieaowei/campus-network-unlock](https://github.com/nieaowei/campus-network-unlock) - 基于VPN端口转发突破校园网限制，破解校园网，傻瓜式Docker容器部署
-
-*   [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
-
-*   [kkkyg/CFwarp](https://github.com/kkkyg/CFwarp) - Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…
-
-*   [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
-
-*   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
-
-*   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
-
-*   [kolbwang/pentmenu](https://github.com/kolbwang/pentmenu) - pentmenu汉化版
-
-*   [YG-tsj/Netflix-Check](https://github.com/YG-tsj/Netflix-Check) - 只检测奈非Netflix在当前IPV4、IPV6下是否全解锁！
-
-*   [YG-tsj/EUserv-warp](https://github.com/YG-tsj/EUserv-warp) - EUserv德鸡纯IPV6 VPS添加WARP三模式脚本（双栈IPV6+IPV4、单IPV4、单IPV6）
-
-*   [theme-keep/hexo-deploy-github-pages-action](https://github.com/theme-keep/hexo-deploy-github-pages-action) - 🚀 GitHub action for deploying a Hexo project to GitHub pages.
-
-*   [Aranxu/NodePanels](https://github.com/Aranxu/NodePanels) - Nodepanels - 安全,私密,好用的云端服务器集群管理系统
-
-*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜
-
-*   [sunpma/mtp](https://github.com/sunpma/mtp) - MTProxy TLS 绿色版一键安装脚本
-
 ## CSS
 
 *   [LazyCreeper/LuoTianyi](https://github.com/LazyCreeper/LuoTianyi) - 宝塔面板洛天依主题
@@ -816,8 +823,6 @@
 
 *   [sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG known as PAL.
 
-*   [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
-
 ## TeX
 
 *   [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
@@ -833,8 +838,6 @@
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 
 *   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
-
-*   [cryptonotefoundation/cryptonote](https://github.com/cryptonotefoundation/cryptonote) - CryptoNote protocol implementation. This is the reference repository for starting a new CryptoNote currency. See /src/cryptonote\_config.h
 
 ## Rust
 

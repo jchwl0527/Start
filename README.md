@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C++](#c)
 *   [Shell](#shell)
 *   [Blade](#blade)
@@ -34,7 +35,6 @@
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
 *   [TeX](#tex)
-*   [Rust](#rust)
 *   [Java](#java)
 *   [Game Maker Language](#game-maker-language)
 *   [Classic ASP](#classic-asp)
@@ -48,6 +48,18 @@
 *   [Stylus](#stylus)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs\_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
+
+*   [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 
 ## C++
 
@@ -451,8 +463,6 @@
 
 *   [252860883/ArtQRCode](https://github.com/252860883/ArtQRCode) - :crystal\_ball:艺术二维码生成工具（Art QRcode productivity tool ）
 
-*   [Aunger-ops/Arena-Of-Valor-Battleboard](https://github.com/Aunger-ops/Arena-Of-Valor-Battleboard) - 《我的第一个开源项目》基于原生PHP开发的王者荣耀战绩板网页挂件，仅供学习娱乐用途。
-
 ## HTML
 
 *   [nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus) - 一个Material Design风格的探针
@@ -838,16 +848,6 @@
 ## TeX
 
 *   [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
-
-## Rust
-
-*   [ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
-
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 
 ## Java
 

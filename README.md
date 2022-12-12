@@ -214,7 +214,7 @@
 
 *   [AntSwordProject/ant](https://github.com/AntSwordProject/ant) - 实时上线的 XSS 盲打平台
 
-*   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Google Chrome 和 Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+*   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 
 *   [JavisPeng/taojinbi](https://github.com/JavisPeng/taojinbi) - 淘宝淘金币自动执行脚本，包含蚂蚁森林收取能量，芭芭农场全任务，解放你的双手
 
@@ -370,7 +370,7 @@
 
 ## HTML
 
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
 *   [ybw2016v/steam\_info\_page](https://github.com/ybw2016v/steam_info_page) - 一个用于展示steam库存与好友信息的页面
 

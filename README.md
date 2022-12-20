@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [HTML](#html)
 *   [Python](#python)
 *   [Rust](#rust)
@@ -31,7 +32,6 @@
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [C++](#c)
-*   [CSS](#css)
 *   [Lua](#lua)
 *   [Svelte](#svelte)
 *   [Game Maker Language](#game-maker-language)
@@ -50,6 +50,32 @@
 *   [Markdown](#markdown)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## CSS
+
+*   [nexmoe/wall-public](https://github.com/nexmoe/wall-public) - 一个基于 Vue.js 的匿名表白墙轻量级小程序
+
+*   [ylines/static-125](https://github.com/ylines/static-125) - Build a static blog generator in 125 lines of JS
+
+*   [LazyCreeper/LuoTianyi](https://github.com/LazyCreeper/LuoTianyi) - 宝塔面板洛天依主题
+
+*   [AyagawaSeirin/homepage](https://github.com/AyagawaSeirin/homepage) - 开坑我的个人主页
+
+*   [BlueSkyXN/96110](https://github.com/BlueSkyXN/96110) - 反诈中心想你了，喜欢我反诈中心吗
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
+
+*   [zkeq/Tuostudy-Short-url](https://github.com/zkeq/Tuostudy-Short-url) - 利用 404 原理的一个短链服务。（数据库已集成 OSS ， Notion's  Database ）
+
+*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
+
+*   [Xunzhuo/Coder](https://github.com/Xunzhuo/Coder) - A fast、pure、practical、elegant  Hexo theme for Developers  🔥🔥🔥
+
+*   [sanjinhub/hexo-theme-geek](https://github.com/sanjinhub/hexo-theme-geek) - 一个符合极客精神主义极简的 Hexo 主题
+
+*   [HFO4/HideByPixel](https://github.com/HFO4/HideByPixel) - 一个利用像素隐藏文字的程序
 
 ## HTML
 
@@ -511,8 +537,6 @@
 
 *   [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
 
-*   [Binaryify/vue-tetris](https://github.com/Binaryify/vue-tetris) - Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块
-
 ## Java
 
 *   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
@@ -717,7 +741,7 @@
 
 ## PHP
 
-*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款免费的数据采集发布爬虫软件，采用php+mysql开发，可部署在云服务器，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
+*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
 
 *   [kasuganosoras/SyncMusic](https://github.com/kasuganosoras/SyncMusic) - 🎵 PHP Swoole 开发的在线同步点歌台，支持自由点歌，切歌，调整排序，删除指定音乐以及基础权限分级
 
@@ -785,7 +809,7 @@
 
 ## C++
 
-*   [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
+*   [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 
 *   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
 
@@ -796,30 +820,6 @@
 *   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-## CSS
-
-*   [ylines/static-125](https://github.com/ylines/static-125) - Build a static blog generator in 125 lines of JS
-
-*   [LazyCreeper/LuoTianyi](https://github.com/LazyCreeper/LuoTianyi) - 宝塔面板洛天依主题
-
-*   [AyagawaSeirin/homepage](https://github.com/AyagawaSeirin/homepage) - 开坑我的个人主页
-
-*   [BlueSkyXN/96110](https://github.com/BlueSkyXN/96110) - 反诈中心想你了，喜欢我反诈中心吗
-
-*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-
-*   [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
-
-*   [zkeq/Tuostudy-Short-url](https://github.com/zkeq/Tuostudy-Short-url) - 利用 404 原理的一个短链服务。（数据库已集成 OSS ， Notion's  Database ）
-
-*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
-
-*   [Xunzhuo/Coder](https://github.com/Xunzhuo/Coder) - A fast、pure、practical、elegant  Hexo theme for Developers  🔥🔥🔥
-
-*   [sanjinhub/hexo-theme-geek](https://github.com/sanjinhub/hexo-theme-geek) - 一个符合极客精神主义极简的 Hexo 主题
-
-*   [HFO4/HideByPixel](https://github.com/HFO4/HideByPixel) - 一个利用像素隐藏文字的程序
 
 ## Lua
 

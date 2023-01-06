@@ -265,7 +265,7 @@
 
 *   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 
-*   [jynew/jynew](https://github.com/jynew/jynew) - 开源武侠RPG游戏开发框架
+*   [jynew/jynew](https://github.com/jynew/jynew) - An open source RPG Game Framework with full Modding support, base on Unity
 
 *   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 

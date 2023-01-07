@@ -265,7 +265,7 @@
 
 *   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 
-*   [jynew/jynew](https://github.com/jynew/jynew) - An open source RPG Game Framework with full Modding support, base on Unity
+*   [jynew/jynew](https://github.com/jynew/jynew) - JinYong Legend like Game Framework with full Modding support
 
 *   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
@@ -359,7 +359,7 @@
 
 *   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat
 
-*   [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Search books index, create your private local library.
 
 *   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
 

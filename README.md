@@ -47,7 +47,6 @@
 *   [Dart](#dart)
 *   [SCSS](#scss)
 *   [EJS](#ejs)
-*   [Standard ML](#standard-ml)
 *   [Markdown](#markdown)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
@@ -320,11 +319,13 @@
 
 *   [asche910/FreeWireless](https://github.com/asche910/FreeWireless) - 绕过校园网、公共热点认证，从而实现免费上网
 
-*   [islens/AdGuardHome](https://github.com/islens/AdGuardHome) - AdGuard Filter Rules.
+*   [unlorx/AdGuardHome](https://github.com/unlorx/AdGuardHome) - AdGuard Filter Rules.
 
 *   [Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD) - 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品
 
 *   [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) -
+
+*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 *   [Waikkii/Waikiki\_ninja](https://github.com/Waikkii/Waikiki_ninja) - 自用，仅为青龙变量添加工具
 
@@ -444,7 +445,7 @@
 
 *   [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 
-*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个向自架服务器同步Cookie的小工具，可以将浏览器的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
+*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 
 *   [liuquanhao/moyu](https://github.com/liuquanhao/moyu) - 墨鱼探针
 
@@ -678,7 +679,7 @@
 
 *   [ispacekid/ispacekid.github.io](https://github.com/ispacekid/ispacekid.github.io) - 本站点仅用于展示健康码模拟页面，并非本 Github 用户的个人网站。健康码模拟页面来源：https://github.com/ilovexjp/health-code-index
 
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
 *   [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
 
@@ -1107,10 +1108,6 @@
 ## EJS
 
 *   [ChenYFan/blog](https://github.com/ChenYFan/blog) - 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
-
-## Standard ML
-
-*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## Markdown
 

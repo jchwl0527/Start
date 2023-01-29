@@ -93,8 +93,6 @@
 
 *   [hx-w/qndxx](https://github.com/hx-w/qndxx) - 青年大学习截图生成
 
-*   [Zpipishrimp/EU](https://github.com/Zpipishrimp/EU) - 续签德鸡
-
 *   [GC-ZF/Comment-Backups](https://github.com/GC-ZF/Comment-Backups) - twikoo数据备份
 
 *   [hbstarjason/glados-checkin](https://github.com/hbstarjason/glados-checkin) -
@@ -137,7 +135,7 @@
 
 *   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 
-*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口
+*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。
 
 *   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
 
@@ -169,8 +167,6 @@
 
 *   [jchwl0527/glados-checkin](https://github.com/jchwl0527/glados-checkin) - 自动签到，自动续期，高速富强
 
-*   [o0oo0ooo0/EUserv\_extend](https://github.com/o0oo0ooo0/EUserv_extend) - 使用腾讯云函数自动续期EUserv免费IPv6 VPS脚本
-
 *   [ring04h/wydomain](https://github.com/ring04h/wydomain) - to discover subdomains of your target domain
 
 *   [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
@@ -188,8 +184,6 @@
 *   [qianmianyao/python\_learn](https://github.com/qianmianyao/python_learn) - python练习作品
 
 *   [YG-tsj/EUserv-Renew](https://github.com/YG-tsj/EUserv-Renew) -
-
-*   [weiyouwozuiku/EUservAutoCheck](https://github.com/weiyouwozuiku/EUservAutoCheck) - 本地运行自动续期EUserv免费IPv6 VPS脚本
 
 *   [sunhanaix/SyncXiaomiCloud](https://github.com/sunhanaix/SyncXiaomiCloud) - Sync Down XiaoMi Cloud's photoes,videos,audios,SMS,contacts
 
@@ -220,6 +214,8 @@
 *   [SycAlright/Scrapy](https://github.com/SycAlright/Scrapy) - Scrapy
 
 *   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
+
+*   [cokemine/EUserv\_extend](https://github.com/cokemine/EUserv_extend) - A simple Python Script help you renew free EUserv IPv6 VPS
 
 ## miscellaneous
 
@@ -795,6 +791,8 @@
 
 *   [shiningw/pdns-symfony](https://github.com/shiningw/pdns-symfony) - A Symfony-based web management interface for Powerdns
 
+*   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
+
 ## Shell
 
 *   [jchwl0527/GLaDOS-checkin-2](https://github.com/jchwl0527/GLaDOS-checkin-2) - GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。
@@ -1084,6 +1082,8 @@
 *   [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 
 *   [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+
+*   [sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG known as PAL.
 
 ## TeX
 

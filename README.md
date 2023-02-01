@@ -549,7 +549,7 @@
 
 *   [tina-hello/doh-cf-pages](https://github.com/tina-hello/doh-cf-pages) - DNS-over-HTTPS proxy on Cloudflare Pages
 
-*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight xray panel with multi-protocol and multi-user on the same port,support English with telegram bot.
+*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and telegram bot.
 
 *   [jchwl0527/umami](https://github.com/jchwl0527/umami) - 自建网站统计
 
@@ -1045,7 +1045,7 @@
 
 ## Lua
 
-*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 低成本短信转发器
+*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本短信转发器，最低只需29.9块即可实现功能
 
 ## Svelte
 

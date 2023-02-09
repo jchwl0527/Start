@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [C#](#c)
 *   [Shell](#shell)
@@ -23,7 +24,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [C++](#c-1)
-*   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Stylus](#stylus)
 *   [PHP](#php)
@@ -50,6 +50,52 @@
 *   [Markdown](#markdown)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 小程序——元素周期表Pro，高颜值化学必备小工具
+
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
+
+*   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
+
+*   [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
+
+*   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+
+*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
+
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
+
+*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
+
+*   [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
+
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+
+*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
+
+*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
+
+*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
+
+*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
+
+*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
+
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+
+*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+
+*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
+
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 
 ## JavaScript
 
@@ -336,8 +382,6 @@
 *   [Aranxu/NodePanels](https://github.com/Aranxu/NodePanels) - Nodepanels - 安全,私密,好用的云端服务器集群管理系统
 
 *   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜
-
-*   [sunpma/mtp](https://github.com/sunpma/mtp) - MTProxy TLS 绿色版一键安装脚本
 
 ## Python
 
@@ -674,50 +718,6 @@
 *   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 *   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-## TypeScript
-
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
-
-*   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
-
-*   [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
-
-*   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-
-*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
-
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
-
-*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
-
-*   [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
-
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
-
-*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
-
-*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
-
-*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
-
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
-
-*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
-
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-
-*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 
 ## HTML
 

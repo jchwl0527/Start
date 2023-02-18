@@ -388,8 +388,6 @@
 
 *   [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao) - \[当前版本: 20230111] Qiandao —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
 *   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 
 *   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
@@ -549,6 +547,8 @@
 ## miscellaneous
 
 *   [qiandao-today/templates](https://github.com/qiandao-today/templates) - 基于开源新版签到框架站发布的公共har模板库，仅供示例
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
 *   [MicroCBer/BetterCEF](https://github.com/MicroCBer/BetterCEF) - 通用 CEF 注入器
 
@@ -1102,7 +1102,7 @@
 
 ## Assembly
 
-*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🥤 Git/AWS/Google 镜像 ,行业研究报告的知识储备库
 
 ## SCSS
 

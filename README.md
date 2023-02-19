@@ -45,7 +45,6 @@
 *   [Classic ASP](#classic-asp)
 *   [Perl](#perl)
 *   [Dart](#dart)
-*   [Assembly](#assembly)
 *   [SCSS](#scss)
 *   [EJS](#ejs)
 *   [Markdown](#markdown)
@@ -460,6 +459,8 @@
 
 *   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 
+*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
+
 *   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
 
 *   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
@@ -796,7 +797,7 @@
 
 *   [CangShui/CloudflareCustomPages](https://github.com/CangShui/CloudflareCustomPages) - My Cloudflare Custom Pages ,It is Beautiful!
 
-*   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 内网
+*   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 内网横向
 
 *   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 
@@ -1099,10 +1100,6 @@
 ## Dart
 
 *   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
-
-## Assembly
-
-*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🥤 Git/AWS/Google 镜像 ,行业研究报告的知识储备库
 
 ## SCSS
 

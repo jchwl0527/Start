@@ -273,7 +273,7 @@
 
 *   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 小程序——元素周期表Pro，高颜值化学必备小工具
 
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 
 *   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
 
@@ -317,7 +317,7 @@
 
 ## C\#
 
-*   [JDDKCN/SMSBoomGUI](https://github.com/JDDKCN/SMSBoomGUI) - 此项目是给短信轰炸软件 "SMSBoom" 写的GUI界面，UI美观，操作简洁。使用C#编写。
+*   [JDDKCN/SMSBoomGUI](https://github.com/JDDKCN/SMSBoomGUI) - 此项目是给短信轰炸软件 "SMSBoom" 写的GUI界面，使用C#编写。
 
 *   [zqhong/RyzenTuner](https://github.com/zqhong/RyzenTuner) - A tool that supports adjusting the power limit of Ryzen mobile processors and the QoS level and priority of Windows processes
 
@@ -414,6 +414,8 @@
 ## Python
 
 *   [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao) - \[当前版本: 20230111] Qiandao —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
 *   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 
@@ -574,8 +576,6 @@
 ## miscellaneous
 
 *   [qiandao-today/templates](https://github.com/qiandao-today/templates) - 基于开源新版签到框架站发布的公共har模板库，仅供示例
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
 *   [ZGQ-inc/special-ascii](https://github.com/ZGQ-inc/special-ascii) - :symbols:ASCII特殊字符合集
 
@@ -1101,7 +1101,7 @@
 
 ## PowerShell
 
-*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
+*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C/QuanX网络链 ，行业研究报告的知识储备库
 
 *   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
 

@@ -1101,7 +1101,7 @@
 
 ## PowerShell
 
-*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链，行业研究报告的知识储备库
+*   [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 
 *   [k8gege/K8tools](https://github.com/k8gege/K8tools) - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
 

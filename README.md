@@ -53,6 +53,10 @@
 
 ## JavaScript
 
+*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
+
+*   [laukeng/snapchat](https://github.com/laukeng/snapchat) -
+
 *   [mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH\&webSFTP)
@@ -265,7 +269,7 @@
 
 *   [jiix/plugins](https://github.com/jiix/plugins) - xiuno bbs插件、主题收集，欢迎提交。
 
-*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
+*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 
 *   [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
 
@@ -419,7 +423,7 @@
 
 *   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
 
-*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
+*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！三分钟上线 chatGPT 应用！
 
 *   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
 
@@ -696,10 +700,6 @@
 *   [EssayKillerBrain/WriteGPT](https://github.com/EssayKillerBrain/WriteGPT) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
 *   [zhjc1124/ssr\_autocheckin](https://github.com/zhjc1124/ssr_autocheckin) - 适用于sspanel自动签到脚本
-
-*   [SycAlright/Scrapy](https://github.com/SycAlright/Scrapy) - Scrapy
-
-*   [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 
 ## miscellaneous
 

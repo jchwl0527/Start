@@ -53,7 +53,7 @@
 
 ## C
 
-*   [nlzy/nsproxy](https://github.com/nlzy/nsproxy) - A command-line tool that force applications to use a specific SOCKS5 or HTTP proxy.
+*   [nlzy/nsproxy](https://github.com/nlzy/nsproxy) - A command-line tool that force applications to use SOCKS5 or HTTP proxy.
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 

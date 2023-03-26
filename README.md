@@ -323,7 +323,7 @@
 
 *   [koalabearguo/php-proxy](https://github.com/koalabearguo/php-proxy) - php proxy based on GoAgent protocal,Implemented by golang
 
-*   [zu1k/proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
+*   [zu1k/proxypool](https://github.com/zu1k/proxypool) -
 
 *   [TeaWeb/build](https://github.com/TeaWeb/build) -  TeaWeb-可视化的Web代理服务。DEMO: http://teaos.cn:7777
 
@@ -939,7 +939,7 @@
 
 ## Rust
 
-*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 BetterCEF
+*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 BetterNCM
 
 *   [veoco/rumo](https://github.com/veoco/rumo) - 博客后端程序
 

@@ -393,7 +393,7 @@
 
 *   [ConardLi/openai-nodejs-demo](https://github.com/ConardLi/openai-nodejs-demo) - A project that uses koa framework and openai library to generate images automatically.
 
-*   [DevHaoZi/Panel](https://github.com/DevHaoZi/Panel) - （镜像）耗子Linux面板
+*   [HaoZi-Team/Panel](https://github.com/HaoZi-Team/Panel) - （镜像）耗子Linux面板
 
 *   [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - A pastebin based on Cloudflare worker, with friendly CLI usage and rich features
 
@@ -721,7 +721,7 @@
 
 *   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
 
-*   [DevHaoZi/Panel\_Scripts](https://github.com/DevHaoZi/Panel_Scripts) - （镜像）耗子Linux面板 - 脚本
+*   [HaoZi-Team/Panel\_Scripts](https://github.com/HaoZi-Team/Panel_Scripts) - （镜像）耗子Linux面板 - 脚本
 
 *   [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
 
@@ -1075,7 +1075,7 @@
 
 *   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 
-*   [DevHaoZi/Panel\_Plugins](https://github.com/DevHaoZi/Panel_Plugins) - （镜像）耗子Linux面板 - 插件
+*   [HaoZi-Team/Panel\_Plugins](https://github.com/HaoZi-Team/Panel_Plugins) - （镜像）耗子Linux面板 - 插件
 
 ## Dockerfile
 

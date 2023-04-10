@@ -554,7 +554,7 @@
 
 ## Solidity
 
-*   [Project-DARC/DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system.
+*   [Project-DARC/DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a compay virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
 
 ## JavaScript
 

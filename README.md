@@ -418,7 +418,7 @@
 
 *   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
-*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用websocket协议
+*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议
 
 *   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
 

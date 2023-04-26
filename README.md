@@ -16,13 +16,13 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
-*   [C](#c)
 *   [Python](#python)
 *   [Solidity](#solidity)
 *   [HTML](#html)
@@ -51,6 +51,20 @@
 *   [EJS](#ejs)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## C
+
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+*   [imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
+
+*   [nlzy/nsproxy](https://github.com/nlzy/nsproxy) - A command-line tool that force applications to use SOCKS5 or HTTP proxy.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+
+*   [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 
 ## JavaScript
 
@@ -110,7 +124,7 @@
 
 *   [tina-hello/doh-cf-pages](https://github.com/tina-hello/doh-cf-pages) - DNS-over-HTTPS proxy on Cloudflare Pages
 
-*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and telegram bot.
+*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use And Easy to manage.
 
 *   [jchwl0527/umami](https://github.com/jchwl0527/umami) - 自建网站统计
 
@@ -376,8 +390,6 @@
 
 *   [7ednet/yard](https://github.com/7ednet/yard) -
 
-*   [jchwl0527/Any-Proxy](https://github.com/jchwl0527/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
-
 ## Shell
 
 *   [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
@@ -573,18 +585,6 @@
 *   [bigmao1/AntiZhaPian](https://github.com/bigmao1/AntiZhaPian) - 假的反诈中心
 
 *   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-## C
-
-*   [imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
-
-*   [nlzy/nsproxy](https://github.com/nlzy/nsproxy) - A command-line tool that force applications to use SOCKS5 or HTTP proxy.
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-
-*   [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 
 ## Python
 

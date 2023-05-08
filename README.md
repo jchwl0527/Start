@@ -16,15 +16,16 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [Shell](#shell)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [C#](#c)
 *   [C](#c-1)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
+*   [Lua](#lua)
 *   [Kotlin](#kotlin)
-*   [Python](#python)
 *   [Solidity](#solidity)
 *   [HTML](#html)
 *   [PHP](#php)
@@ -37,7 +38,6 @@
 *   [R](#r)
 *   [Brainfuck](#brainfuck)
 *   [Roff](#roff)
-*   [Lua](#lua)
 *   [Svelte](#svelte)
 *   [Game Maker Language](#game-maker-language)
 *   [Blade](#blade)
@@ -52,11 +52,235 @@
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
 
+## Python
+
+*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.
+
+*   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
+
+*   [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao) - \[当前版本: 20230430] Qiandao —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+
+*   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
+
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+*   [cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。
+
+*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+
+*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议
+
+*   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [Jonathan-Ye/A-crawler-of-people-s-daily](https://github.com/Jonathan-Ye/A-crawler-of-people-s-daily) -
+
+*   [limoruirui/misaka](https://github.com/limoruirui/misaka) - 开源的一些乱七八糟的东西
+
+*   [jchwl0527/PythonEva](https://github.com/jchwl0527/PythonEva) - 我的Python学习笔记
+
+*   [jchwl0527/Comment-Backups](https://github.com/jchwl0527/Comment-Backups) - twikoo数据备份
+
+*   [bitcartcc/bitcart](https://github.com/bitcartcc/bitcart) - https://bitcartcc.com
+
+*   [FengQuanLi/WZCQ](https://github.com/FengQuanLi/WZCQ) - 用基于策略梯度得强化学习方法训练AI玩王者荣耀
+
+*   [ButterAndButterfly/GithubHost](https://github.com/ButterAndButterfly/GithubHost) - 提供最新的GithubHost文件，解决github图片无法访问的问题。
+
+*   [hx-w/qndxx](https://github.com/hx-w/qndxx) - 青年大学习截图生成
+
+*   [GC-ZF/Comment-Backups](https://github.com/GC-ZF/Comment-Backups) - twikoo数据备份
+
+*   [hbstarjason/glados-checkin](https://github.com/hbstarjason/glados-checkin) -
+
+*   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
+
+*   [tyIceStream/GLaDOS\_Checkin](https://github.com/tyIceStream/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
+
+*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+
+*   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+
+*   [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
+
+*   [Andysun06/ddos](https://github.com/Andysun06/ddos) - python3.X实现ddos攻击的脚本
+
+*   [ghealer/GUI\_Tools](https://github.com/ghealer/GUI_Tools) - 一个由各种图形化渗透工具组成的工具集
+
+*   [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
+
+*   [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
+
+*   [biancangming/wtv](https://github.com/biancangming/wtv) - 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
+
+*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
+
+*   [abdulkadir-gungor/JPGtoMalware](https://github.com/abdulkadir-gungor/JPGtoMalware) - It embeds the executable file or payload inside the jpg file.  The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in the JPG file.  The JPG file size and payload do not have to be proportional.The JPG file is displayed normally in any viewing application or web application. It can bypass various security programs such as firewall, antivirus. If the file is examined in detail, it is easier to detect than steganography methods. However, since the payload in the JPG file is encrypted, it cannot be easily decrypted. It also uses the "garbage code insertion/dead-code insertion" method to prevent the payload from being caught by the antivirus at runtime.
+
+*   [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
+
+*   [moxun33/real-url](https://github.com/moxun33/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
+
+*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+
+*   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
+
+*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+
+*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。
+
+*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
+
+*   [admintony/Digger](https://github.com/admintony/Digger) - 从百度爬取子域名
+
+*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
+
+*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+
+*   [LnYo-Cly/ChaoXingAutoSign](https://github.com/LnYo-Cly/ChaoXingAutoSign) - 超*星*学*习*通\*自动签到（ChaoXingAutoSign）
+
+*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
+
+*   [luminoleon/epicgames-claimer](https://github.com/luminoleon/epicgames-claimer) - 自动领取Epic游戏商城每周免费游戏。
+
+*   [RimoChan/yinglish](https://github.com/RimoChan/yinglish) - 【yinglish】淫语翻译机！
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+
+*   [drcoms/drcom-generic](https://github.com/drcoms/drcom-generic) - Dr.COM/DrCOM 现已覆盖 d p x三版。
+
+*   [hongwenjun/vps\_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
+
+*   [jchwl0527/glados-checkin](https://github.com/jchwl0527/glados-checkin) - 自动签到，自动续期，高速富强
+
+*   [ring04h/wydomain](https://github.com/ring04h/wydomain) - to discover subdomains of your target domain
+
+*   [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
+
+*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+
+*   [haoduck/E5Renew](https://github.com/haoduck/E5Renew) -
+
+*   [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
+
+*   [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
+
+*   [dengxiuqi/Lyricist-torch](https://github.com/dengxiuqi/Lyricist-torch) - 中文歌词生成, Pytorch, Seq2Seq, Luong注意力, 按不同歌手风格生成歌词
+
+*   [qianmianyao/python\_learn](https://github.com/qianmianyao/python_learn) - python练习作品
+
+*   [YG-tsj/EUserv-Renew](https://github.com/YG-tsj/EUserv-Renew) -
+
+*   [sunhanaix/SyncXiaomiCloud](https://github.com/sunhanaix/SyncXiaomiCloud) - Sync Down XiaoMi Cloud's photoes,videos,audios,SMS,contacts
+
+*   [gaowanliang/OneDriveShareLinkPushAria2](https://github.com/gaowanliang/OneDriveShareLinkPushAria2) - Extract download URLs from OneDrive or SharePoint share links and push them to aria2, even on systems without a GUI.
+
+*   [kolbwang/cc-attack](https://github.com/kolbwang/cc-attack) -
+
+*   [sheepzh/poetry](https://github.com/sheepzh/poetry) - 汉语现代诗歌语料库整理，3489诗人，81.7K诗歌，15.43M字。持续扩充...
+
+*   [yellowbins/auto\_EUserv](https://github.com/yellowbins/auto_EUserv) -
+
+*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+
+*   [aLuvletter/pt\_res](https://github.com/aLuvletter/pt_res) - PT签到助手
+
+*   [lhllhx/PT\_signin](https://github.com/lhllhx/PT_signin) - Pt站点的自动签到和数据统计
+
+*   [yaokui2018/grade\_statistics](https://github.com/yaokui2018/grade_statistics) - 使用pyqt5开发的小学生成绩管理系统。实现：管理员登录、学生管理、成绩管理、班级管理
+
+*   [BlueSkyXN/CCATK](https://github.com/BlueSkyXN/CCATK) - 高度自动化CC脚本
+
+## Shell
+
+*   [zhucaidan/btpanel-v7.7.0](https://github.com/zhucaidan/btpanel-v7.7.0) - btpanel-v7.7.0-backup
+
+*   [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
+
+*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
+
+*   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
+
+*   [jchwl0527/GLaDOS-checkin-2](https://github.com/jchwl0527/GLaDOS-checkin-2) - GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。
+
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+
+*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
+
+*   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
+
+*   [HaoZi-Team/Panel\_Scripts](https://github.com/HaoZi-Team/Panel_Scripts) - （镜像）耗子Linux面板 - 脚本
+
+*   [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
+
+*   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
+
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(主体已完善，历史遗留问题解决时间未知)(VPS Fusion Monster Server Test Script)
+
+*   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
+
+*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) -
+
+*   [ellermister/free-backup](https://github.com/ellermister/free-backup) - Backup files to the cloud for free https://t.me/ellerhk
+
+*   [haoduck/dd](https://github.com/haoduck/dd) -
+
+*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
+
+*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+
+*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
+
+*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
+
+*   [nieaowei/campus-network-unlock](https://github.com/nieaowei/campus-network-unlock) - 基于VPN端口转发突破校园网限制，破解校园网，傻瓜式Docker容器部署
+
+*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
+
+*   [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
+
+*   [kkkyg/CFwarp](https://github.com/kkkyg/CFwarp) - Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…
+
+*   [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
+
+*   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
+
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP\_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、八合一共存脚本
+
+*   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
+
+*   [kolbwang/pentmenu](https://github.com/kolbwang/pentmenu) - pentmenu汉化版
+
+*   [YG-tsj/Netflix-Check](https://github.com/YG-tsj/Netflix-Check) - 只检测奈非Netflix在当前IPV4、IPV6下是否全解锁！
+
+*   [YG-tsj/EUserv-warp](https://github.com/YG-tsj/EUserv-warp) - EUserv德鸡纯IPV6 VPS添加WARP三模式脚本（双栈IPV6+IPV4、单IPV4、单IPV6）
+
 ## Go
 
 *   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 
@@ -165,8 +389,6 @@
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 *   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
 
 ## C\#
 
@@ -528,75 +750,11 @@
 
 *   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
 
-*   [7ednet/yard](https://github.com/7ednet/yard) -
+## Lua
 
-## Shell
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
-*   [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
-
-*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
-
-*   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
-
-*   [jchwl0527/GLaDOS-checkin-2](https://github.com/jchwl0527/GLaDOS-checkin-2) - GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。
-
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-
-*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
-
-*   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
-
-*   [HaoZi-Team/Panel\_Scripts](https://github.com/HaoZi-Team/Panel_Scripts) - （镜像）耗子Linux面板 - 脚本
-
-*   [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
-
-*   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
-
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(主体已完善，历史遗留问题解决时间未知)(VPS Fusion Monster Server Test Script)
-
-*   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
-
-*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) -
-
-*   [ellermister/free-backup](https://github.com/ellermister/free-backup) - Backup files to the cloud for free https://t.me/ellerhk
-
-*   [haoduck/dd](https://github.com/haoduck/dd) -
-
-*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
-
-*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-
-*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
-
-*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
-
-*   [nieaowei/campus-network-unlock](https://github.com/nieaowei/campus-network-unlock) - 基于VPN端口转发突破校园网限制，破解校园网，傻瓜式Docker容器部署
-
-*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
-
-*   [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
-
-*   [kkkyg/CFwarp](https://github.com/kkkyg/CFwarp) - Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…
-
-*   [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
-
-*   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP\_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、八合一共存脚本
-
-*   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
-
-*   [kolbwang/pentmenu](https://github.com/kolbwang/pentmenu) - pentmenu汉化版
-
-*   [YG-tsj/Netflix-Check](https://github.com/YG-tsj/Netflix-Check) - 只检测奈非Netflix在当前IPV4、IPV6下是否全解锁！
-
-*   [YG-tsj/EUserv-warp](https://github.com/YG-tsj/EUserv-warp) - EUserv德鸡纯IPV6 VPS添加WARP三模式脚本（双栈IPV6+IPV4、单IPV4、单IPV6）
+*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，只需29.9
 
 ## Kotlin
 
@@ -611,160 +769,6 @@
 *   [bigmao1/AntiZhaPian](https://github.com/bigmao1/AntiZhaPian) - 假的反诈中心
 
 *   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-## Python
-
-*   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
-
-*   [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao) - \[当前版本: 20230430] Qiandao —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-
-*   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
-
-*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
-
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
-*   [cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。
-
-*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议
-
-*   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
-
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
-*   [Jonathan-Ye/A-crawler-of-people-s-daily](https://github.com/Jonathan-Ye/A-crawler-of-people-s-daily) -
-
-*   [limoruirui/misaka](https://github.com/limoruirui/misaka) - 开源的一些乱七八糟的东西
-
-*   [jchwl0527/PythonEva](https://github.com/jchwl0527/PythonEva) - 我的Python学习笔记
-
-*   [jchwl0527/Comment-Backups](https://github.com/jchwl0527/Comment-Backups) - twikoo数据备份
-
-*   [bitcartcc/bitcart](https://github.com/bitcartcc/bitcart) - https://bitcartcc.com
-
-*   [FengQuanLi/WZCQ](https://github.com/FengQuanLi/WZCQ) - 用基于策略梯度得强化学习方法训练AI玩王者荣耀
-
-*   [ButterAndButterfly/GithubHost](https://github.com/ButterAndButterfly/GithubHost) - 提供最新的GithubHost文件，解决github图片无法访问的问题。
-
-*   [hx-w/qndxx](https://github.com/hx-w/qndxx) - 青年大学习截图生成
-
-*   [GC-ZF/Comment-Backups](https://github.com/GC-ZF/Comment-Backups) - twikoo数据备份
-
-*   [hbstarjason/glados-checkin](https://github.com/hbstarjason/glados-checkin) -
-
-*   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
-
-*   [tyIceStream/GLaDOS\_Checkin](https://github.com/tyIceStream/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
-
-*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
-
-*   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-
-*   [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
-
-*   [Andysun06/ddos](https://github.com/Andysun06/ddos) - python3.X实现ddos攻击的脚本
-
-*   [ghealer/GUI\_Tools](https://github.com/ghealer/GUI_Tools) - 一个由各种图形化渗透工具组成的工具集
-
-*   [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
-
-*   [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
-
-*   [biancangming/wtv](https://github.com/biancangming/wtv) - 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
-
-*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
-
-*   [abdulkadir-gungor/JPGtoMalware](https://github.com/abdulkadir-gungor/JPGtoMalware) - It embeds the executable file or payload inside the jpg file.  The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in the JPG file.  The JPG file size and payload do not have to be proportional.The JPG file is displayed normally in any viewing application or web application. It can bypass various security programs such as firewall, antivirus. If the file is examined in detail, it is easier to detect than steganography methods. However, since the payload in the JPG file is encrypted, it cannot be easily decrypted. It also uses the "garbage code insertion/dead-code insertion" method to prevent the payload from being caught by the antivirus at runtime.
-
-*   [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
-
-*   [moxun33/real-url](https://github.com/moxun33/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
-
-*   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
-
-*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
-
-*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。
-
-*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
-
-*   [admintony/Digger](https://github.com/admintony/Digger) - 从百度爬取子域名
-
-*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
-
-*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-
-*   [LnYo-Cly/ChaoXingAutoSign](https://github.com/LnYo-Cly/ChaoXingAutoSign) - 超*星*学*习*通\*自动签到（ChaoXingAutoSign）
-
-*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
-
-*   [luminoleon/epicgames-claimer](https://github.com/luminoleon/epicgames-claimer) - 自动领取Epic游戏商城每周免费游戏。
-
-*   [RimoChan/yinglish](https://github.com/RimoChan/yinglish) - 【yinglish】淫语翻译机！
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-
-*   [drcoms/drcom-generic](https://github.com/drcoms/drcom-generic) - Dr.COM/DrCOM 现已覆盖 d p x三版。
-
-*   [hongwenjun/vps\_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
-
-*   [jchwl0527/glados-checkin](https://github.com/jchwl0527/glados-checkin) - 自动签到，自动续期，高速富强
-
-*   [ring04h/wydomain](https://github.com/ring04h/wydomain) - to discover subdomains of your target domain
-
-*   [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
-
-*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-
-*   [haoduck/E5Renew](https://github.com/haoduck/E5Renew) -
-
-*   [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
-
-*   [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
-
-*   [dengxiuqi/Lyricist-torch](https://github.com/dengxiuqi/Lyricist-torch) - 中文歌词生成, Pytorch, Seq2Seq, Luong注意力, 按不同歌手风格生成歌词
-
-*   [qianmianyao/python\_learn](https://github.com/qianmianyao/python_learn) - python练习作品
-
-*   [YG-tsj/EUserv-Renew](https://github.com/YG-tsj/EUserv-Renew) -
-
-*   [sunhanaix/SyncXiaomiCloud](https://github.com/sunhanaix/SyncXiaomiCloud) - Sync Down XiaoMi Cloud's photoes,videos,audios,SMS,contacts
-
-*   [gaowanliang/OneDriveShareLinkPushAria2](https://github.com/gaowanliang/OneDriveShareLinkPushAria2) - Extract download URLs from OneDrive or SharePoint share links and push them to aria2, even on systems without a GUI.
-
-*   [kolbwang/cc-attack](https://github.com/kolbwang/cc-attack) -
-
-*   [sheepzh/poetry](https://github.com/sheepzh/poetry) - 汉语现代诗歌语料库整理，3489诗人，81.7K诗歌，15.43M字。持续扩充...
-
-*   [yellowbins/auto\_EUserv](https://github.com/yellowbins/auto_EUserv) -
-
-*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-
-*   [aLuvletter/pt\_res](https://github.com/aLuvletter/pt_res) - PT签到助手
-
-*   [lhllhx/PT\_signin](https://github.com/lhllhx/PT_signin) - Pt站点的自动签到和数据统计
-
-*   [yaokui2018/grade\_statistics](https://github.com/yaokui2018/grade_statistics) - 使用pyqt5开发的小学生成绩管理系统。实现：管理员登录、学生管理、成绩管理、班级管理
-
-*   [BlueSkyXN/CCATK](https://github.com/BlueSkyXN/CCATK) - 高度自动化CC脚本
 
 ## Solidity
 
@@ -1006,7 +1010,7 @@
 
 *   [iiop123/workers-image-hosting](https://github.com/iiop123/workers-image-hosting) - cloudflare worker简易图床
 
-*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 用于展示各种信息的桌面小组件
+*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 展示信息的桌面小组件
 
 *   [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li) - 🦊 huli.li 网页的源码，使用 Vue-ts 开发
 
@@ -1053,10 +1057,6 @@
 ## Roff
 
 *   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
-
-## Lua
-
-*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，只需29.9
 
 ## Svelte
 

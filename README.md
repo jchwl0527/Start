@@ -24,7 +24,6 @@
 *   [C](#c-1)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [Lua](#lua)
 *   [Kotlin](#kotlin)
 *   [Solidity](#solidity)
 *   [HTML](#html)
@@ -38,6 +37,7 @@
 *   [R](#r)
 *   [Brainfuck](#brainfuck)
 *   [Roff](#roff)
+*   [Lua](#lua)
 *   [Svelte](#svelte)
 *   [Game Maker Language](#game-maker-language)
 *   [Blade](#blade)
@@ -53,6 +53,8 @@
 *   [Thanks](#thanks)
 
 ## Python
+
+*   [Oreomeow/warpplus](https://github.com/Oreomeow/warpplus) - Get WARP+ referral quota and notify users with Telegram Bot
 
 *   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.
 
@@ -281,6 +283,8 @@
 ## Go
 
 *   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
+
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 
 *   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 
@@ -748,14 +752,6 @@
 
 *   [dylanderick/nezha](https://github.com/dylanderick/nezha) - :trollface: 哪吒面板 可能是最优秀的探针了
 
-*   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
-
-## Lua
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，只需29.9
-
 ## Kotlin
 
 *   [Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat) - 这是一个微信 Xposed 模块，她可以隐藏特定用户的聊天记录，防止私密的聊天被第三人偷看
@@ -1010,7 +1006,7 @@
 
 *   [iiop123/workers-image-hosting](https://github.com/iiop123/workers-image-hosting) - cloudflare worker简易图床
 
-*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 展示信息的桌面小组件
+*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 展示各种信息的桌面小组件
 
 *   [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li) - 🦊 huli.li 网页的源码，使用 Vue-ts 开发
 
@@ -1057,6 +1053,10 @@
 ## Roff
 
 *   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+
+## Lua
+
+*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，只需29.9
 
 ## Svelte
 

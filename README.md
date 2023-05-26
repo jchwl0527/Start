@@ -16,21 +16,21 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [Java](#java)
+*   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
-*   [TypeScript](#typescript)
 *   [Vue](#vue)
-*   [Python](#python)
 *   [C#](#c-1)
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
 *   [Solidity](#solidity)
 *   [HTML](#html)
 *   [PHP](#php)
-*   [Java](#java)
 *   [Rust](#rust)
 *   [Stylus](#stylus)
 *   [CSS](#css)
@@ -50,6 +50,248 @@
 *   [EJS](#ejs)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [DavidBuchanan314/tweetable-polyglot-png](https://github.com/DavidBuchanan314/tweetable-polyglot-png) - Pack up to 3MB of data into a tweetable PNG polyglot file.
+
+*   [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
+
+*   [LawRefBook/Laws](https://github.com/LawRefBook/Laws) -
+
+*   [Oreomeow/warpplus](https://github.com/Oreomeow/warpplus) - Get WARP+ referral quota and notify users with Telegram Bot
+
+*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.
+
+*   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
+
+*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+
+*   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
+
+*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
+
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+*   [cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。
+
+*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+
+*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议
+
+*   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [Jonathan-Ye/A-crawler-of-people-s-daily](https://github.com/Jonathan-Ye/A-crawler-of-people-s-daily) -
+
+*   [limoruirui/misaka](https://github.com/limoruirui/misaka) - 开源的一些乱七八糟的东西
+
+*   [jchwl0527/PythonEva](https://github.com/jchwl0527/PythonEva) - 我的Python学习笔记
+
+*   [jchwl0527/Comment-Backups](https://github.com/jchwl0527/Comment-Backups) - twikoo数据备份
+
+*   [bitcartcc/bitcart](https://github.com/bitcartcc/bitcart) - https://bitcartcc.com
+
+*   [FengQuanLi/WZCQ](https://github.com/FengQuanLi/WZCQ) - 用基于策略梯度得强化学习方法训练AI玩王者荣耀
+
+*   [ButterAndButterfly/GithubHost](https://github.com/ButterAndButterfly/GithubHost) - 提供最新的GithubHost文件，解决github图片无法访问的问题。
+
+*   [hx-w/qndxx](https://github.com/hx-w/qndxx) - 青年大学习截图生成
+
+*   [GC-ZF/Comment-Backups](https://github.com/GC-ZF/Comment-Backups) - twikoo数据备份
+
+*   [hbstarjason/glados-checkin](https://github.com/hbstarjason/glados-checkin) -
+
+*   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
+
+*   [tyIceStream/GLaDOS\_Checkin](https://github.com/tyIceStream/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
+
+*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+
+*   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+
+*   [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
+
+*   [Andysun06/ddos](https://github.com/Andysun06/ddos) - python3.X实现ddos攻击的脚本
+
+*   [ghealer/GUI\_Tools](https://github.com/ghealer/GUI_Tools) - 一个由各种图形化渗透工具组成的工具集
+
+*   [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
+
+*   [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
+
+*   [biancangming/wtv](https://github.com/biancangming/wtv) - 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
+
+*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
+
+*   [abdulkadir-gungor/JPGtoMalware](https://github.com/abdulkadir-gungor/JPGtoMalware) - It embeds the executable file or payload inside the jpg file.  The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in the JPG file.  The JPG file size and payload do not have to be proportional.The JPG file is displayed normally in any viewing application or web application. It can bypass various security programs such as firewall, antivirus. If the file is examined in detail, it is easier to detect than steganography methods. However, since the payload in the JPG file is encrypted, it cannot be easily decrypted. It also uses the "garbage code insertion/dead-code insertion" method to prevent the payload from being caught by the antivirus at runtime.
+
+*   [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
+
+*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
+
+*   [moxun33/real-url](https://github.com/moxun33/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
+
+*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️“城中村哈姆雷特”，ChatGPT、系统环境各类镜像、重点高校及科研机构社科研究学术论文知识链接库
+
+*   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
+
+*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+
+*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。
+
+*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
+
+*   [admintony/Digger](https://github.com/admintony/Digger) - 从百度爬取子域名
+
+*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
+
+*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+
+*   [LnYo-Cly/ChaoXingAutoSign](https://github.com/LnYo-Cly/ChaoXingAutoSign) - 超*星*学*习*通\*自动签到（ChaoXingAutoSign）
+
+*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
+
+*   [luminoleon/epicgames-claimer](https://github.com/luminoleon/epicgames-claimer) - 自动领取Epic游戏商城每周免费游戏。
+
+*   [RimoChan/yinglish](https://github.com/RimoChan/yinglish) - 【yinglish】淫语翻译机！
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+
+*   [drcoms/drcom-generic](https://github.com/drcoms/drcom-generic) - Dr.COM/DrCOM 现已覆盖 d p x三版。
+
+*   [hongwenjun/vps\_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
+
+*   [jchwl0527/glados-checkin](https://github.com/jchwl0527/glados-checkin) - 自动签到，自动续期，高速富强
+
+*   [ring04h/wydomain](https://github.com/ring04h/wydomain) - to discover subdomains of your target domain
+
+*   [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
+
+*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+
+*   [haoduck/E5Renew](https://github.com/haoduck/E5Renew) -
+
+*   [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
+
+*   [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
+
+*   [dengxiuqi/Lyricist-torch](https://github.com/dengxiuqi/Lyricist-torch) - 中文歌词生成, Pytorch, Seq2Seq, Luong注意力, 按不同歌手风格生成歌词
+
+*   [qianmianyao/python\_learn](https://github.com/qianmianyao/python_learn) - python练习作品
+
+*   [YG-tsj/EUserv-Renew](https://github.com/YG-tsj/EUserv-Renew) -
+
+*   [sunhanaix/SyncXiaomiCloud](https://github.com/sunhanaix/SyncXiaomiCloud) - Sync Down XiaoMi Cloud's photoes,videos,audios,SMS,contacts
+
+*   [gaowanliang/OneDriveShareLinkPushAria2](https://github.com/gaowanliang/OneDriveShareLinkPushAria2) - Extract download URLs from OneDrive or SharePoint share links and push them to aria2, even on systems without a GUI.
+
+*   [kolbwang/cc-attack](https://github.com/kolbwang/cc-attack) -
+
+*   [sheepzh/poetry](https://github.com/sheepzh/poetry) - 汉语现代诗歌语料库整理，3489诗人，81.7K诗歌，15.43M字。持续扩充...
+
+*   [yellowbins/auto\_EUserv](https://github.com/yellowbins/auto_EUserv) -
+
+*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+
+*   [aLuvletter/pt\_res](https://github.com/aLuvletter/pt_res) - PT签到助手
+
+*   [lhllhx/PT\_signin](https://github.com/lhllhx/PT_signin) - Pt站点的自动签到和数据统计
+
+*   [yaokui2018/grade\_statistics](https://github.com/yaokui2018/grade_statistics) - 使用pyqt5开发的小学生成绩管理系统。实现：管理员登录、学生管理、成绩管理、班级管理
+
+## Java
+
+*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
+
+*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
+
+*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
+
+*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
+
+*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
+
+*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
+
+## TypeScript
+
+*   [zy445566/vscode-plugin-swimming](https://github.com/zy445566/vscode-plugin-swimming) - vscode插件。模拟写代码，划水，摸鱼神器。
+
+*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+
+*   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+
+*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘Open
+
+*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
+
+*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
+
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+
+*   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
+
+*   [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
+
+*   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+
+*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
+
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
+
+*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
+
+*   [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
+
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+
+*   [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+
+*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
+
+*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
+
+*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
+
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+
+*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+
+*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 
 ## Shell
 
@@ -228,8 +470,6 @@
 *   [lukesyy/jd\_yun](https://github.com/lukesyy/jd_yun) - JD-----云函数&青龙
 
 *   [shidahuilang/QL-](https://github.com/shidahuilang/QL-) - 青龙一键搭建，检测安装docker，青龙脚本依赖，拉库，全部傻瓜式
-
-*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) - 青龙脚本库
 
 *   [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
 
@@ -527,58 +767,6 @@
 
 *   [nickfox-taterli/goseeder](https://github.com/nickfox-taterli/goseeder) - Go 实现的自动PT工具(自己玩,暂时不介绍.)
 
-## TypeScript
-
-*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
-
-*   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
-
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘Open
-
-*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
-
-*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
-
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
-
-*   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
-
-*   [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
-
-*   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-
-*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
-
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
-
-*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
-
-*   [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
-
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
-
-*   [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
-
-*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
-
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
-
-*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
-
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-
-*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-
 ## Vue
 
 *   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
@@ -600,162 +788,6 @@
 *   [TinsideDesign/bk-vue-cec](https://github.com/TinsideDesign/bk-vue-cec) - A vue component library incubated from Tencent BlueKing which helps OPS in the field of front-end engineering to quickly build stable, accurate, and technologically-sense operation and maintenance tools and platforms
 
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-## Python
-
-*   [LawRefBook/Laws](https://github.com/LawRefBook/Laws) -
-
-*   [Oreomeow/warpplus](https://github.com/Oreomeow/warpplus) - Get WARP+ referral quota and notify users with Telegram Bot
-
-*   [EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.
-
-*   [ht0Ruial/Jiyu\_udp\_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
-
-*   [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-
-*   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
-
-*   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
-
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
-*   [cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。
-
-*   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议
-
-*   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
-
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
-*   [Jonathan-Ye/A-crawler-of-people-s-daily](https://github.com/Jonathan-Ye/A-crawler-of-people-s-daily) -
-
-*   [limoruirui/misaka](https://github.com/limoruirui/misaka) - 开源的一些乱七八糟的东西
-
-*   [jchwl0527/PythonEva](https://github.com/jchwl0527/PythonEva) - 我的Python学习笔记
-
-*   [jchwl0527/Comment-Backups](https://github.com/jchwl0527/Comment-Backups) - twikoo数据备份
-
-*   [bitcartcc/bitcart](https://github.com/bitcartcc/bitcart) - https://bitcartcc.com
-
-*   [FengQuanLi/WZCQ](https://github.com/FengQuanLi/WZCQ) - 用基于策略梯度得强化学习方法训练AI玩王者荣耀
-
-*   [ButterAndButterfly/GithubHost](https://github.com/ButterAndButterfly/GithubHost) - 提供最新的GithubHost文件，解决github图片无法访问的问题。
-
-*   [hx-w/qndxx](https://github.com/hx-w/qndxx) - 青年大学习截图生成
-
-*   [GC-ZF/Comment-Backups](https://github.com/GC-ZF/Comment-Backups) - twikoo数据备份
-
-*   [hbstarjason/glados-checkin](https://github.com/hbstarjason/glados-checkin) -
-
-*   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
-
-*   [tyIceStream/GLaDOS\_Checkin](https://github.com/tyIceStream/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
-
-*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
-
-*   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-
-*   [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
-
-*   [Andysun06/ddos](https://github.com/Andysun06/ddos) - python3.X实现ddos攻击的脚本
-
-*   [ghealer/GUI\_Tools](https://github.com/ghealer/GUI_Tools) - 一个由各种图形化渗透工具组成的工具集
-
-*   [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
-
-*   [why20021008/hand-write](https://github.com/why20021008/hand-write) - 模拟手写效果，节约时间。
-
-*   [biancangming/wtv](https://github.com/biancangming/wtv) - 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
-
-*   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
-
-*   [abdulkadir-gungor/JPGtoMalware](https://github.com/abdulkadir-gungor/JPGtoMalware) - It embeds the executable file or payload inside the jpg file.  The method the program uses isn't exactly called one of the steganography methods. For this reason, it does not cause any distortion in the JPG file.  The JPG file size and payload do not have to be proportional.The JPG file is displayed normally in any viewing application or web application. It can bypass various security programs such as firewall, antivirus. If the file is examined in detail, it is easier to detect than steganography methods. However, since the payload in the JPG file is encrypted, it cannot be easily decrypted. It also uses the "garbage code insertion/dead-code insertion" method to prevent the payload from being caught by the antivirus at runtime.
-
-*   [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
-
-*   [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
-
-*   [moxun33/real-url](https://github.com/moxun33/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
-
-*   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
-
-*   [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
-
-*   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
-
-*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
-
-*   [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。
-
-*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
-
-*   [admintony/Digger](https://github.com/admintony/Digger) - 从百度爬取子域名
-
-*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
-
-*   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-
-*   [LnYo-Cly/ChaoXingAutoSign](https://github.com/LnYo-Cly/ChaoXingAutoSign) - 超*星*学*习*通\*自动签到（ChaoXingAutoSign）
-
-*   [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
-
-*   [luminoleon/epicgames-claimer](https://github.com/luminoleon/epicgames-claimer) - 自动领取Epic游戏商城每周免费游戏。
-
-*   [RimoChan/yinglish](https://github.com/RimoChan/yinglish) - 【yinglish】淫语翻译机！
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-
-*   [drcoms/drcom-generic](https://github.com/drcoms/drcom-generic) - Dr.COM/DrCOM 现已覆盖 d p x三版。
-
-*   [hongwenjun/vps\_setup](https://github.com/hongwenjun/vps_setup) - linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/
-
-*   [jchwl0527/glados-checkin](https://github.com/jchwl0527/glados-checkin) - 自动签到，自动续期，高速富强
-
-*   [ring04h/wydomain](https://github.com/ring04h/wydomain) - to discover subdomains of your target domain
-
-*   [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
-
-*   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-
-*   [haoduck/E5Renew](https://github.com/haoduck/E5Renew) -
-
-*   [xMistt/DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator) - Program to easily create device auths for use in Epic Games API authentication.
-
-*   [rmb122/delete-my-history-in-tieba](https://github.com/rmb122/delete-my-history-in-tieba) - 删除在百度贴吧的回复、主题帖、关注等
-
-*   [dengxiuqi/Lyricist-torch](https://github.com/dengxiuqi/Lyricist-torch) - 中文歌词生成, Pytorch, Seq2Seq, Luong注意力, 按不同歌手风格生成歌词
-
-*   [qianmianyao/python\_learn](https://github.com/qianmianyao/python_learn) - python练习作品
-
-*   [YG-tsj/EUserv-Renew](https://github.com/YG-tsj/EUserv-Renew) -
-
-*   [sunhanaix/SyncXiaomiCloud](https://github.com/sunhanaix/SyncXiaomiCloud) - Sync Down XiaoMi Cloud's photoes,videos,audios,SMS,contacts
-
-*   [gaowanliang/OneDriveShareLinkPushAria2](https://github.com/gaowanliang/OneDriveShareLinkPushAria2) - Extract download URLs from OneDrive or SharePoint share links and push them to aria2, even on systems without a GUI.
-
-*   [kolbwang/cc-attack](https://github.com/kolbwang/cc-attack) -
-
-*   [sheepzh/poetry](https://github.com/sheepzh/poetry) - 汉语现代诗歌语料库整理，3489诗人，81.7K诗歌，15.43M字。持续扩充...
-
-*   [yellowbins/auto\_EUserv](https://github.com/yellowbins/auto_EUserv) -
-
-*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-
-*   [aLuvletter/pt\_res](https://github.com/aLuvletter/pt_res) - PT签到助手
-
-*   [lhllhx/PT\_signin](https://github.com/lhllhx/PT_signin) - Pt站点的自动签到和数据统计
-
-*   [yaokui2018/grade\_statistics](https://github.com/yaokui2018/grade_statistics) - 使用pyqt5开发的小学生成绩管理系统。实现：管理员登录、学生管理、成绩管理、班级管理
 
 ## C\#
 
@@ -780,8 +812,6 @@
 *   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 
 *   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support
-
-*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
 ## C
 
@@ -903,10 +933,6 @@
 
 *   [zkysimon/snake](https://github.com/zkysimon/snake) -
 
-*   [CangShui/CloudflareCustomPages](https://github.com/CangShui/CloudflareCustomPages) - My Cloudflare Custom Pages ,It is Beautiful!
-
-*   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 内网横向
-
 ## PHP
 
 *   [babaiyun/minipass](https://github.com/babaiyun/minipass) - 一款免费、小巧、开源的密码管理工具，PHP单文件密码保险箱。
@@ -966,32 +992,6 @@
 *   [asiacny/zero-width-qrcode-shortener](https://github.com/asiacny/zero-width-qrcode-shortener) - 零宽度短网址与二维码生成工具(PHP+ORACLE/MYSQL/SQLite)
 
 *   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
-
-## Java
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
-*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
-
-*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
-
-*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
-
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
-
-*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
-
-*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
-
-*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
 
 ## Rust
 

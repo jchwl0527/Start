@@ -137,7 +137,7 @@
 
 *   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️“城中村哈姆雷特”，ChatGPT、系统环境各类镜像、重点高校及科研机构社科研究学术论文知识链接库
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
 
 *   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
 
@@ -819,7 +819,7 @@
 
 *   [imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
 
-*   [nlzy/nsproxy](https://github.com/nlzy/nsproxy) - A command-line tool that force applications to use SOCKS5 or HTTP proxy.
+*   [nlzy/nsproxy](https://github.com/nlzy/nsproxy) - Make arbitrary applications to use a specified SOCKS / HTTP proxy
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 

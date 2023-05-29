@@ -16,22 +16,22 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
+*   [Java](#java)
+*   [Shell](#shell)
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Python](#python)
-*   [Java](#java)
 *   [TypeScript](#typescript)
-*   [Shell](#shell)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
-*   [Go](#go)
 *   [Vue](#vue)
 *   [C#](#c-1)
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
 *   [Solidity](#solidity)
 *   [PHP](#php)
-*   [Rust](#rust)
 *   [Stylus](#stylus)
 *   [CSS](#css)
 *   [R](#r)
@@ -51,7 +51,205 @@
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
 
+## Rust
+
+*   [freenet/locutus](https://github.com/freenet/locutus) - Declare your digital independence
+
+*   [MicroCBer/BetterUniverse-Installer](https://github.com/MicroCBer/BetterUniverse-Installer) - 一键安装 Better 系软件
+
+*   [veoco/rumo](https://github.com/veoco/rumo) - 博客后端程序
+
+*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+
+*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
+
+*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
+
+*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
+
+## Java
+
+*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
+
+*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
+
+*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
+
+*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
+
+*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
+
+*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
+
+*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
+
+## Shell
+
+*   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+
+*   [zsbai/wechat-versions](https://github.com/zsbai/wechat-versions) - 保存微信历史版本
+
+*   [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) - Userspace performance controller for android
+
+*   [zhucaidan/btpanel-v7.7.0](https://github.com/zhucaidan/btpanel-v7.7.0) - btpanel-v7.7.0-backup
+
+*   [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
+
+*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
+
+*   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
+
+*   [jchwl0527/GLaDOS-checkin-2](https://github.com/jchwl0527/GLaDOS-checkin-2) - GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。
+
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+
+*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
+
+*   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
+
+*   [HaoZi-Team/Panel\_Scripts](https://github.com/HaoZi-Team/Panel_Scripts) - （镜像）耗子Linux面板 - 脚本
+
+*   [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
+
+*   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
+
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(主体已完善，历史遗留问题解决时间未知)(VPS Fusion Monster Server Test Script)
+
+*   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
+
+*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) -
+
+*   [ellermister/free-backup](https://github.com/ellermister/free-backup) - Backup files to the cloud for free https://t.me/ellerhk
+
+*   [haoduck/dd](https://github.com/haoduck/dd) -
+
+*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
+
+*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+
+*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
+
+*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
+
+*   [nieaowei/campus-network-unlock](https://github.com/nieaowei/campus-network-unlock) - 基于VPN端口转发突破校园网限制，破解校园网，傻瓜式Docker容器部署
+
+*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
+
+*   [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
+
+*   [kkkyg/CFwarp](https://github.com/kkkyg/CFwarp) - Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…
+
+*   [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
+
+*   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
+
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP\_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、八合一共存脚本
+
+*   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
+
+*   [kolbwang/pentmenu](https://github.com/kolbwang/pentmenu) - pentmenu汉化版
+
+*   [YG-tsj/Netflix-Check](https://github.com/YG-tsj/Netflix-Check) - 只检测奈非Netflix在当前IPV4、IPV6下是否全解锁！
+
+*   [YG-tsj/EUserv-warp](https://github.com/YG-tsj/EUserv-warp) - EUserv德鸡纯IPV6 VPS添加WARP三模式脚本（双栈IPV6+IPV4、单IPV4、单IPV6）
+
+## Go
+
+*   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+
+*   [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
+
+*   [XTLS/Trojan-killer](https://github.com/XTLS/Trojan-killer) - Detect TLS in TLS.
+
+*   [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
+
+*   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
+
+*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
+
+*   [maintell/webBenchmark](https://github.com/maintell/webBenchmark) - a simple tool of website benchmark.
+
+*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
+
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+
+*   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+
+*   [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
+
+*   [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) -
+
+*   [OhYee/webproxy](https://github.com/OhYee/webproxy) -
+
+*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+
+*   [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription compilation 订阅合集
+
+*   [casbin/casnode](https://github.com/casbin/casnode) - Casnode is an open-source forum (BBS) software developed in Go and React, QQ group: 555019739
+
+*   [iyear/searchx](https://github.com/iyear/searchx) - 🔍 Enhance Telegram Search In 5 Minutes
+
+*   [Yoshino-s/ElectronInjector](https://github.com/Yoshino-s/ElectronInjector) - inject script into encrypted electron
+
+*   [DeluxeOwl/gh-stars-backup](https://github.com/DeluxeOwl/gh-stars-backup) -
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+
+*   [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
+
+*   [UBotPlatform/Ubot.App.Poet](https://github.com/UBotPlatform/Ubot.App.Poet) -
+
+*   [koalabearguo/php-proxy](https://github.com/koalabearguo/php-proxy) - php proxy based on GoAgent protocal,Implemented by golang
+
+*   [zu1k/proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
+
+*   [TeaWeb/build](https://github.com/TeaWeb/build) -  TeaWeb-可视化的Web代理服务。DEMO: http://teaos.cn:7777
+
+*   [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
+
+*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+
+*   [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
+
+*   [yzy613/ddns-watchdog](https://github.com/yzy613/ddns-watchdog) - 简单快速的可常驻的 Dynamic DNS 软件，自动更新域名解析记录值。现已支持 DNSPod AliDNS(阿里云 DNS) Cloudflare HuaweiCloud(华为云)，支持 IPv4 IPv6 双栈，支持使用网卡 IP 地址。可在绝大多数系统上运行。若需其他域名解析服务商，欢迎到 Issues 提出需求
+
+*   [PeerXu/meepo](https://github.com/PeerXu/meepo) - Connect to your service without public IP in p2p channel
+
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+
 ## JavaScript
+
+*   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 优雅的搜索引擎跳转助手 Google & Baidu Switcher.user.js.
 
 *   [a695979515/enterprise](https://github.com/a695979515/enterprise) - 企业门户网站
 
@@ -229,8 +427,6 @@
 
 *   [jialezi/oneindex-j](https://github.com/jialezi/oneindex-j) - OneDrive Directory Index
 
-*   [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
-
 ## HTML
 
 *   [AnsonZnl/makesen](https://github.com/AnsonZnl/makesen) - 基于 jQuery/Bootstrap开发的响应式企业门户网站 、企业官网
@@ -314,12 +510,6 @@
 *   [haoduck/random-backgroundimages](https://github.com/haoduck/random-backgroundimages) -
 
 *   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人
-
-*   [gaowanliang/MagicPassword](https://github.com/gaowanliang/MagicPassword) - Need to generate a password? Try Gaowanliang Strong Password Generator. Just need a master password to generate secure passwords to keep your network safe.
-
-*   [BlueSkyXN/TencentCloud-Order](https://github.com/BlueSkyXN/TencentCloud-Order) - 腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面
-
-*   [zkysimon/snake](https://github.com/zkysimon/snake) -
 
 ## Python
 
@@ -407,7 +597,7 @@
 
 *   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、国立台湾大学、国立新加坡大学、中国内陆与香港重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国内陆与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 *   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
 
@@ -479,36 +669,6 @@
 
 *   [lhllhx/PT\_signin](https://github.com/lhllhx/PT_signin) - Pt站点的自动签到和数据统计
 
-*   [yaokui2018/grade\_statistics](https://github.com/yaokui2018/grade_statistics) - 使用pyqt5开发的小学生成绩管理系统。实现：管理员登录、学生管理、成绩管理、班级管理
-
-## Java
-
-*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
-*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
-
-*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
-
-*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
-
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
-
-*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
-
-*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
-
-*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
-
 ## TypeScript
 
 *   [zy445566/vscode-plugin-swimming](https://github.com/zy445566/vscode-plugin-swimming) - vscode插件。模拟写代码，划水，摸鱼神器。
@@ -562,78 +722,6 @@
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 *   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-
-## Shell
-
-*   [yinwanxi/Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo) - Userspace performance controller for android
-
-*   [zhucaidan/btpanel-v7.7.0](https://github.com/zhucaidan/btpanel-v7.7.0) - btpanel-v7.7.0-backup
-
-*   [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
-
-*   [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
-
-*   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
-
-*   [jchwl0527/GLaDOS-checkin-2](https://github.com/jchwl0527/GLaDOS-checkin-2) - GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。
-
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-
-*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
-
-*   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
-
-*   [HaoZi-Team/Panel\_Scripts](https://github.com/HaoZi-Team/Panel_Scripts) - （镜像）耗子Linux面板 - 脚本
-
-*   [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
-
-*   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
-
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(主体已完善，历史遗留问题解决时间未知)(VPS Fusion Monster Server Test Script)
-
-*   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
-
-*   [AaronYES/aaPanel](https://github.com/AaronYES/aaPanel) -
-
-*   [ellermister/free-backup](https://github.com/ellermister/free-backup) - Backup files to the cloud for free https://t.me/ellerhk
-
-*   [haoduck/dd](https://github.com/haoduck/dd) -
-
-*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
-
-*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-
-*   [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
-
-*   [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版
-
-*   [nieaowei/campus-network-unlock](https://github.com/nieaowei/campus-network-unlock) - 基于VPN端口转发突破校园网限制，破解校园网，傻瓜式Docker容器部署
-
-*   [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) - List for blocking ads in the Chinese region
-
-*   [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
-
-*   [kkkyg/CFwarp](https://github.com/kkkyg/CFwarp) - Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…
-
-*   [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
-
-*   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP\_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、八合一共存脚本
-
-*   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
-
-*   [kolbwang/pentmenu](https://github.com/kolbwang/pentmenu) - pentmenu汉化版
-
-*   [YG-tsj/Netflix-Check](https://github.com/YG-tsj/Netflix-Check) - 只检测奈非Netflix在当前IPV4、IPV6下是否全解锁！
-
-*   [YG-tsj/EUserv-warp](https://github.com/YG-tsj/EUserv-warp) - EUserv德鸡纯IPV6 VPS添加WARP三模式脚本（双栈IPV6+IPV4、单IPV4、单IPV6）
 
 ## C++
 
@@ -785,76 +873,6 @@
 
 *   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 
-*   [dylanderick/nezha](https://github.com/dylanderick/nezha) - :trollface: 哪吒面板 可能是最优秀的探针了
-
-## Go
-
-*   [XTLS/Trojan-killer](https://github.com/XTLS/Trojan-killer) - Detect TLS in TLS.
-
-*   [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
-
-*   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
-
-*   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
-
-*   [maintell/webBenchmark](https://github.com/maintell/webBenchmark) - a simple tool of website benchmark.
-
-*   [mzz2017/gg](https://github.com/mzz2017/gg) - 一个支持节点与订阅链接的 Linux 命令行代理工具 | A command-line tool for one-click proxy in your research and development without installing v2ray or anything else (only for linux)
-
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
-
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-
-*   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-
-*   [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
-
-*   [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) -
-
-*   [OhYee/webproxy](https://github.com/OhYee/webproxy) -
-
-*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-
-*   [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription compilation 订阅合集
-
-*   [casbin/casnode](https://github.com/casbin/casnode) - Casnode is an open-source forum (BBS) software developed in Go and React, QQ group: 555019739
-
-*   [iyear/searchx](https://github.com/iyear/searchx) - 🔍 Enhance Telegram Search In 5 Minutes
-
-*   [Yoshino-s/ElectronInjector](https://github.com/Yoshino-s/ElectronInjector) - inject script into encrypted electron
-
-*   [DeluxeOwl/gh-stars-backup](https://github.com/DeluxeOwl/gh-stars-backup) -
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-
-*   [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
-
-*   [UBotPlatform/Ubot.App.Poet](https://github.com/UBotPlatform/Ubot.App.Poet) -
-
-*   [koalabearguo/php-proxy](https://github.com/koalabearguo/php-proxy) - php proxy based on GoAgent protocal,Implemented by golang
-
-*   [zu1k/proxypool](https://github.com/zu1k/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表
-
-*   [TeaWeb/build](https://github.com/TeaWeb/build) -  TeaWeb-可视化的Web代理服务。DEMO: http://teaos.cn:7777
-
-*   [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
-
-*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
-
-*   [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
-
-*   [yzy613/ddns-watchdog](https://github.com/yzy613/ddns-watchdog) - 简单快速的可常驻的 Dynamic DNS 软件，自动更新域名解析记录值。现已支持 DNSPod AliDNS(阿里云 DNS) Cloudflare HuaweiCloud(华为云)，支持 IPv4 IPv6 双栈，支持使用网卡 IP 地址。可在绝大多数系统上运行。若需其他域名解析服务商，欢迎到 Issues 提出需求
-
-*   [PeerXu/meepo](https://github.com/PeerXu/meepo) - Connect to your service without public IP in p2p channel
-
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-
-*   [nickfox-taterli/goseeder](https://github.com/nickfox-taterli/goseeder) - Go 实现的自动PT工具(自己玩,暂时不介绍.)
-
 ## Vue
 
 *   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
@@ -992,24 +1010,6 @@
 *   [asiacny/zero-width-qrcode-shortener](https://github.com/asiacny/zero-width-qrcode-shortener) - 零宽度短网址与二维码生成工具(PHP+ORACLE/MYSQL/SQLite)
 
 *   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
-
-## Rust
-
-*   [MicroCBer/BetterUniverse-Installer](https://github.com/MicroCBer/BetterUniverse-Installer) - 一键安装 Better 系软件
-
-*   [veoco/rumo](https://github.com/veoco/rumo) - 博客后端程序
-
-*   [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-
-*   [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
-
-*   [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
-
-*   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
 
 ## Stylus
 

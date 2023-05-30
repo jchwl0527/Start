@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Rust](#rust)
 *   [Java](#java)
 *   [Shell](#shell)
@@ -33,7 +34,6 @@
 *   [Solidity](#solidity)
 *   [PHP](#php)
 *   [Stylus](#stylus)
-*   [CSS](#css)
 *   [R](#r)
 *   [Brainfuck](#brainfuck)
 *   [Roff](#roff)
@@ -50,6 +50,34 @@
 *   [EJS](#ejs)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## CSS
+
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+
+*   [nexmoe/wall-public](https://github.com/nexmoe/wall-public) - 一个基于 Vue.js 的匿名表白墙轻量级小程序
+
+*   [ylines/static-125](https://github.com/ylines/static-125) - Build a static blog generator in 125 lines of JS
+
+*   [LazyCreeper/LuoTianyi](https://github.com/LazyCreeper/LuoTianyi) - 宝塔面板洛天依主题
+
+*   [AyagawaSeirin/homepage](https://github.com/AyagawaSeirin/homepage) - 开坑我的个人主页
+
+*   [BlueSkyXN/96110](https://github.com/BlueSkyXN/96110) - 反诈中心想你了，喜欢我反诈中心吗
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
+
+*   [zkeq/Tuostudy-Short-url](https://github.com/zkeq/Tuostudy-Short-url) - 利用 404 原理的一个短链服务。（数据库已集成 OSS ， Notion's  Database ）
+
+*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
+
+*   [Xunzhuo/Coder](https://github.com/Xunzhuo/Coder) - A fast、pure、practical、elegant  Hexo theme for Developers  🔥🔥🔥
+
+*   [sanjinhub/hexo-theme-geek](https://github.com/sanjinhub/hexo-theme-geek) - 一个符合极客精神主义极简的 Hexo 主题
+
+*   [HFO4/HideByPixel](https://github.com/HFO4/HideByPixel) - 一个利用像素隐藏文字的程序
 
 ## Rust
 
@@ -269,7 +297,7 @@
 
 *   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
 
-*   [qd-today/qd](https://github.com/qd-today/qd) - \[当前版本: 20230518] QD —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+*   [qd-today/qd](https://github.com/qd-today/qd) - \[当前版本: 20230522] QD —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
 *   [he1pu/signin](https://github.com/he1pu/signin) -
 
@@ -424,8 +452,6 @@
 *   [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [jialezi/oneindex-j](https://github.com/jialezi/oneindex-j) - OneDrive Directory Index
 
 ## HTML
 
@@ -751,7 +777,7 @@
 
 *   [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
 
-*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版签到框架站发布的公共har模板库，仅供示例
+*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
 
 *   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 
@@ -1018,32 +1044,6 @@
 *   [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and elegant theme for Hexo. It makes you more focused on writing.
 
 *   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
-
-## CSS
-
-*   [nexmoe/wall-public](https://github.com/nexmoe/wall-public) - 一个基于 Vue.js 的匿名表白墙轻量级小程序
-
-*   [ylines/static-125](https://github.com/ylines/static-125) - Build a static blog generator in 125 lines of JS
-
-*   [LazyCreeper/LuoTianyi](https://github.com/LazyCreeper/LuoTianyi) - 宝塔面板洛天依主题
-
-*   [AyagawaSeirin/homepage](https://github.com/AyagawaSeirin/homepage) - 开坑我的个人主页
-
-*   [BlueSkyXN/96110](https://github.com/BlueSkyXN/96110) - 反诈中心想你了，喜欢我反诈中心吗
-
-*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-
-*   [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
-
-*   [zkeq/Tuostudy-Short-url](https://github.com/zkeq/Tuostudy-Short-url) - 利用 404 原理的一个短链服务。（数据库已集成 OSS ， Notion's  Database ）
-
-*   [D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt) - Yet, just another hexo plugin for security.
-
-*   [Xunzhuo/Coder](https://github.com/Xunzhuo/Coder) - A fast、pure、practical、elegant  Hexo theme for Developers  🔥🔥🔥
-
-*   [sanjinhub/hexo-theme-geek](https://github.com/sanjinhub/hexo-theme-geek) - 一个符合极客精神主义极简的 Hexo 主题
-
-*   [HFO4/HideByPixel](https://github.com/HFO4/HideByPixel) - 一个利用像素隐藏文字的程序
 
 ## R
 

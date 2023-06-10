@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Lua](#lua)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
@@ -28,7 +29,6 @@
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [Vue](#vue)
 *   [C#](#c-1)
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
@@ -52,6 +52,34 @@
 *   [PowerShell](#powershell)
 *   [Ruby](#ruby)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [setube/jntm](https://github.com/setube/jntm) - 一个小众的度盘秒传分享平台
+
+*   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
+
+*   [jchwl0527/YesPlayMusic](https://github.com/jchwl0527/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [iiop123/dingding](https://github.com/iiop123/dingding) - 丁丁快传-基于cloudflare workers的文件传输工具
+
+*   [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
+
+*   [iiop123/workers-image-hosting](https://github.com/iiop123/workers-image-hosting) - cloudflare worker简易图床
+
+*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 展示各种信息的桌面小组件
+
+*   [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li) - 🦊 huli.li 网页的源码，使用 Vue-ts 开发
+
+*   [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
+
+*   [TinsideDesign/bk-vue-cec](https://github.com/TinsideDesign/bk-vue-cec) - A vue component library incubated from Tencent BlueKing which helps OPS in the field of front-end engineering to quickly build stable, accurate, and technologically-sense operation and maintenance tools and platforms
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 ## Lua
 
@@ -496,8 +524,6 @@
 *   [AlanDecode/Blog-With-GitHub-Boilerplate](https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate) - 这是博客文章《完全用 GitHub 写博客》所提出流程的示例仓库。
 
 *   [yjqiang/bili2.0](https://github.com/yjqiang/bili2.0) - Python3 实现的 bilibili 直播助手（多用户）
-
-*   [CharlesPikachu/Games](https://github.com/CharlesPikachu/Games) - Games: Create interesting games in pure python.
 
 ## HTML
 
@@ -1074,32 +1100,6 @@
 *   [HuaweiJoke/Huawei-Joke](https://github.com/HuaweiJoke/Huawei-Joke) - 本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。
 
 *   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-
-## Vue
-
-*   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
-
-*   [jchwl0527/YesPlayMusic](https://github.com/jchwl0527/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [iiop123/dingding](https://github.com/iiop123/dingding) - 丁丁快传-基于cloudflare workers的文件传输工具
-
-*   [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
-
-*   [iiop123/workers-image-hosting](https://github.com/iiop123/workers-image-hosting) - cloudflare worker简易图床
-
-*   [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 展示各种信息的桌面小组件
-
-*   [Jiaocz/huli.li](https://github.com/Jiaocz/huli.li) - 🦊 huli.li 网页的源码，使用 Vue-ts 开发
-
-*   [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
-
-*   [TinsideDesign/bk-vue-cec](https://github.com/TinsideDesign/bk-vue-cec) - A vue component library incubated from Tencent BlueKing which helps OPS in the field of front-end engineering to quickly build stable, accurate, and technologically-sense operation and maintenance tools and platforms
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 ## C\#
 

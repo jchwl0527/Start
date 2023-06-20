@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-*   [Batchfile](#batchfile)
 *   [HTML](#html)
+*   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -53,11 +53,11 @@
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
 
-## Batchfile
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
 ## HTML
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [laike9m/My\_Blog](https://github.com/laike9m/My_Blog) - My Django Blog
 
 *   [A-Lang-Y/-](https://github.com/A-Lang-Y/-) - 前端静态博客源码模板，所有资料都来自公共网络收集,收集整理提供给大家学习使用
 
@@ -161,7 +161,9 @@
 
 *   [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+## Batchfile
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## Go
 
@@ -626,8 +628,6 @@
 *   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 
 *   [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 
 ## TypeScript
 

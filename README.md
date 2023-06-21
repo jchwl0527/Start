@@ -30,6 +30,7 @@
 *   [C++](#c)
 *   [CSS](#css)
 *   [Shell](#shell)
+*   [MDX](#mdx)
 *   [C#](#c-1)
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
@@ -47,6 +48,7 @@
 *   [Classic ASP](#classic-asp)
 *   [Perl](#perl)
 *   [Dart](#dart)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [SCSS](#scss)
 *   [EJS](#ejs)
 *   [Markdown](#markdown)
@@ -635,8 +637,6 @@
 
 *   [zy445566/vscode-plugin-swimming](https://github.com/zy445566/vscode-plugin-swimming) - vscode插件。模拟写代码，划水，摸鱼神器。
 
-*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
-
 *   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 
 *   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘Open
@@ -780,8 +780,6 @@
 *   [moxun33/real-url](https://github.com/moxun33/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
 *   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
-
-*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 *   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
 
@@ -1087,7 +1085,7 @@
 
 *   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
 
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP\_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、八合一共存脚本
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP\_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 共存脚本
 
 *   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
 
@@ -1106,6 +1104,10 @@
 *   [sunpma/mtp](https://github.com/sunpma/mtp) - MTProxy TLS 绿色版一键安装脚本
 
 *   [rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell) - 基于DNSPod用户API实现的纯Shell动态域名客户端
+
+## MDX
+
+*   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 
 ## C\#
 
@@ -1306,6 +1308,10 @@
 *   [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
 *   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
+
+## Jupyter Notebook
+
+*   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 ## SCSS
 

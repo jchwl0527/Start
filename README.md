@@ -691,7 +691,7 @@
 
 *   [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription compilation 订阅合集
 
-*   [casbin/casnode](https://github.com/casbin/casnode) - Casnode is an open-source forum (BBS) software developed in Go and React, QQ group: 555019739
+*   [casbin/casnode](https://github.com/casbin/casnode) - Open-Source Forum Powered by ChatGPT, Alternative to StackOverflow & Flarum
 
 *   [iyear/searchx](https://github.com/iyear/searchx) - 🔍 Enhance Telegram Search In 5 Minutes
 

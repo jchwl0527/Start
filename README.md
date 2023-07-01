@@ -695,7 +695,7 @@
 
 *   [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) - 🚫 uBlacklist subscription compilation 订阅合集
 
-*   [casbin/casnode](https://github.com/casbin/casnode) - Open-Source Forum Powered by ChatGPT, Alternative to StackOverflow & Flarum
+*   [casbin/casnode](https://github.com/casbin/casnode) - Open-Source Forum and Social Platform Powered by ChatGPT, Alternative to StackOverflow & Flarum
 
 *   [iyear/searchx](https://github.com/iyear/searchx) - 🔍 Enhance Telegram Search In 5 Minutes
 

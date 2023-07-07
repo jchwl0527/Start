@@ -783,7 +783,7 @@
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
-*   [HaoZi-Team/Panel](https://github.com/HaoZi-Team/Panel) - （镜像）耗子Linux面板
+*   [HaoZi-Team/Panel](https://github.com/HaoZi-Team/Panel) - 耗子Linux面板
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 

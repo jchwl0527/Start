@@ -361,7 +361,7 @@
 
 *   [zhangweibo413/yixue](https://github.com/zhangweibo413/yixue) - 易学案例整理（奇门，八字，风水，六爻等等）
 
-*   [erebao/liuyao](https://github.com/erebao/liuyao) - 六爻基础入门
+*   [carpedx/liuyao](https://github.com/carpedx/liuyao) - 六爻基础入门
 
 *   [whherui/02-liuyao](https://github.com/whherui/02-liuyao) - 六爻笔记
 

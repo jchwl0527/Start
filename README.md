@@ -16,13 +16,13 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
+*   [PHP](#php)
+*   [HTML](#html)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
-*   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Vue](#vue)
@@ -55,119 +55,9 @@
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
 
-## HTML
-
-*   [jchwl0527/Hexo\_Blog\_vercel](https://github.com/jchwl0527/Hexo_Blog_vercel) -
-
-*   [helloxz/ccaa](https://github.com/helloxz/ccaa) - Linux一键安装Aria2 + AriaNg + FileBrowse实现离线下载、文件管理。
-
-*   [GodLikeZeal/family](https://github.com/GodLikeZeal/family) - 家族族谱，族谱树管理后台系统
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [laike9m/My\_Blog](https://github.com/laike9m/My_Blog) - My Django Blog
-
-*   [A-Lang-Y/-](https://github.com/A-Lang-Y/-) - 前端静态博客源码模板，所有资料都来自公共网络收集,收集整理提供给大家学习使用
-
-*   [A10ha/EmailSender](https://github.com/A10ha/EmailSender) - 钓鱼邮件便捷发送工具（GUI）
-
-*   [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
-
-*   [AnsonZnl/makesen](https://github.com/AnsonZnl/makesen) - 基于 jQuery/Bootstrap开发的响应式企业门户网站 、企业官网
-
-*   [SuperSafeMessage/SuperSafeMessage.github.io](https://github.com/SuperSafeMessage/SuperSafeMessage.github.io) -
-
-*   [ZGQ-inc/sitebox](https://github.com/ZGQ-inc/sitebox) - :globe\_with\_meridians:网站分享|SiteBox
-
-*   [ZGQ-inc/SB-Tencent](https://github.com/ZGQ-inc/SB-Tencent) - 献给腾讯公司的礼物 | 为什么要做这个？因为项目作者的QQ账号经常无缘无故被冻结，所以想对腾讯公司表达谢意。 :rage1:
-
-*   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
-
-*   [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
-
-*   [jchwl0527/Telegraph-Image](https://github.com/jchwl0527/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
-
-*   [jchwl0527/42.zip](https://github.com/jchwl0527/42.zip) - 42.zip
-
-*   [jchwl0527/Qexo](https://github.com/jchwl0527/Qexo) -
-
-*   [jchwl0527/steam\_info\_page](https://github.com/jchwl0527/steam_info_page) - 一个用于展示steam库存与好友信息的页面
-
-*   [jchwl0527/chaoxing-sign-ui](https://github.com/jchwl0527/chaoxing-sign-ui) - 超星学习通签到图形化界面。
-
-*   [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) - 云收藏 Spring Boot 2.X 开源项目
-
-*   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 🇨🇳免费IP地址数据库，已支持IPV4+IPV6 ，结构化输出为国家、省、市、县、运营商)，中文数据库，方便实用。
-
-*   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
-
-*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
-
-*   [tholman/binary-music-player](https://github.com/tholman/binary-music-player) - A binary music player, with customizable notes & playback.
-
-*   [haozi-team/panel](https://github.com/haozi-team/panel) - 耗子Linux面板
-
-*   [ybw2016v/steam\_info\_page](https://github.com/ybw2016v/steam_info_page) - 一个用于展示steam库存与好友信息的页面
-
-*   [xsy2004/chrome\_dino\_game](https://github.com/xsy2004/chrome_dino_game) - 更容易嵌入的 Chrome "恐龙快跑"游戏.
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-
-*   [nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus) - 一个Material Design风格的探针
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [jchwl0527/ACME-HTML-Web-Browser-Client](https://github.com/jchwl0527/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt、ZeroSSL 等支持 ACME 协议的证书颁发机构申请pem格式证书
-
-*   [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt、ZeroSSL 等支持 ACME 协议的证书颁发机构申请pem格式证书
-
-*   [6mb/Microsoft-365-Admin](https://github.com/6mb/Microsoft-365-Admin) - 基于微软 API 的 office 365 用户管理（支持多账户切换）
-
-*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-
-*   [kenvix/FuckDaXueXiScreenshot](https://github.com/kenvix/FuckDaXueXiScreenshot) - 青年大学习截图生成器
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-
-*   [jchwl0527/cdn](https://github.com/jchwl0527/cdn) - jsdelivr-cdn
-
-*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (像素字体), supporting English, Traditional Chinese, Simplified Chinese and Japanese.
-
-*   [daibor/nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
-
-*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
-
-*   [welfariat/xxland.github.io](https://github.com/welfariat/xxland.github.io) - Mainland of them
-
-*   [STEAM-Lab/Cloudflare-Chinese-Page](https://github.com/STEAM-Lab/Cloudflare-Chinese-Page) - 自定义Cloudflare为中文页面，依据Cloudflare官方的界面源码进行翻译。可以自己编辑其中的文字。避免了部分访问者因不了解英文说明而直接关闭。网站 https://DevHjz.com/  统一演示地址： https://chinese.pages.dev/
-
-*   [StevenX911/xTrace](https://github.com/StevenX911/xTrace) - Web页面浏览"反追踪"Chrome扩展插件
-
-*   [itorr/e](https://github.com/itorr/e) - 易网页 - 中文的超文本标记语言
-
-*   [haoduck/random-backgroundimages](https://github.com/haoduck/random-backgroundimages) -
-
-*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人
-
-*   [gaowanliang/MagicPassword](https://github.com/gaowanliang/MagicPassword) - Need to generate a password? Try Gaowanliang Strong Password Generator. Just need a master password to generate secure passwords to keep your network safe.
-
-*   [BlueSkyXN/TencentCloud-Order](https://github.com/BlueSkyXN/TencentCloud-Order) - 腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面
-
-*   [zkysimon/snake](https://github.com/zkysimon/snake) -
-
-*   [CangShui/CloudflareCustomPages](https://github.com/CangShui/CloudflareCustomPages) - My Cloudflare Custom Pages ,It is Beautiful!
-
-*   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 内网横向
-
-*   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
-
 ## miscellaneous
+
+*   [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
 
 *   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 
@@ -310,6 +200,192 @@
 *   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
 
 *   [7ednet/yard](https://github.com/7ednet/yard) -
+
+## PHP
+
+*   [linux-jin/ShareYourV2raySubscription](https://github.com/linux-jin/ShareYourV2raySubscription) - VMESS/SS 订阅链接与节点管理器，有效解决自建多个节点多设备同步更新问题。编辑存储多个节点，自动提取别名，并生成属于自己的订阅链接。
+
+*   [Skywt2003/Writecho](https://github.com/Skywt2003/Writecho) - A fully hand-written Typecho theme.
+
+*   [jiehu0992/5itv](https://github.com/jiehu0992/5itv) - familytree家谱宗谱族谱 刘三才族裔刘氏族谱网源码
+
+*   [babaiyun/minipass](https://github.com/babaiyun/minipass) - 一款免费、小巧、开源的密码管理工具，PHP单文件密码保险箱。
+
+*   [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
+
+*   [jchwl0527/Pigeon](https://github.com/jchwl0527/Pigeon) - 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
+
+*   [juzeon/mobile-acg](https://github.com/juzeon/mobile-acg) - 一个PHP开发的HTTP API，随机获取一张或多张来自Telegram频道 t.me/MikuArt 的适合竖屏移动设备查看的二次元图片，并上传到今日头条的图床，支持JSON获取地址或直接跳转。
+
+*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
+
+*   [kasuganosoras/SyncMusic](https://github.com/kasuganosoras/SyncMusic) - 🎵 PHP Swoole 开发的在线同步点歌台，支持自由点歌，切歌，调整排序，删除指定音乐以及基础权限分级
+
+*   [rickylsr/ShareYourV2raySubscription](https://github.com/rickylsr/ShareYourV2raySubscription) - VMESS/SS 订阅链接与节点管理器，有效解决自建多个节点多设备同步更新问题。编辑存储多个节点，自动提取别名，并生成属于自己的订阅链接。
+
+*   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
+
+*   [qihjn/my](https://github.com/qihjn/my) -
+
+*   [jiix/plugins](https://github.com/jiix/plugins) - xiuno bbs插件、主题收集，欢迎提交。
+
+*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
+
+*   [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
+
+*   [rehiy/cloudflare-panel](https://github.com/rehiy/cloudflare-panel) - Cloudflare DNS 管理面板
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
+
+*   [david082321/BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器(PHP)
+
+*   [yswery/PHP-DNS-SERVER](https://github.com/yswery/PHP-DNS-SERVER) - An Authoritative DNS Server written purely in PHP
+
+*   [sy-records/GetFavicon](https://github.com/sy-records/GetFavicon) - 用PHP获取网站favicon的API，可用于美化网站外链显示效果。
+
+*   [jiix/xiunobbs](https://github.com/jiix/xiunobbs) - Xiuno BBS 4.0 是一款轻论坛程序。 本版修复了php7.4、php8.0兼容问题；采用utf8mb4，支持emoji；，jQuery更新到 3.5.1；bootstrap更新到4.5.0。移除部分插件，更新默认主题。
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+*   [klsf/kldns](https://github.com/klsf/kldns) - 快乐二级域名分发系统
+
+*   [ping-xiong/saylovewall](https://github.com/ping-xiong/saylovewall) - PHP表白墙，微信表白墙，双11表白墙，光棍节表白墙，单身节表白墙，情人节表白墙
+
+*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
+
+*   [wuxiaocong/jiba](https://github.com/wuxiaocong/jiba) - jiba union
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [asiacny/zero-width-qrcode-shortener](https://github.com/asiacny/zero-width-qrcode-shortener) - 零宽度短网址与二维码生成工具(PHP+ORACLE/MYSQL/SQLite)
+
+*   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
+
+*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
+
+*   [jchwl0527/Any-Proxy](https://github.com/jchwl0527/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
+
+*   [yitd/Any-Proxy](https://github.com/yitd/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
+
+## HTML
+
+*   [srcrs/rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
+
+*   [jchwl0527/Hexo\_Blog\_vercel](https://github.com/jchwl0527/Hexo_Blog_vercel) -
+
+*   [helloxz/ccaa](https://github.com/helloxz/ccaa) - Linux一键安装Aria2 + AriaNg + FileBrowse实现离线下载、文件管理。
+
+*   [GodLikeZeal/family](https://github.com/GodLikeZeal/family) - 家族族谱，族谱树管理后台系统
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [laike9m/My\_Blog](https://github.com/laike9m/My_Blog) - My Django Blog
+
+*   [A-Lang-Y/-](https://github.com/A-Lang-Y/-) - 前端静态博客源码模板，所有资料都来自公共网络收集,收集整理提供给大家学习使用
+
+*   [A10ha/EmailSender](https://github.com/A10ha/EmailSender) - 钓鱼邮件便捷发送工具（GUI）
+
+*   [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
+
+*   [AnsonZnl/makesen](https://github.com/AnsonZnl/makesen) - 基于 jQuery/Bootstrap开发的响应式企业门户网站 、企业官网
+
+*   [SuperSafeMessage/SuperSafeMessage.github.io](https://github.com/SuperSafeMessage/SuperSafeMessage.github.io) -
+
+*   [ZGQ-inc/sitebox](https://github.com/ZGQ-inc/sitebox) - :globe\_with\_meridians:网站分享|SiteBox
+
+*   [ZGQ-inc/SB-Tencent](https://github.com/ZGQ-inc/SB-Tencent) - 献给腾讯公司的礼物 | 为什么要做这个？因为项目作者的QQ账号经常无缘无故被冻结，所以想对腾讯公司表达谢意。 :rage1:
+
+*   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
+
+*   [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
+
+*   [jchwl0527/Telegraph-Image](https://github.com/jchwl0527/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
+
+*   [jchwl0527/42.zip](https://github.com/jchwl0527/42.zip) - 42.zip
+
+*   [jchwl0527/Qexo](https://github.com/jchwl0527/Qexo) -
+
+*   [jchwl0527/steam\_info\_page](https://github.com/jchwl0527/steam_info_page) - 一个用于展示steam库存与好友信息的页面
+
+*   [jchwl0527/chaoxing-sign-ui](https://github.com/jchwl0527/chaoxing-sign-ui) - 超星学习通签到图形化界面。
+
+*   [cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web) - 云收藏 Spring Boot 2.X 开源项目
+
+*   [itbdw/ip-database](https://github.com/itbdw/ip-database) - 🇨🇳免费IP地址数据库，已支持IPV4+IPV6 ，结构化输出为国家、省、市、县、运营商)，中文数据库，方便实用。
+
+*   [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
+
+*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
+
+*   [tholman/binary-music-player](https://github.com/tholman/binary-music-player) - A binary music player, with customizable notes & playback.
+
+*   [haozi-team/panel](https://github.com/haozi-team/panel) - 耗子Linux面板
+
+*   [ybw2016v/steam\_info\_page](https://github.com/ybw2016v/steam_info_page) - 一个用于展示steam库存与好友信息的页面
+
+*   [xsy2004/chrome\_dino\_game](https://github.com/xsy2004/chrome_dino_game) - 更容易嵌入的 Chrome "恐龙快跑"游戏.
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
+*   [nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus) - 一个Material Design风格的探针
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [jchwl0527/ACME-HTML-Web-Browser-Client](https://github.com/jchwl0527/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt、ZeroSSL 等支持 ACME 协议的证书颁发机构申请pem格式证书
+
+*   [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt、ZeroSSL 等支持 ACME 协议的证书颁发机构申请pem格式证书
+
+*   [6mb/Microsoft-365-Admin](https://github.com/6mb/Microsoft-365-Admin) - 基于微软 API 的 office 365 用户管理（支持多账户切换）
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [kenvix/FuckDaXueXiScreenshot](https://github.com/kenvix/FuckDaXueXiScreenshot) - 青年大学习截图生成器
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+
+*   [jchwl0527/cdn](https://github.com/jchwl0527/cdn) - jsdelivr-cdn
+
+*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (像素字体), supporting English, Traditional Chinese, Simplified Chinese and Japanese.
+
+*   [daibor/nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
+
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+
+*   [welfariat/xxland.github.io](https://github.com/welfariat/xxland.github.io) - Mainland of them
+
+*   [STEAM-Lab/Cloudflare-Chinese-Page](https://github.com/STEAM-Lab/Cloudflare-Chinese-Page) - 自定义Cloudflare为中文页面，依据Cloudflare官方的界面源码进行翻译。可以自己编辑其中的文字。避免了部分访问者因不了解英文说明而直接关闭。网站 https://DevHjz.com/  统一演示地址： https://chinese.pages.dev/
+
+*   [StevenX911/xTrace](https://github.com/StevenX911/xTrace) - Web页面浏览"反追踪"Chrome扩展插件
+
+*   [itorr/e](https://github.com/itorr/e) - 易网页 - 中文的超文本标记语言
+
+*   [haoduck/random-backgroundimages](https://github.com/haoduck/random-backgroundimages) -
+
+*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人
+
+*   [gaowanliang/MagicPassword](https://github.com/gaowanliang/MagicPassword) - Need to generate a password? Try Gaowanliang Strong Password Generator. Just need a master password to generate secure passwords to keep your network safe.
+
+*   [BlueSkyXN/TencentCloud-Order](https://github.com/BlueSkyXN/TencentCloud-Order) - 腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面
+
+*   [zkysimon/snake](https://github.com/zkysimon/snake) -
+
+*   [CangShui/CloudflareCustomPages](https://github.com/CangShui/CloudflareCustomPages) - My Cloudflare Custom Pages ,It is Beautiful!
+
+*   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 内网横向
+
+*   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 
 ## Python
 
@@ -499,8 +575,6 @@
 
 *   [zhjc1124/ssr\_autocheckin](https://github.com/zhjc1124/ssr_autocheckin) - 适用于sspanel自动签到脚本
 
-*   [SycAlright/Scrapy](https://github.com/SycAlright/Scrapy) - Scrapy
-
 ## Dart
 
 *   [wanghongenpin/network\_proxy\_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - 开源免费抓包软件ProxyPin，支持全平台系统，用flutter框架开发
@@ -660,78 +734,6 @@
 *   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 
 *   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
-
-## PHP
-
-*   [Skywt2003/Writecho](https://github.com/Skywt2003/Writecho) - A fully hand-written Typecho theme.
-
-*   [jiehu0992/5itv](https://github.com/jiehu0992/5itv) - familytree家谱宗谱族谱 刘三才族裔刘氏族谱网源码
-
-*   [babaiyun/minipass](https://github.com/babaiyun/minipass) - 一款免费、小巧、开源的密码管理工具，PHP单文件密码保险箱。
-
-*   [Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
-
-*   [jchwl0527/Pigeon](https://github.com/jchwl0527/Pigeon) - 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
-
-*   [juzeon/mobile-acg](https://github.com/juzeon/mobile-acg) - 一个PHP开发的HTTP API，随机获取一张或多张来自Telegram频道 t.me/MikuArt 的适合竖屏移动设备查看的二次元图片，并上传到今日头条的图床，支持JSON获取地址或直接跳转。
-
-*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
-
-*   [kasuganosoras/SyncMusic](https://github.com/kasuganosoras/SyncMusic) - 🎵 PHP Swoole 开发的在线同步点歌台，支持自由点歌，切歌，调整排序，删除指定音乐以及基础权限分级
-
-*   [rickylsr/ShareYourV2raySubscription](https://github.com/rickylsr/ShareYourV2raySubscription) - VMESS/SS 订阅链接与节点管理器，有效解决自建多个节点多设备同步更新问题。编辑存储多个节点，自动提取别名，并生成属于自己的订阅链接。
-
-*   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
-
-*   [qihjn/my](https://github.com/qihjn/my) -
-
-*   [jiix/plugins](https://github.com/jiix/plugins) - xiuno bbs插件、主题收集，欢迎提交。
-
-*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
-
-*   [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
-
-*   [rehiy/cloudflare-panel](https://github.com/rehiy/cloudflare-panel) - Cloudflare DNS 管理面板
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
-
-*   [david082321/BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器(PHP)
-
-*   [yswery/PHP-DNS-SERVER](https://github.com/yswery/PHP-DNS-SERVER) - An Authoritative DNS Server written purely in PHP
-
-*   [sy-records/GetFavicon](https://github.com/sy-records/GetFavicon) - 用PHP获取网站favicon的API，可用于美化网站外链显示效果。
-
-*   [jiix/xiunobbs](https://github.com/jiix/xiunobbs) - Xiuno BBS 4.0 是一款轻论坛程序。 本版修复了php7.4、php8.0兼容问题；采用utf8mb4，支持emoji；，jQuery更新到 3.5.1；bootstrap更新到4.5.0。移除部分插件，更新默认主题。
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
-*   [klsf/kldns](https://github.com/klsf/kldns) - 快乐二级域名分发系统
-
-*   [ping-xiong/saylovewall](https://github.com/ping-xiong/saylovewall) - PHP表白墙，微信表白墙，双11表白墙，光棍节表白墙，单身节表白墙，情人节表白墙
-
-*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-
-*   [wuxiaocong/jiba](https://github.com/wuxiaocong/jiba) - jiba union
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [asiacny/zero-width-qrcode-shortener](https://github.com/asiacny/zero-width-qrcode-shortener) - 零宽度短网址与二维码生成工具(PHP+ORACLE/MYSQL/SQLite)
-
-*   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
-
-*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
-
-*   [jchwl0527/Any-Proxy](https://github.com/jchwl0527/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
-
-*   [yitd/Any-Proxy](https://github.com/yitd/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
-
-*   [shiningw/pdns-symfony](https://github.com/shiningw/pdns-symfony) - A Symfony-based web management interface for Powerdns
 
 ## JavaScript
 
@@ -1108,8 +1110,6 @@
 *   [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - 🤖 Telebot for E5 Renewal
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [Sansui233/proxypool](https://github.com/Sansui233/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
 
 ## Java
 

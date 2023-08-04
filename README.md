@@ -16,20 +16,20 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
+*   [Java](#java)
+*   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [Shell](#shell)
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Vue](#vue)
 *   [C](#c)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
-*   [Java](#java)
 *   [Lua](#lua)
 *   [C++](#c-1)
 *   [CSS](#css)
@@ -55,75 +55,231 @@
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
 
-## TypeScript
+## JavaScript
 
-*   [mx-space/core](https://github.com/mx-space/core) - 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
+*   [Misaka-blog/cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless) - 在 CloudFlare Workers 或 Pages 部署 vless 节点
 
-*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
-*   [dewjohn/next-blog-boring](https://github.com/dewjohn/next-blog-boring) - A Next.js blog with NotionApi
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - typora插件集合，功能增强工具。
 
-*   [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
+*   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
-*   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
+*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 
-*   [yuudi/rclone-webui-angular](https://github.com/yuudi/rclone-webui-angular) - Another Web GUI for Rclone
+*   [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 
-*   [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) -  ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
+*   [NianBroken/Payment-Code](https://github.com/NianBroken/Payment-Code) - 一个拥有高度自适应设备尺寸的HTML网页 用于展示您所有钱包的收款码|多合一收款码|万能收款码|支付宝收款|微信收款|QQ收款|三合一收款码
 
-*   [zy445566/vscode-plugin-swimming](https://github.com/zy445566/vscode-plugin-swimming) - vscode插件。模拟写代码，划水，摸鱼神器。
+*   [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 
-*   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+*   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 优雅的搜索引擎跳转助手 Google & Baidu Switcher.user.js.
 
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+*   [a695979515/enterprise](https://github.com/a695979515/enterprise) - 企业门户网站
 
-*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
+*   [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 
-*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
+*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 
-*   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
+*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 
-*   [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
+*   [laukeng/snapchat](https://github.com/laukeng/snapchat) -
 
-*   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+*   [mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
 
-*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH\&webSFTP)
 
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
+*   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
 
-*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20230718] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
-*   [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
+*   [he1pu/signin](https://github.com/he1pu/signin) -
 
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
+*   [willin/js.cool](https://github.com/willin/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！参考新项目： https://github.com/willin/domain
 
-*   [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
+*   [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 
-*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
-*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
+*   [liuquanhao/moyu](https://github.com/liuquanhao/moyu) - 墨鱼探针
 
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
+*   [jchwl0527/HB-PingLun](https://github.com/jchwl0527/HB-PingLun) -
 
-*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
+*   [jchwl0527/Clash\_Chinese\_Patch](https://github.com/jchwl0527/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
 
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+*   [jchwl0527/NeteaseCloudMusicApi](https://github.com/jchwl0527/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
-*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
+*   [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
 
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
 
-*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+*   [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 
-*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
+*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
-*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
+
+*   [ConardLi/openai-nodejs-demo](https://github.com/ConardLi/openai-nodejs-demo) - A project that uses koa framework and openai library to generate images automatically.
+
+*   [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - A pastebin based on Cloudflare worker, with friendly CLI usage and rich features
+
+*   [DaXiongRen/DOMTree](https://github.com/DaXiongRen/DOMTree) - 用html表单元素画的一棵旋转圣诞树
+
+*   [lan-tianxiang/JS\_TOOL](https://github.com/lan-tianxiang/JS_TOOL) - Node网页开发工具
+
+*   [unixzii/the-silence-campaign](https://github.com/unixzii/the-silence-campaign) - They don't let us talk, they just want to silence us.
+
+*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
+
+*   [tina-hello/doh-cf-pages](https://github.com/tina-hello/doh-cf-pages) - DNS-over-HTTPS proxy on Cloudflare Pages
+
+*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
+
+*   [jchwl0527/umami](https://github.com/jchwl0527/umami) - 自建网站统计
+
+*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+*   [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
+
+*   [oubingbing/school\_wechat](https://github.com/oubingbing/school_wechat) - 校园小情书前端代码，好玩的表白墙、树洞、校园论坛，可独立部署，也可以使用我部署的后台服务，毕业设计的好项目。
+
+*   [lx164/SayLove](https://github.com/lx164/SayLove) - 基于Cloud Base（TCB）云开发的SayLove表白墙V1.0微信小程序，如果你想拥有一个自己经营的表白墙，那么你只需简单的几步配置，即可快速完成微信小程序前后端的搭建。后台完全使用微信小程序云开发，不依赖服务器，不需要额外购买服务器和配置繁琐的运行环境即可快速上线使用。
+
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
+
+*   [master-of-forums/master-of-forums](https://github.com/master-of-forums/master-of-forums) - 论坛网站页面美化、广告移除、功能增强。美轮美奂的视觉享受，安然恬静的论坛时光……
+
+*   [rstyro/html5](https://github.com/rstyro/html5) - html5 canvas 特效
+
+*   [GalaxyMimi/git-draw](https://github.com/GalaxyMimi/git-draw) - Allows you to draw in your github heatmap
+
+*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - chrome插件，多功能集合，简单粗暴，个人定制，替代onetab
+
+*   [danteswx/fxxk](https://github.com/danteswx/fxxk) - 自用青龙库
+
+*   [yeliulee/rust-wasm-mirage-tank](https://github.com/yeliulee/rust-wasm-mirage-tank) - MirageTank Wasm driven by rustwasm; hidden image; 幻影坦克; 隐藏图制作;
+
+*   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
+
+*   [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
+
+*   [casbin/casibase](https://github.com/casbin/casibase) - Open-Source Domain Knowledge Database & IM & Forum Software powered by ChatGPT. See demo: https://ai.casbin.com
+
+*   [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+*   [jchwl0527/GLaDOS-CheckIn-1](https://github.com/jchwl0527/GLaDOS-CheckIn-1) - GLaDOS AutoCheckIn 定时自动签到
+
+*   [hoochanlon/hoochanlon](https://github.com/hoochanlon/hoochanlon) - 这一个Hacker Style风格化的自我简介JS模板，在线效果： https://hoochanlon.github.io/hoochanlon
+
+*   [DullSword/GLaDOS-CheckIn](https://github.com/DullSword/GLaDOS-CheckIn) - GLaDOS AutoCheckIn 定时自动签到
+
+*   [lukesyy/jd\_yun](https://github.com/lukesyy/jd_yun) - JD-----云函数&青龙
+
+*   [shidahuilang/QL-](https://github.com/shidahuilang/QL-) - 青龙一键搭建，检测安装docker，青龙脚本依赖，拉库，全部傻瓜式
+
+*   [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
+
+*   [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 　　常用网站签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选联想延保|联动云租车|数码之家|玩物志好物商店|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之家|富贵论坛|ug爱好者|阅次元论坛|菜鸟图库|魅族社区|经管之家|有分享论坛|bigfun社区|阡陌居|HiFiNi|Hires后花园|曲奇云盘|游戏动力|百度爱企查|轻之文库|Qoo|天使动漫|耽漫|立创|捷配|花火论坛|17k小说|触站|起点读书|美团买菜)
+
+*   [Humoonruc/auto-divination](https://github.com/Humoonruc/auto-divination) - 周易自动占卜程序
+
+*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+
+*   [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
+
+*   [viko16/hexo-permalink-pinyin](https://github.com/viko16/hexo-permalink-pinyin) - A Hexo plugin which convert Chinese title to transliterate permalink.
+
+*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
+
+*   [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+
+*   [izuolan/zresume](https://github.com/izuolan/zresume) - 程序员简历生成器（可导出静态页面、支持密码验证访问）
+
+*   [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
+
+*   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
+
+*   [insoxin/API](https://github.com/insoxin/API) - API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台.
+
+*   [owenashurst/agar.io-clone](https://github.com/owenashurst/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
+
+*   [BoyceLig/Clash\_Chinese\_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
+
+*   [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+
+*   [yanzai/goindex](https://github.com/yanzai/goindex) - Goindex 修改版，支持多盘、搜索、分页加载等功能
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+
+*   [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
+
+*   [enfangzhong/loveSource](https://github.com/enfangzhong/loveSource) - 程序员的浪漫爱心表白源码     演示地址1：https://enfangzhong.github.io/love/                                                                 演示地址2：https://enfangzhong.github.io/loveshow/
+
+*   [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
+
+*   [lkyero/GitHubDesktop\_zh](https://github.com/lkyero/GitHubDesktop_zh) - 【GitHub Desktop】客户端中文汉化（简体）；【GitHub Desktop】 Simplified Chinese interface；（GitHub桌面版 中文汉化，非网页插件）
+
+*   [oevery/ninja](https://github.com/oevery/ninja) -
+
+*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
+
+*   [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
+
+*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
+
+*   [WildXBird/Outlooker](https://github.com/WildXBird/Outlooker) - \[摸鱼神器]高仿 Outlook RSS 阅读器
+
+*   [prinsss/prinsss.github.io](https://github.com/prinsss/prinsss.github.io) - Everything about my blog.
+
+*   [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
+
+*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
+
+*   [MHuiG/ohhho](https://github.com/MHuiG/ohhho) - 基于 CloudFlareWorker 和 CloudFlareKV/IPFS  技术的评论系统内核实验项目
+
+*   [lindadade/the-gorgeous-electronic-clock-of-canvas](https://github.com/lindadade/the-gorgeous-electronic-clock-of-canvas) - Dynamic ball timer and electronic clock based on canvas
+
+*   [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [jialezi/oneindex-j](https://github.com/jialezi/oneindex-j) - OneDrive Directory Index
+
+*   [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
+
+*   [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
+
+*   [Binaryify/vue-tetris](https://github.com/Binaryify/vue-tetris) - Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块
+
+*   [AntSwordProject/ant](https://github.com/AntSwordProject/ant) - 实时上线的 XSS 盲打平台
+
+*   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+
+*   [JavisPeng/taojinbi](https://github.com/JavisPeng/taojinbi) - 淘宝淘金币自动执行脚本，包含蚂蚁森林收取能量，芭芭农场全任务，解放你的双手
+
+*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
+
+*   [ukuq/onepoint](https://github.com/ukuq/onepoint) - A simple virtual drive based on many complex drives
+
+*   [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点\[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
+
+*   [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
+
+*   [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
+
+*   [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 
 ## miscellaneous
+
+*   [Misaka-blog/cf-wkrs-sub](https://github.com/Misaka-blog/cf-wkrs-sub) - 使用 CloudFlare Workers 订阅免费节点
 
 *   [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
 
@@ -269,6 +425,108 @@
 
 *   [7ednet/yard](https://github.com/7ednet/yard) -
 
+## Java
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
+
+*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
+
+*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
+
+*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
+
+*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
+
+*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
+
+*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
+
+*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
+
+## TypeScript
+
+*   [mx-space/core](https://github.com/mx-space/core) - 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
+
+*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+
+*   [dewjohn/next-blog-boring](https://github.com/dewjohn/next-blog-boring) - A Next.js blog with NotionApi
+
+*   [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
+
+*   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
+
+*   [yuudi/rclone-webui-angular](https://github.com/yuudi/rclone-webui-angular) - Another Web GUI for Rclone
+
+*   [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) -  ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
+
+*   [zy445566/vscode-plugin-swimming](https://github.com/zy445566/vscode-plugin-swimming) - vscode插件。模拟写代码，划水，摸鱼神器。
+
+*   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+
+*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+
+*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
+
+*   [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
+
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+
+*   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
+
+*   [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
+
+*   [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+
+*   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
+
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
+
+*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
+
+*   [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
+
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
+
+*   [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
+
+*   [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
+
+*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
+
+*   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [CaffreySun/OHouEmoji](https://github.com/CaffreySun/OHouEmoji) - 噢吼 Emoji，一个文本转Emoji的小工具。
+
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+
+*   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
+
+*   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
+
+*   [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+
 ## PHP
 
 *   [linux-jin/ShareYourV2raySubscription](https://github.com/linux-jin/ShareYourV2raySubscription) - VMESS/SS 订阅链接与节点管理器，有效解决自建多个节点多设备同步更新问题。编辑存储多个节点，自动提取别名，并生成属于自己的订阅链接。
@@ -391,7 +649,7 @@
 
 *   [tholman/binary-music-player](https://github.com/tholman/binary-music-player) - A binary music player, with customizable notes & playback.
 
-*   [haozi-team/panel](https://github.com/haozi-team/panel) - 耗子Linux面板
+*   [haozi-team/panel](https://github.com/haozi-team/panel) - 耗子Linux面板 - GO开发的轻量Linux面板
 
 *   [ybw2016v/steam\_info\_page](https://github.com/ybw2016v/steam_info_page) - 一个用于展示steam库存与好友信息的页面
 
@@ -735,228 +993,6 @@
 
 *   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜
 
-## JavaScript
-
-*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - typora插件集合，功能增强工具。
-
-*   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
-
-*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
-
-*   [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
-
-*   [NianBroken/Payment-Code](https://github.com/NianBroken/Payment-Code) - 一个拥有高度自适应设备尺寸的HTML网页 用于展示您所有钱包的收款码|多合一收款码|万能收款码|支付宝收款|微信收款|QQ收款|三合一收款码
-
-*   [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
-
-*   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 优雅的搜索引擎跳转助手 Google & Baidu Switcher.user.js.
-
-*   [a695979515/enterprise](https://github.com/a695979515/enterprise) - 企业门户网站
-
-*   [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
-
-*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-
-*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
-
-*   [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
-
-*   [laukeng/snapchat](https://github.com/laukeng/snapchat) -
-
-*   [mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
-
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH\&webSFTP)
-
-*   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
-
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20230718] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [he1pu/signin](https://github.com/he1pu/signin) -
-
-*   [willin/js.cool](https://github.com/willin/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！参考新项目： https://github.com/willin/domain
-
-*   [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
-
-*   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
-
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
-*   [liuquanhao/moyu](https://github.com/liuquanhao/moyu) - 墨鱼探针
-
-*   [jchwl0527/HB-PingLun](https://github.com/jchwl0527/HB-PingLun) -
-
-*   [jchwl0527/Clash\_Chinese\_Patch](https://github.com/jchwl0527/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
-
-*   [jchwl0527/NeteaseCloudMusicApi](https://github.com/jchwl0527/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
-
-*   [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
-
-*   [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
-
-*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-
-*   [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
-
-*   [ConardLi/openai-nodejs-demo](https://github.com/ConardLi/openai-nodejs-demo) - A project that uses koa framework and openai library to generate images automatically.
-
-*   [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - A pastebin based on Cloudflare worker, with friendly CLI usage and rich features
-
-*   [DaXiongRen/DOMTree](https://github.com/DaXiongRen/DOMTree) - 用html表单元素画的一棵旋转圣诞树
-
-*   [lan-tianxiang/JS\_TOOL](https://github.com/lan-tianxiang/JS_TOOL) - Node网页开发工具
-
-*   [unixzii/the-silence-campaign](https://github.com/unixzii/the-silence-campaign) - They don't let us talk, they just want to silence us.
-
-*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
-
-*   [tina-hello/doh-cf-pages](https://github.com/tina-hello/doh-cf-pages) - DNS-over-HTTPS proxy on Cloudflare Pages
-
-*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
-
-*   [jchwl0527/umami](https://github.com/jchwl0527/umami) - 自建网站统计
-
-*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-
-*   [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
-
-*   [oubingbing/school\_wechat](https://github.com/oubingbing/school_wechat) - 校园小情书前端代码，好玩的表白墙、树洞、校园论坛，可独立部署，也可以使用我部署的后台服务，毕业设计的好项目。
-
-*   [lx164/SayLove](https://github.com/lx164/SayLove) - 基于Cloud Base（TCB）云开发的SayLove表白墙V1.0微信小程序，如果你想拥有一个自己经营的表白墙，那么你只需简单的几步配置，即可快速完成微信小程序前后端的搭建。后台完全使用微信小程序云开发，不依赖服务器，不需要额外购买服务器和配置繁琐的运行环境即可快速上线使用。
-
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-
-*   [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-
-*   [master-of-forums/master-of-forums](https://github.com/master-of-forums/master-of-forums) - 论坛网站页面美化、广告移除、功能增强。美轮美奂的视觉享受，安然恬静的论坛时光……
-
-*   [rstyro/html5](https://github.com/rstyro/html5) - html5 canvas 特效
-
-*   [GalaxyMimi/git-draw](https://github.com/GalaxyMimi/git-draw) - Allows you to draw in your github heatmap
-
-*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - chrome插件，多功能集合，简单粗暴，个人定制，替代onetab
-
-*   [danteswx/fxxk](https://github.com/danteswx/fxxk) - 自用青龙库
-
-*   [yeliulee/rust-wasm-mirage-tank](https://github.com/yeliulee/rust-wasm-mirage-tank) - MirageTank Wasm driven by rustwasm; hidden image; 幻影坦克; 隐藏图制作;
-
-*   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
-
-*   [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
-
-*   [casbin/casibase](https://github.com/casbin/casibase) - Open-Source Domain Knowledge Database & IM & Forum Software powered by ChatGPT. See demo: https://ai.casbin.com
-
-*   [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-
-*   [jchwl0527/GLaDOS-CheckIn-1](https://github.com/jchwl0527/GLaDOS-CheckIn-1) - GLaDOS AutoCheckIn 定时自动签到
-
-*   [hoochanlon/hoochanlon](https://github.com/hoochanlon/hoochanlon) - 这一个Hacker Style风格化的自我简介JS模板，在线效果： https://hoochanlon.github.io/hoochanlon
-
-*   [DullSword/GLaDOS-CheckIn](https://github.com/DullSword/GLaDOS-CheckIn) - GLaDOS AutoCheckIn 定时自动签到
-
-*   [lukesyy/jd\_yun](https://github.com/lukesyy/jd_yun) - JD-----云函数&青龙
-
-*   [shidahuilang/QL-](https://github.com/shidahuilang/QL-) - 青龙一键搭建，检测安装docker，青龙脚本依赖，拉库，全部傻瓜式
-
-*   [inu1255/soulsign-chrome](https://github.com/inu1255/soulsign-chrome) - 魂签，一款用于自动签到的chrome插件
-
-*   [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 　　常用网站签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选联想延保|联动云租车|数码之家|玩物志好物商店|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之家|富贵论坛|ug爱好者|阅次元论坛|菜鸟图库|魅族社区|经管之家|有分享论坛|bigfun社区|阡陌居|HiFiNi|Hires后花园|曲奇云盘|游戏动力|百度爱企查|轻之文库|Qoo|天使动漫|耽漫|立创|捷配|花火论坛|17k小说|触站|起点读书|美团买菜)
-
-*   [Humoonruc/auto-divination](https://github.com/Humoonruc/auto-divination) - 周易自动占卜程序
-
-*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
-
-*   [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
-
-*   [viko16/hexo-permalink-pinyin](https://github.com/viko16/hexo-permalink-pinyin) - A Hexo plugin which convert Chinese title to transliterate permalink.
-
-*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-
-*   [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
-
-*   [izuolan/zresume](https://github.com/izuolan/zresume) - 程序员简历生成器（可导出静态页面、支持密码验证访问）
-
-*   [Wexagonal/Wexagonal](https://github.com/Wexagonal/Wexagonal) - A Lightweight \ Multi Platform \ Out of The Box hexo backend Manager | 轻量级\多平台\开箱即用的hexo后端管理器
-
-*   [evilbutcher/Quantumult\_X](https://github.com/evilbutcher/Quantumult_X) - 一些有意思的脚本 Scripts for Quantumult X, Loon, Surge
-
-*   [insoxin/API](https://github.com/insoxin/API) - API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台.
-
-*   [owenashurst/agar.io-clone](https://github.com/owenashurst/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
-
-*   [BoyceLig/Clash\_Chinese\_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
-
-*   [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-*   [yanzai/goindex](https://github.com/yanzai/goindex) - Goindex 修改版，支持多盘、搜索、分页加载等功能
-
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-
-*   [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
-
-*   [enfangzhong/loveSource](https://github.com/enfangzhong/loveSource) - 程序员的浪漫爱心表白源码     演示地址1：https://enfangzhong.github.io/love/                                                                 演示地址2：https://enfangzhong.github.io/loveshow/
-
-*   [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
-
-*   [lkyero/GitHubDesktop\_zh](https://github.com/lkyero/GitHubDesktop_zh) - 【GitHub Desktop】客户端中文汉化（简体）；【GitHub Desktop】 Simplified Chinese interface；（GitHub桌面版 中文汉化，非网页插件）
-
-*   [oevery/ninja](https://github.com/oevery/ninja) -
-
-*   [luchenqun/my-bookmark](https://github.com/luchenqun/my-bookmark) - 在线书签管理工具
-
-*   [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
-
-*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
-
-*   [WildXBird/Outlooker](https://github.com/WildXBird/Outlooker) - \[摸鱼神器]高仿 Outlook RSS 阅读器
-
-*   [prinsss/prinsss.github.io](https://github.com/prinsss/prinsss.github.io) - Everything about my blog.
-
-*   [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
-
-*   [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
-
-*   [MHuiG/ohhho](https://github.com/MHuiG/ohhho) - 基于 CloudFlareWorker 和 CloudFlareKV/IPFS  技术的评论系统内核实验项目
-
-*   [lindadade/the-gorgeous-electronic-clock-of-canvas](https://github.com/lindadade/the-gorgeous-electronic-clock-of-canvas) - Dynamic ball timer and electronic clock based on canvas
-
-*   [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [jialezi/oneindex-j](https://github.com/jialezi/oneindex-j) - OneDrive Directory Index
-
-*   [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
-
-*   [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
-
-*   [Binaryify/vue-tetris](https://github.com/Binaryify/vue-tetris) - Use Vue, Vuex to code Tetris.使用 Vue, Vuex 做俄罗斯方块
-
-*   [AntSwordProject/ant](https://github.com/AntSwordProject/ant) - 实时上线的 XSS 盲打平台
-
-*   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
-
-*   [JavisPeng/taojinbi](https://github.com/JavisPeng/taojinbi) - 淘宝淘金币自动执行脚本，包含蚂蚁森林收取能量，芭芭农场全任务，解放你的双手
-
-*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-
-*   [ukuq/onepoint](https://github.com/ukuq/onepoint) - A simple virtual drive based on many complex drives
-
-*   [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点\[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
-
-*   [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
-
-*   [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
-
-*   [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
-
-*   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
-
 ## Rust
 
 *   [develon2015/remote-bind](https://github.com/develon2015/remote-bind) - 将本地服务映射到公网
@@ -1109,40 +1145,6 @@
 
 *   [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - 🤖 Telebot for E5 Renewal
 
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-## Java
-
-*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
-
-*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
-
-*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
-*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
-
-*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
-
-*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
-
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
-
-*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
-
-*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
-
-*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
-
 ## Lua
 
 *   [ASC8384/myRime](https://github.com/ASC8384/myRime) - 我的 Rime 配置，适用于朙月拼音／小鹤双拼／小狼毫 ／ibus
@@ -1198,8 +1200,6 @@
 *   [sanjinhub/hexo-theme-geek](https://github.com/sanjinhub/hexo-theme-geek) - 一个符合极客精神主义极简的 Hexo 主题
 
 *   [HFO4/HideByPixel](https://github.com/HFO4/HideByPixel) - 一个利用像素隐藏文字的程序
-
-*   [ChenYFan-Tester/IPFS\_PHOTO\_SHARE](https://github.com/ChenYFan-Tester/IPFS_PHOTO_SHARE) - 💰用甚嚒服务器，ServerLess搭建一个图片分享站点！| 基于CloudFlareWorker无服务器函数和IPFS去中心化存储的图片分享网站
 
 ## MDX
 

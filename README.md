@@ -301,7 +301,7 @@
 
 *   [pennyliang/ciku](https://github.com/pennyliang/ciku) -
 
-*   [Qiantigers/Markdown2HTML](https://github.com/Qiantigers/Markdown2HTML) - 在线渲染任意Markdown文件
+*   [WuSuoV/Markdown2HTML](https://github.com/WuSuoV/Markdown2HTML) - 在线渲染任意Markdown文件
 
 *   [TDesktop-x64/Localization](https://github.com/TDesktop-x64/Localization) - Localization for TDesktop x64
 
@@ -571,7 +571,7 @@
 
 ## Python
 
-*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep is an AI junior developer
+*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes.
 
 *   [Diaoxiaozhang/Ximalaya-Downloader](https://github.com/Diaoxiaozhang/Ximalaya-Downloader) - 喜马拉雅专辑音频一键下载工具
 
@@ -1013,7 +1013,7 @@
 
 ## TypeScript
 
-*   [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🌐 All-in-one OSINT tool for analysing any website
+*   [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 *   [mx-space/core](https://github.com/mx-space/core) - 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.
 
@@ -1121,7 +1121,7 @@
 
 *   [freenet/locutus](https://github.com/freenet/locutus) - Declare your digital independence
 
-*   [MicroCBer/BetterUniverse-Installer](https://github.com/MicroCBer/BetterUniverse-Installer) - 一键安装 Better 系软件
+*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
 
 *   [veoco/rumo](https://github.com/veoco/rumo) - 博客后端程序
 

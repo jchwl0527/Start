@@ -757,6 +757,8 @@
 
 *   [BlueSkyXN/CCATK](https://github.com/BlueSkyXN/CCATK) - 高度自动化CC脚本
 
+*   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
+
 ## Vue
 
 *   [leif0419/sub-web](https://github.com/leif0419/sub-web) -
@@ -826,8 +828,6 @@
 *   [SuperSafeMessage/SuperSafeMessage.github.io](https://github.com/SuperSafeMessage/SuperSafeMessage.github.io) -
 
 *   [ZGQ-inc/sitebox](https://github.com/ZGQ-inc/sitebox) - :globe\_with\_meridians:网站分享|SiteBox
-
-*   [ZGQ-inc/SB-Tencent](https://github.com/ZGQ-inc/SB-Tencent) - 献给腾讯公司的礼物 | 为什么要做这个？因为项目作者的QQ账号经常无缘无故被冻结，所以想对腾讯公司表达谢意。 :rage1:
 
 *   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
 
@@ -921,7 +921,7 @@
 
 ## Shell
 
-*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库。
+*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库
 
 *   [OneB1ank/A1Memory](https://github.com/OneB1ank/A1Memory) - Android third-party memory management
 

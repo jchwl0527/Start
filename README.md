@@ -865,7 +865,7 @@
 
 *   [jchwl0527/ACME-HTML-Web-Browser-Client](https://github.com/jchwl0527/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt、ZeroSSL 等支持 ACME 协议的证书颁发机构申请pem格式证书
 
-*   [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt、ZeroSSL 等支持 ACME 协议的证书颁发机构申请pem格式证书
+*   [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt,ZeroSSL,Google 等支持 ACME 协议的证书颁发机构申请pem格式证书
 
 *   [6mb/Microsoft-365-Admin](https://github.com/6mb/Microsoft-365-Admin) - 基于微软 API 的 office 365 用户管理（支持多账户切换）
 
@@ -1165,7 +1165,7 @@
 
 *   [Dr-TSNG/ZygiskOnKernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) - Run Zygisk on KernelSU
 
-*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - 适用于 UnblockNeteaseMusic 的桌面应用，使用 Qt 制作。
+*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
 
 *   [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - NCM 软件插件管理器
 

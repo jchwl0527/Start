@@ -265,7 +265,7 @@
 
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - typora plugin。typora 插件集合，功能增强工具。
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) -  Typora plugin collection, feature enhancement tool. Typora 插件集合，功能增强工具。
 
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
@@ -1139,7 +1139,7 @@
 
 ## C
 
-*   [heiher/natmap](https://github.com/heiher/natmap) - TCP/UDP port mapping for full cone NAT, any host can access internal services of private address broadband
+*   [heiher/natmap](https://github.com/heiher/natmap) - TCP/UDP port mapping for full cone NAT
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 

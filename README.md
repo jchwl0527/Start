@@ -344,6 +344,8 @@
 
 *   [guhhhhaa/4675-scifi](https://github.com/guhhhhaa/4675-scifi) - chinese NLP corpus of chinese science fiction,chinese science fiction corpus : About 4675 Chinese science fiction novels 大约有4675本科幻小说，中文科幻小说自然语言处理语料库，中文科幻小说文本语料库，中文科幻小说文本数据库，科幻小说语料
 
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+
 *   [jchwl0527/404StarLink](https://github.com/jchwl0527/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 
 *   [jchwl0527/tg\_web\_api](https://github.com/jchwl0527/tg_web_api) - TelegramWEBApi
@@ -877,8 +879,6 @@
 *   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
 
 *   [jchwl0527/GLaDOS-checkin-2](https://github.com/jchwl0527/GLaDOS-checkin-2) - GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。
-
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 
 *   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
 

@@ -16,11 +16,11 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [Batchfile](#batchfile)
 *   [Vue](#vue)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
-*   [Batchfile](#batchfile)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -55,6 +55,176 @@
 *   [EJS](#ejs)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [stayor/git-gui-zh](https://github.com/stayor/git-gui-zh) -
+
+*   [chengyi/BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer) - 程序员相亲指南
+
+*   [dounine/wechat-frida](https://github.com/dounine/wechat-frida) - fradi hook微信逆向分析，使用的是微信最新版本。
+
+*   [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) - ACG2vec全称为Anime Comics Games to vector。本repo会持续维护一些基于二次元相关的深度学习领域实践与探索（文本语义检索、以图搜图、语义搜图等）。
+
+*   [easychen/aiapi](https://github.com/easychen/aiapi) - A Claude-driven, OpenAI specification-compliant API, free
+
+*   [azwhikaru/fish\_helper\_config](https://github.com/azwhikaru/fish_helper_config) -
+
+*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
+
+*   [Misaka-blog/cf-wkrs-sub](https://github.com/Misaka-blog/cf-wkrs-sub) - 使用 CloudFlare Workers 订阅免费节点
+
+*   [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
+
+*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+
+*   [jchwl0527/sub-web](https://github.com/jchwl0527/sub-web) - 基于 vue-cli 与 tindy2013/subconverter 后端实现的配置自动生成。
+
+*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+
+*   [zhangweibo413/yixue](https://github.com/zhangweibo413/yixue) - 易学案例整理（奇门，八字，风水，六爻等等）
+
+*   [whherui/02-liuyao](https://github.com/whherui/02-liuyao) - 六爻笔记
+
+*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
+
+*   [jchwl0527/Start](https://github.com/jchwl0527/Start) -
+
+*   [pennyliang/ciku](https://github.com/pennyliang/ciku) -
+
+*   [WuSuoV/Markdown2HTML](https://github.com/WuSuoV/Markdown2HTML) - 在线渲染任意Markdown文件
+
+*   [TDesktop-x64/Localization](https://github.com/TDesktop-x64/Localization) - Localization for TDesktop x64
+
+*   [askyzz/proxypool](https://github.com/askyzz/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表。欢迎star
+
+*   [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
+
+*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [ZGQ-inc/special-ascii](https://github.com/ZGQ-inc/special-ascii) - :symbols:ASCII特殊字符合集
+
+*   [wyfang/CSGO-Simple-golden-radar](https://github.com/wyfang/CSGO-Simple-golden-radar) -
+
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
+
+*   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
+
+*   [linwoodpendleton/nginx\_proxy\_conf](https://github.com/linwoodpendleton/nginx_proxy_conf) - nginx任意反向代理配置(支持github,ip138,google)
+
+*   [guhhhhaa/4675-scifi](https://github.com/guhhhhaa/4675-scifi) - chinese NLP corpus of chinese science fiction,chinese science fiction corpus : About 4675 Chinese science fiction novels 大约有4675本科幻小说，中文科幻小说自然语言处理语料库，中文科幻小说文本语料库，中文科幻小说文本数据库，科幻小说语料
+
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+
+*   [jchwl0527/404StarLink](https://github.com/jchwl0527/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
+
+*   [jchwl0527/tg\_web\_api](https://github.com/jchwl0527/tg_web_api) - TelegramWEBApi
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) -
+
+*   [xdash/GHacker\_Newsletter](https://github.com/xdash/GHacker_Newsletter) - 增长黑客周刊
+
+*   [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) - 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk) 。
+
+*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+
+*   [robotze/GithubDesktopZhTool](https://github.com/robotze/GithubDesktopZhTool) - Github Desktop 汉化工具 支持 Windows Mac Linux
+
+*   [jchwl0527/chrome\_dino\_game](https://github.com/jchwl0527/chrome_dino_game) - 更容易嵌入的 Chrome "恐龙快跑"游戏.
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
+
+*   [tzchz/webogram-api](https://github.com/tzchz/webogram-api) -
+
+*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
+
+*   [MoGuangYu/Universitystudy](https://github.com/MoGuangYu/Universitystudy) - 青年大学习辅助工具来自于i呀我去公众号
+
+*   [v2hot/awesome-v2ex-tips](https://github.com/v2hot/awesome-v2ex-tips) - 给新手的 V2EX 指南
+
+*   [ilovexjp/healthcode-backup](https://github.com/ilovexjp/healthcode-backup) - 备份一些健康码演示工具
+
+*   [XJP-GIT/AntiZhaPian](https://github.com/XJP-GIT/AntiZhaPian) - 假的国家反诈中心
+
+*   [jacopocolo/Hex-clock](https://github.com/jacopocolo/Hex-clock) - A precise hexadecimal color clock. It tells you what time is it, it tells you what color is it.
+
+*   [elder-frog/OpenCourseCatalog](https://github.com/elder-frog/OpenCourseCatalog) - Bilibili 公开课目录
+
+*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
+
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+
+*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
+
+*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
+
+*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
+
+*   [gnoloehz/996.OD](https://github.com/gnoloehz/996.OD) - 列出长期996后容易遭遇的职业病，为职业病防治法提供立法依据
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+
+*   [k8gege/PasswordDic](https://github.com/k8gege/PasswordDic) - 2011-2019年Top100弱口令密码字典 Top1000密码字典 服务器SSH/VPS密码字典 后台管理密码字典 数据库密码字典  子域名字典
+
+*   [lmk123/blog](https://github.com/lmk123/blog) - 个人技术博客，博文写在 Issues 里。
+
+*   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
+
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
+
+*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
+
+*   [changfengoss/pub](https://github.com/changfengoss/pub) - 科学上网工具
+
+*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
+
+*   [chasenz/BypassCampusNet](https://github.com/chasenz/BypassCampusNet) - 校园网防断网; UDP 53 免流上网; DNS 隧道
+
+*   [asche910/FreeWireless](https://github.com/asche910/FreeWireless) - 绕过校园网、公共热点认证，从而实现免费上网
+
+*   [uxber/AdGuardHome](https://github.com/uxber/AdGuardHome) - AdGuard Filter Rules.
+
+*   [Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD) - 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品
+
+*   [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) -
+
+*   [0voice/computer\_expert\_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
+
+*   [kujian/30-seconds-of-css](https://github.com/kujian/30-seconds-of-css) - 30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。
+
+*   [Miku-programm/V2rayList](https://github.com/Miku-programm/V2rayList) - 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
+
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.7.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+
+*   [iCSToCS/CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
+
+*   [Ailln/awesome-hexo-theme](https://github.com/Ailln/awesome-hexo-theme) - 🌟排名前 10 的 Hexo 主题 | Top 10 Hexo theme
+
+*   [laoxong/66analytics](https://github.com/laoxong/66analytics) - Chinese translation
+
+*   [HexoPlusPlus/CloudFlare2Vercel](https://github.com/HexoPlusPlus/CloudFlare2Vercel) - :zap:Vercel中继CloudFlareWorker脚本
+
+*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
+
+*   [dylanderick/nezha](https://github.com/dylanderick/nezha) - :trollface: 哪吒面板 可能是最优秀的探针了
+
+## Batchfile
+
+*   [FongMi/Release](https://github.com/FongMi/Release) -
+
+*   [PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x](https://github.com/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x) -
+
+*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## Vue
 
@@ -286,164 +456,6 @@
 
 *   [yaokui2018/grade\_statistics](https://github.com/yaokui2018/grade_statistics) - 使用pyqt5开发的小学生成绩管理系统。实现：管理员登录、学生管理、成绩管理、班级管理
 
-## miscellaneous
-
-*   [chengyi/BlindDateGuideForProgrammer](https://github.com/chengyi/BlindDateGuideForProgrammer) - 程序员相亲指南
-
-*   [dounine/wechat-frida](https://github.com/dounine/wechat-frida) - fradi hook微信逆向分析，使用的是微信最新版本。
-
-*   [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) - ACG2vec全称为Anime Comics Games to vector。本repo会持续维护一些基于二次元相关的深度学习领域实践与探索（文本语义检索、以图搜图、语义搜图等）。
-
-*   [easychen/aiapi](https://github.com/easychen/aiapi) - A Claude-driven, OpenAI specification-compliant API, free
-
-*   [azwhikaru/fish\_helper\_config](https://github.com/azwhikaru/fish_helper_config) -
-
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
-
-*   [Misaka-blog/cf-wkrs-sub](https://github.com/Misaka-blog/cf-wkrs-sub) - 使用 CloudFlare Workers 订阅免费节点
-
-*   [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
-
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-
-*   [jchwl0527/sub-web](https://github.com/jchwl0527/sub-web) - 基于 vue-cli 与 tindy2013/subconverter 后端实现的配置自动生成。
-
-*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-
-*   [zhangweibo413/yixue](https://github.com/zhangweibo413/yixue) - 易学案例整理（奇门，八字，风水，六爻等等）
-
-*   [whherui/02-liuyao](https://github.com/whherui/02-liuyao) - 六爻笔记
-
-*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
-
-*   [jchwl0527/Start](https://github.com/jchwl0527/Start) -
-
-*   [pennyliang/ciku](https://github.com/pennyliang/ciku) -
-
-*   [WuSuoV/Markdown2HTML](https://github.com/WuSuoV/Markdown2HTML) - 在线渲染任意Markdown文件
-
-*   [TDesktop-x64/Localization](https://github.com/TDesktop-x64/Localization) - Localization for TDesktop x64
-
-*   [askyzz/proxypool](https://github.com/askyzz/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表。欢迎star
-
-*   [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
-
-*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [ZGQ-inc/special-ascii](https://github.com/ZGQ-inc/special-ascii) - :symbols:ASCII特殊字符合集
-
-*   [wyfang/CSGO-Simple-golden-radar](https://github.com/wyfang/CSGO-Simple-golden-radar) -
-
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
-
-*   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
-
-*   [linwoodpendleton/nginx\_proxy\_conf](https://github.com/linwoodpendleton/nginx_proxy_conf) - nginx任意反向代理配置(支持github,ip138,google)
-
-*   [guhhhhaa/4675-scifi](https://github.com/guhhhhaa/4675-scifi) - chinese NLP corpus of chinese science fiction,chinese science fiction corpus : About 4675 Chinese science fiction novels 大约有4675本科幻小说，中文科幻小说自然语言处理语料库，中文科幻小说文本语料库，中文科幻小说文本数据库，科幻小说语料
-
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-
-*   [jchwl0527/404StarLink](https://github.com/jchwl0527/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-
-*   [jchwl0527/tg\_web\_api](https://github.com/jchwl0527/tg_web_api) - TelegramWEBApi
-
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) -
-
-*   [xdash/GHacker\_Newsletter](https://github.com/xdash/GHacker_Newsletter) - 增长黑客周刊
-
-*   [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) - 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk) 。
-
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-
-*   [robotze/GithubDesktopZhTool](https://github.com/robotze/GithubDesktopZhTool) - Github Desktop 汉化工具 支持 Windows Mac Linux
-
-*   [jchwl0527/chrome\_dino\_game](https://github.com/jchwl0527/chrome_dino_game) - 更容易嵌入的 Chrome "恐龙快跑"游戏.
-
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
-
-*   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
-
-*   [tzchz/webogram-api](https://github.com/tzchz/webogram-api) -
-
-*   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
-
-*   [MoGuangYu/Universitystudy](https://github.com/MoGuangYu/Universitystudy) - 青年大学习辅助工具来自于i呀我去公众号
-
-*   [v2hot/awesome-v2ex-tips](https://github.com/v2hot/awesome-v2ex-tips) - 给新手的 V2EX 指南
-
-*   [ilovexjp/healthcode-backup](https://github.com/ilovexjp/healthcode-backup) - 备份一些健康码演示工具
-
-*   [XJP-GIT/AntiZhaPian](https://github.com/XJP-GIT/AntiZhaPian) - 假的国家反诈中心
-
-*   [jacopocolo/Hex-clock](https://github.com/jacopocolo/Hex-clock) - A precise hexadecimal color clock. It tells you what time is it, it tells you what color is it.
-
-*   [elder-frog/OpenCourseCatalog](https://github.com/elder-frog/OpenCourseCatalog) - Bilibili 公开课目录
-
-*   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-
-*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
-
-*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
-
-*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
-
-*   [gnoloehz/996.OD](https://github.com/gnoloehz/996.OD) - 列出长期996后容易遭遇的职业病，为职业病防治法提供立法依据
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
-
-*   [k8gege/PasswordDic](https://github.com/k8gege/PasswordDic) - 2011-2019年Top100弱口令密码字典 Top1000密码字典 服务器SSH/VPS密码字典 后台管理密码字典 数据库密码字典  子域名字典
-
-*   [lmk123/blog](https://github.com/lmk123/blog) - 个人技术博客，博文写在 Issues 里。
-
-*   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
-
-*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
-
-*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-
-*   [changfengoss/pub](https://github.com/changfengoss/pub) - 科学上网工具
-
-*   [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
-
-*   [chasenz/BypassCampusNet](https://github.com/chasenz/BypassCampusNet) - 校园网防断网; UDP 53 免流上网; DNS 隧道
-
-*   [asche910/FreeWireless](https://github.com/asche910/FreeWireless) - 绕过校园网、公共热点认证，从而实现免费上网
-
-*   [uxber/AdGuardHome](https://github.com/uxber/AdGuardHome) - AdGuard Filter Rules.
-
-*   [Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD) - 为什么不应使用antiAD去广告列表，以及选择更多优秀的替代品
-
-*   [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) -
-
-*   [0voice/computer\_expert\_paper](https://github.com/0voice/computer_expert_paper) - 1000+份计算机paper，卡耐基梅隆大学，哈佛，斯坦福，芝加哥大学，MIT，facebook，google，微软，Amazon，twitter等大牛一作，持续更新中
-
-*   [kujian/30-seconds-of-css](https://github.com/kujian/30-seconds-of-css) - 30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。
-
-*   [Miku-programm/V2rayList](https://github.com/Miku-programm/V2rayList) - 本项目是免费的翻墙上网项目，励志于推进中国的互联网信息透明与开放，若你有什么好的意见，请在issues页面评论区中提出
-
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.7.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
-
-*   [iCSToCS/CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
-
-*   [Ailln/awesome-hexo-theme](https://github.com/Ailln/awesome-hexo-theme) - 🌟排名前 10 的 Hexo 主题 | Top 10 Hexo theme
-
-*   [laoxong/66analytics](https://github.com/laoxong/66analytics) - Chinese translation
-
-*   [HexoPlusPlus/CloudFlare2Vercel](https://github.com/HexoPlusPlus/CloudFlare2Vercel) - :zap:Vercel中继CloudFlareWorker脚本
-
-*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
-
-*   [dylanderick/nezha](https://github.com/dylanderick/nezha) - :trollface: 哪吒面板 可能是最优秀的探针了
-
 ## C\#
 
 *   [Ormicron/Sharp-dumpkey](https://github.com/Ormicron/Sharp-dumpkey) - 基于C#实现的获取微信数据库密钥的小工具
@@ -469,14 +481,6 @@
 *   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 
 *   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support
-
-## Batchfile
-
-*   [PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x](https://github.com/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x) -
-
-*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## Kotlin
 
@@ -701,8 +705,6 @@
 *   [jialezi/oneindex-j](https://github.com/jialezi/oneindex-j) - OneDrive Directory Index
 
 *   [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
-
-*   [skidding/flatris](https://github.com/skidding/flatris) - Fast-paced two-player web game
 
 ## Go
 
@@ -1041,8 +1043,6 @@
 *   [gaowanliang/MagicPassword](https://github.com/gaowanliang/MagicPassword) - Need to generate a password? Try Gaowanliang Strong Password Generator. Just need a master password to generate secure passwords to keep your network safe.
 
 *   [BlueSkyXN/TencentCloud-Order](https://github.com/BlueSkyXN/TencentCloud-Order) - 腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面
-
-*   [zkysimon/snake](https://github.com/zkysimon/snake) -
 
 ## Dart
 

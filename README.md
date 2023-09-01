@@ -1156,7 +1156,7 @@
 
 ## Rust
 
-*   [rust-net/remote-bind](https://github.com/rust-net/remote-bind) - 将本地服务映射到公网
+*   [rust-net/remote-bind](https://github.com/rust-net/remote-bind) - 内网穿透，支持服务器中继和基于quic的P2P直连两种模式
 
 *   [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘
 

@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [Batchfile](#batchfile)
@@ -31,7 +32,6 @@
 *   [HTML](#html)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
-*   [Java](#java)
 *   [Rust](#rust)
 *   [C](#c-1)
 *   [Lua](#lua)
@@ -55,6 +55,42 @@
 *   [EJS](#ejs)
 *   [Markdown](#markdown)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
+
+*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
+
+*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
+
+*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
+
+*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
+
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
+
+*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
+
+*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
+
+*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
 
 ## Kotlin
 
@@ -344,7 +380,7 @@
 
 *   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
-*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议
+*   [xfgryujk/blivedm](https://github.com/xfgryujk/blivedm) - 获取bilibili直播弹幕，使用WebSocket协议，支持web端和B站直播开放平台两种接口
 
 *   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
 
@@ -703,8 +739,6 @@
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 *   [jialezi/oneindex-j](https://github.com/jialezi/oneindex-j) - OneDrive Directory Index
-
-*   [itorr/imouto](https://github.com/itorr/imouto) - 快速、明确、极简
 
 ## Go
 
@@ -1119,40 +1153,6 @@
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
 *   [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-
-## Java
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-
-*   [MinaMichita/AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
-
-*   [bigintpro/csdn\_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
-
-*   [s-unscrupulous/idea\_seat](https://github.com/s-unscrupulous/idea_seat) - IDEA 久坐提醒插件
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
-*   [KiraKill/FuckMFS](https://github.com/KiraKill/FuckMFS) - 去他妈的取证
-
-*   [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
-
-*   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
-
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [KikiLetGo/CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
-
-*   [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) - Linux运维监控工具，支持系统硬件信息，内存，cpu，温度，磁盘空间及IO，硬盘smart，系统负载，网络流量等监控，服务接口，大屏展示，拓扑图，进程监控，端口监控，docker监控，文件防篡改，日志监控，数据可视化，web ssh，堡垒机，指令下发批量执行，Linux面板(探针)，SNMP，故障告警
-
-*   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
-
-*   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
 
 ## Rust
 

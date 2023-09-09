@@ -334,7 +334,7 @@
 
 *   [wyfang/CSGO-Simple-golden-radar](https://github.com/wyfang/CSGO-Simple-golden-radar) -
 
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
 *   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
 

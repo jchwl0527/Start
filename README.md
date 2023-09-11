@@ -580,7 +580,7 @@
 
 *   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
 
-*   [tyIceStream/GLaDOS\_Checkin](https://github.com/tyIceStream/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
+*   [ytai-chn/GLaDOS\_Checkin](https://github.com/ytai-chn/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
 
 *   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 
@@ -710,7 +710,7 @@
 
 *   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 
-*   [hmjz100/Online-disk-direct-link-download-assistant](https://github.com/hmjz100/Online-disk-direct-link-download-assistant) - 可以获取网盘文件真实下载地址。基于【网盘直链下载助手】修改（改自6.1.1版本） ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
+*   [hmjz100/Online-disk-direct-link-download-assistant](https://github.com/hmjz100/Online-disk-direct-link-download-assistant) - 可以获取网盘文件真实下载地址。基于【网盘直链下载助手】修改（改自6.1.2版本） ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
 
 *   [avscms/avscms](https://github.com/avscms/avscms) - avscms
 
@@ -754,7 +754,7 @@
 
 *   [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
 
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20230718] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20230821] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
 *   [he1pu/signin](https://github.com/he1pu/signin) -
 

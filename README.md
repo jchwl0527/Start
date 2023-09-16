@@ -238,7 +238,7 @@
 
 *   [jchwl0527/tg\_web\_api](https://github.com/jchwl0527/tg_web_api) - TelegramWEBApi
 
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) -
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 
 *   [xdash/GHacker\_Newsletter](https://github.com/xdash/GHacker_Newsletter) - 增长黑客周刊
 
@@ -1126,7 +1126,7 @@
 
 *   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs. This project does not store and distribute copies of documents, but only provides indexing and searching.
 
 *   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
 
@@ -1162,7 +1162,7 @@
 
 *   [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘
 
-*   [freenet/locutus](https://github.com/freenet/locutus) - Declare your digital independence
+*   [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 
 *   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
 

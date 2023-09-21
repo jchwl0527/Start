@@ -58,6 +58,8 @@
 
 ## JavaScript
 
+*   [daymade/Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
+
 *   [x6ud/pose-search](https://github.com/x6ud/pose-search) - x6ud.github.io/pose-search
 
 *   [airingursb/terminal](https://github.com/airingursb/terminal) - 💻 Web 模拟终端博客系统
@@ -261,8 +263,6 @@
 *   [lindadade/the-gorgeous-electronic-clock-of-canvas](https://github.com/lindadade/the-gorgeous-electronic-clock-of-canvas) - Dynamic ball timer and electronic clock based on canvas
 
 *   [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 ## Go
 

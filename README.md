@@ -78,7 +78,7 @@
 
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) -  Typora plugin collection, feature enhancement tool. Typora 插件集合，功能增强工具。
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
 
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
@@ -1072,7 +1072,7 @@
 
 *   [jagerzhang/CCKiller](https://github.com/jagerzhang/CCKiller) - Linux轻量级CC攻击防御工具脚本
 
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray-core 一键脚本
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - mack-a 一键脚本
 
 *   [wangyingbo/ybproxy-auto-request](https://github.com/wangyingbo/ybproxy-auto-request) - 利用github actions 自动访问请求herokuapp和netlify免费服务器的网址；实现herokuapp和netlify免费账号能一直保活。
 

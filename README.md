@@ -176,7 +176,7 @@
 
 *   [GalaxyMimi/git-draw](https://github.com/GalaxyMimi/git-draw) - Allows you to draw in your github heatmap
 
-*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - chrome插件，多功能集合，简单粗暴，个人定制，替代onetab
+*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - Chrome插件，标签管理工具，替代OneTab
 
 *   [danteswx/fxxk](https://github.com/danteswx/fxxk) - 自用青龙库
 
@@ -186,7 +186,7 @@
 
 *   [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
 
-*   [casbin/casibase](https://github.com/casbin/casibase) - ⚡️Open-source AIGC vector & knowledge database with beautiful web UI, similar to LangChain⚡️. See demo at: https://ai.casbin.com
+*   [casbin/casibase](https://github.com/casbin/casibase) - ⚡️Open-source AIGC vector & knowledge database with web UI, similar to LangChain⚡️, supports OpenAI, HuggingFace, OpenRouter, Local Models
 
 *   [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
@@ -570,7 +570,7 @@
 
 *   [jchwl0527/gogs](https://github.com/jchwl0527/gogs) - Gogs is a painless self-hosted Git service
 
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP and MFA
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 

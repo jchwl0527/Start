@@ -614,7 +614,7 @@
 
 *   [he1pu/signin](https://github.com/he1pu/signin) -
 
-*   [willin/js.cool](https://github.com/willin/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！参考新项目： https://github.com/willin/domain
+*   [willin/js.cool](https://github.com/willin/js.cool) - 参考新项目： https://github.com/willin/domain  Public Archived, See new project.
 
 *   [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 

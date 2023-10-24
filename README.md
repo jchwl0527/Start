@@ -611,8 +611,6 @@
 
 *   [tholman/binary-music-player](https://github.com/tholman/binary-music-player) - A binary music player, with customizable notes & playback.
 
-*   [haozi-team/panel](https://github.com/haozi-team/panel) - 耗子Linux面板 - GO开发的轻量Linux面板
-
 *   [ybw2016v/steam\_info\_page](https://github.com/ybw2016v/steam_info_page) - 一个用于展示steam库存与好友信息的页面
 
 *   [xsy2004/chrome\_dino\_game](https://github.com/xsy2004/chrome_dino_game) - 更容易嵌入的 Chrome "恐龙快跑"游戏.
@@ -998,6 +996,8 @@
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+
+*   [haozi-team/panel](https://github.com/haozi-team/panel) - 耗子Linux面板 - GO开发的轻量Linux面板
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 

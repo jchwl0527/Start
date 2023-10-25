@@ -935,7 +935,7 @@
 
 *   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、快速选择扩展
 
-*   [Dr-TSNG/ZygiskOnKernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) - Run Zygisk on KernelSU
+*   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 
 *   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
 

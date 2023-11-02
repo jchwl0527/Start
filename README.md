@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -24,12 +25,11 @@
 *   [HTML](#html)
 *   [Rust](#rust)
 *   [Java](#java)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Batchfile](#batchfile)
-*   [C#](#c-1)
 *   [AngelScript](#angelscript)
 *   [Haxe](#haxe)
 *   [Dart](#dart)
@@ -56,6 +56,36 @@
 *   [Markdown](#markdown)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
+
+## C\#
+
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
+
+*   [Ormicron/Sharp-dumpkey](https://github.com/Ormicron/Sharp-dumpkey) - 基于C#实现的获取微信数据库密钥的小工具
+
+*   [xpnas/inotify](https://github.com/xpnas/inotify) - 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署
+
+*   [JDDKCN/SMSBoomGUI](https://github.com/JDDKCN/SMSBoomGUI) - 此项目是给短信轰炸软件 "SMSBoom" 写的GUI界面，使用C#编写。
+
+*   [zqhong/RyzenTuner](https://github.com/zqhong/RyzenTuner) - A tool that supports adjusting the power limit of Ryzen mobile processors and the QoS level and priority of Windows processes
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
+
+*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+
+*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+
+*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable demo games.
+
+*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
 ## Shell
 
@@ -597,7 +627,7 @@
 
 *   [zycn0910/Message-Push](https://github.com/zycn0910/Message-Push) -
 
-*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园最新可用版
+*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园11.1最新可用版
 
 *   [rialll/fuckZXJY](https://github.com/rialll/fuckZXJY) - 职校家园自动打卡-2023-10-10更新
 
@@ -955,8 +985,6 @@
 
 *   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 
-*   [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
-
 ## Rust
 
 *   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
@@ -1280,34 +1308,6 @@
 *   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-## C\#
-
-*   [Ormicron/Sharp-dumpkey](https://github.com/Ormicron/Sharp-dumpkey) - 基于C#实现的获取微信数据库密钥的小工具
-
-*   [xpnas/inotify](https://github.com/xpnas/inotify) - 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署
-
-*   [JDDKCN/SMSBoomGUI](https://github.com/JDDKCN/SMSBoomGUI) - 此项目是给短信轰炸软件 "SMSBoom" 写的GUI界面，使用C#编写。
-
-*   [zqhong/RyzenTuner](https://github.com/zqhong/RyzenTuner) - A tool that supports adjusting the power limit of Ryzen mobile processors and the QoS level and priority of Windows processes
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
-
-*   [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
-
-*   [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-*   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable demo games.
-
-*   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
 ## AngelScript
 

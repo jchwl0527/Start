@@ -729,7 +729,7 @@
 
 *   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 
-*   [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 
 ## Python
 
@@ -737,9 +737,9 @@
 
 *   [zycn0910/Message-Push](https://github.com/zycn0910/Message-Push) -
 
-*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园11.3号后不可用
+*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园11.4号可用
 
-*   [rialll/fuckZXJY](https://github.com/rialll/fuckZXJY) - 职校家园自动打卡-2023-10-10更新
+*   [rialll/fuckZXJY](https://github.com/rialll/fuckZXJY) - 职校家园自动打卡-2023-11-04更新
 
 *   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 

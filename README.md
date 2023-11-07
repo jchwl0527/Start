@@ -171,7 +171,7 @@
 
 ## miscellaneous
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四协议共存一键脚本【Vless-reality、Vmess-ws(tls)、Hysteria2、Tuic-v5】：支持Argo隧道、IP优选级切换、双证书切换、多端口跳跃，自定义域名分流。显示分享链接、二维码，Clash-Meta配置，输出配置通吃SFA/SFI/SFW客户端
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四协议共存一键脚本【Vless-reality、Vmess-ws(tls)、Hysteria2、Tuic-v5】：支持Argo隧道、多端口跳跃、自定义域名分流、IP优选级切换、自签与acme双证书切换。显示分享链接、二维码，Clash-Meta配置，输出配置通吃SFA/SFI/SFW客户端
 
 *   [jeffreycayao/pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
 
@@ -547,8 +547,6 @@
 
 *   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 *   [liuquanhao/moyu](https://github.com/liuquanhao/moyu) - 墨鱼探针
 
 *   [jchwl0527/HB-PingLun](https://github.com/jchwl0527/HB-PingLun) -
@@ -802,6 +800,8 @@
 *   [yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) - 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案
 
 *   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 *   [cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 

@@ -349,7 +349,7 @@
 
 *   [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四协议共存一键脚本【Vless-reality、Vmess-ws(tls)、Hysteria2、Tuic-v5】：支持Argo隧道、多端口跳跃、自定义域名分流、IP优选级切换、自签与acme双证书切换。支持Telegram推送节点信息，显示分享链接、二维码，Clash-Meta配置，生成统一的SFA/SFI/SFW客户端配置文件
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶终极一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic-v5】：支持Argo隧道、多端口跳跃、域名分流、IP优选级切换、自签与acme双证书切换、TG推送节点，二维码、Clash-Meta，统一的SFA/SFI/SFW配置
 
 *   [jeffreycayao/pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
 

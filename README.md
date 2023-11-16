@@ -537,7 +537,7 @@
 
 *   [zycn0910/Message-Push](https://github.com/zycn0910/Message-Push) -
 
-*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园11.13号可用
+*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园11.15号可用
 
 *   [rialll/fuckZXJY](https://github.com/rialll/fuckZXJY) - 职校家园自动打卡-2023-11-04更新
 
@@ -819,7 +819,7 @@
 
 *   [Misaka-blog/cf-wkrs-sub](https://github.com/Misaka-blog/cf-wkrs-sub) - 使用 CloudFlare Workers 订阅免费节点
 
-*   [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
+*   [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Links to darknet markets, vendor stores and darknet services on the Tor Network. All links verified by us.
 
 *   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 

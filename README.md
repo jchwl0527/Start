@@ -59,6 +59,10 @@
 
 ## miscellaneous
 
+*   [chenyukang/remote-jobs-cn](https://github.com/chenyukang/remote-jobs-cn) - 国内远程办公职位
+
+*   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
+
 *   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录归档的 大 项目.
 
 *   [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
@@ -652,10 +656,6 @@
 *   [252860883/ArtQRCode](https://github.com/252860883/ArtQRCode) - :crystal\_ball:艺术二维码生成工具（Art QRcode productivity tool ）
 
 *   [Aunger-ops/Arena-Of-Valor-Battleboard](https://github.com/Aunger-ops/Arena-Of-Valor-Battleboard) - 《我的第一个开源项目》基于原生PHP开发的王者荣耀战绩板网页挂件，仅供学习娱乐用途。
-
-*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-*   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
 
 ## Kotlin
 

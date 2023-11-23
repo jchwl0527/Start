@@ -69,7 +69,7 @@
 
 *   [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶终极一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic-v5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优选级切换、自签与acme双证书切换、TG推送节点，二维码、Clash-Meta，统一的SFA/SFI/SFW配置
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、节点TG推送，二维码、Clash-Meta，SFA/SFI/SFW统一配置
 
 *   [jeffreycayao/pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
 
@@ -249,7 +249,7 @@
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 
-*   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，可以作为图床使用，也可以作为网盘使用。
+*   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
 
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
@@ -446,6 +446,8 @@
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
+
+*   [chenjinnian/bt\_clean](https://github.com/chenjinnian/bt_clean) -
 
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
@@ -1046,8 +1048,6 @@
 *   [OneB1ank/A1Memory](https://github.com/OneB1ank/A1Memory) - Android third-party memory management
 
 *   [Adonis142857/GLaDOS-Signin](https://github.com/Adonis142857/GLaDOS-Signin) - 通过 GitHub Action 自动签到，每天延时一天，签到一定次数后奖励会变少
-
-*   [chenjinnian/bt\_clean](https://github.com/chenjinnian/bt_clean) -
 
 *   [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
 

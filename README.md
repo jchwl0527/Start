@@ -605,6 +605,8 @@
 
 *   [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 
+*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
+
 *   [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 
 *   [liuquanhao/moyu](https://github.com/liuquanhao/moyu) - 墨鱼探针
@@ -839,7 +841,7 @@
 
 *   [zycn0910/Message-Push](https://github.com/zycn0910/Message-Push) -
 
-*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园打卡11.21号可用
+*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园打卡11.24号可用
 
 *   [rialll/fuckZXJY](https://github.com/rialll/fuckZXJY) - 职校家园自动打卡-2023-11-04更新
 
@@ -1458,8 +1460,6 @@
 *   [Project-DARC/DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
 
 ## Stylus
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 *   [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and elegant theme for Hexo. It makes you more focused on writing.
 

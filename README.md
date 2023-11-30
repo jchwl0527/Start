@@ -271,7 +271,7 @@
 
 *   [jeffreycayao/pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
 
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，支持在线实时查看VPS运营商、本地IP、netflix、chatgpt是否解锁等情况、endpoint对端优选IP等功能，replit平台无限生成warp+密钥与warp配置文件
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，查看VPS运营商、本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，replit平台无限生成warp+密钥与warp配置文件
 
 *   [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/CSGO开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
 

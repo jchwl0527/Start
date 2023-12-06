@@ -300,7 +300,7 @@
 
 *   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
 
-*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录归档的 大 项目.
+*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
 
 *   [yonggekkk/sing-box](https://github.com/yonggekkk/sing-box) - Sing-box精装桶小白一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、节点TG推送，二维码、Clash-Meta，SFA/SFI/SFW统一配置
 

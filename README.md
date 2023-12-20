@@ -62,7 +62,7 @@
 
 *   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动抓取更新iptv源 Autoupdate iptv sources
 
-*   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
+*   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐A lightweight open-source JavaScript library for obtaining The Purple Star Astrology (Zi Wei Dou Shu) astrolabe information.. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
 
 *   [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 
@@ -1002,7 +1002,7 @@
 
 ## Ruby
 
-*   [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) - Make using Rime easy.
+*   [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) - Rime输入法安装脚本，让一切更轻松。Make using Rime easy.
 
 ## HTML
 
@@ -1038,7 +1038,7 @@
 
 *   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
 
-*   [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
+*   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 
 *   [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
 

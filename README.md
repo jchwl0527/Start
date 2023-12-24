@@ -148,7 +148,7 @@
 
 *   [ProbiusOfficial/Hello\_CTF-Shell](https://github.com/ProbiusOfficial/Hello_CTF-Shell) - 合法反弹shell一站式最廉价解决方案！！！！我VPS呢！卧槽过期了！！我要弹shell！！我一血没了！！！
 
-*   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
+*   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 
 *   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 

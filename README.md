@@ -302,7 +302,7 @@
 
 *   [zycn0910/Message-Push](https://github.com/zycn0910/Message-Push) -
 
-*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园打卡12月可用
+*   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园打卡2023-12月可用
 
 *   [rialll/fuckZXJY](https://github.com/rialll/fuckZXJY) - 职校家园自动打卡-2023-11-04更新
 
@@ -588,7 +588,7 @@
 
 *   [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 
-*   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染(自用脚本), 优雅的搜索引擎跳转助手等等。The open source codes are used in Greasemonkey scripts for major desktop browsers, such as Font Rendering (Font Rendering.user.js), and SearchEngine Assistant (Google & Baidu Switcher.user.js), etc.
+*   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染(自用脚本), 优雅的搜索引擎助手等等。The open source codes are used in Greasemonkey scripts for desktop browsers, such as Font Rendering (Font Rendering.user.js), and Search Engine Assistant (Google & Baidu Switcher.user.js), etc.
 
 *   [a695979515/enterprise](https://github.com/a695979515/enterprise) - 企业门户网站
 
@@ -674,7 +674,7 @@
 
 *   [GalaxyMimi/git-draw](https://github.com/GalaxyMimi/git-draw) - Allows you to draw in your github heatmap
 
-*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - Chrome插件，标签管理工具，替代OneTab
+*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - 浏览器插件，标签管理工具，替代OneTab，支持Chrome和Edge
 
 *   [danteswx/fxxk](https://github.com/danteswx/fxxk) - 自用青龙库
 

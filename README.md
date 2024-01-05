@@ -640,7 +640,7 @@
 
 *   [1gcat/ExampleForSCF](https://github.com/1gcat/ExampleForSCF) - 腾讯云SCF（云函数）、Github Actions的python脚本，用于每天自动签到，一个是吾爱破解论坛的一个是哔哩哔哩的，作为我了解SCF的示例。
 
-*   [EssayKillerBrain/WriteGPT](https://github.com/EssayKillerBrain/WriteGPT) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+*   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
 ## Kotlin
 
@@ -944,7 +944,7 @@
 
 *   [GalaxyMimi/git-draw](https://github.com/GalaxyMimi/git-draw) - Allows you to draw in your github heatmap
 
-*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - 浏览器插件，标签管理工具，替代OneTab，支持Chrome和Edge
+*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - 浏览器插件，《标签管理工具，替代OneTab》，支持Chrome和Edge
 
 *   [danteswx/fxxk](https://github.com/danteswx/fxxk) - 自用青龙库
 

@@ -214,7 +214,7 @@
 
 *   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
 
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
+*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠  A robust, feature-rich online toolbox designed for efficiency and simplicity. | 极简，强大，高效的在线工具箱，遵循MD设计规范
 
 *   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
 

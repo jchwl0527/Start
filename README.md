@@ -60,6 +60,8 @@
 
 ## Shell
 
+*   [Misaka-blog/hysteria-install](https://github.com/Misaka-blog/hysteria-install) - Hysteria 一键安装脚本
+
 *   [Lynn-Becky/v6\_only](https://github.com/Lynn-Becky/v6_only) - 一个在仅ipv6的系统上提供i双栈访问能力的脚本
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
@@ -942,7 +944,7 @@
 
 *   [GalaxyMimi/git-draw](https://github.com/GalaxyMimi/git-draw) - Allows you to draw in your github heatmap
 
-*   [scoful/cloudSkyMonster](https://github.com/scoful/cloudSkyMonster) - 浏览器插件，《标签管理工具，替代OneTab》，支持Chrome和Edge
+*   [scoful/N-Tab](https://github.com/scoful/N-Tab) - 浏览器插件，《标签管理工具，替代OneTab》，支持Chrome和Edge
 
 *   [danteswx/fxxk](https://github.com/danteswx/fxxk) - 自用青龙库
 
@@ -1049,8 +1051,6 @@
 *   [HexoPlusPlus/HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点\[文章编辑、图片上传、博主活跃信息统计、博主说说]【学业繁忙，重铸中】
 
 *   [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) - 一个简洁优雅的hexo主题  A simple and elegant theme for hexo.
-
-*   [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
 
 ## PHP
 

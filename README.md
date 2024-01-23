@@ -234,6 +234,8 @@
 
 *   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
 *   [dylanderick/nezha](https://github.com/dylanderick/nezha) - :trollface: 哪吒面板 可能是最优秀的探针了
 
 *   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
@@ -1013,8 +1015,6 @@
 *   [lindadade/the-gorgeous-electronic-clock-of-canvas](https://github.com/lindadade/the-gorgeous-electronic-clock-of-canvas) - Dynamic ball timer and electronic clock based on canvas
 
 *   [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 *   [jialezi/oneindex-j](https://github.com/jialezi/oneindex-j) - OneDrive Directory Index
 

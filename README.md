@@ -33,6 +33,7 @@
 *   [Go](#go)
 *   [Ruby](#ruby)
 *   [HTML](#html)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 *   [C#](#c-2)
 *   [Batchfile](#batchfile)
@@ -966,8 +967,6 @@
 
 *   [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 
-*   [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
-
 *   [ifyour/deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) - 🔥 Deploy DeepLX on Cloudflare
 
 *   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
@@ -1361,6 +1360,10 @@
 *   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 内网渗透
 
 *   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
+
+## Jupyter Notebook
+
+*   [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 
 ## Rust
 

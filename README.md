@@ -403,11 +403,11 @@
 
 *   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
 
-*   [yonggekkk/sing-box\_hysteria2\_tuic\_argo\_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：多端口跳跃、自签/acme双证书、Argo固定临时双隧道、warp出站；生成ClashMeta、SFA/SFI/SFW三合一配置+私有订阅链接推送，singbox电脑客户端
+*   [yonggekkk/sing-box\_hysteria2\_tuic\_argo\_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：多端口跳跃、自签/acme双证书、Argo固定临时双隧道、warp出站；生成ClashMeta、SFA/SFI/SFW三合一配置+gitlab私有订阅链接推送，singbox电脑客户端
 
 *   [jeffreycayao/pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
 
-*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，查看VPS本地IP、netflix、chatgpt(网页与客户端)是否解锁等情况、endpoint对端优选IP等功能，VPS平台与Replit平台无限生成warp配置文件
+*   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 
 *   [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/CSGO开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
 
@@ -1181,7 +1181,7 @@
 
 *   [jchwl0527/gogs](https://github.com/jchwl0527/gogs) - Gogs is a painless self-hosted Git service
 
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, RADIUS, Google Workspace, Active Directory and Kerberos
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 

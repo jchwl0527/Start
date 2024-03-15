@@ -879,7 +879,7 @@
 
 *   [wgpsec/fofa\_viewer](https://github.com/wgpsec/fofa_viewer) - A simple FOFA client written in JavaFX.  Made by WgpSec, Maintained by f1ashine.
 
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 
 *   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 

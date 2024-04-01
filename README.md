@@ -352,7 +352,7 @@
 
 *   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
 
-*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
+*   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
 
 *   [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
 
@@ -1044,7 +1044,7 @@
 
 *   [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - Sanguosha (三国杀, a.k.a. Legend of Three Kingdoms, LTK) written in Qt and Lua.
 
-*   [ASC8384/myRime](https://github.com/ASC8384/myRime) - 我的 Rime 配置，适用于朙月拼音／小鹤双拼／小狼毫 ／ibus
+*   [ASC8384/myRime](https://github.com/ASC8384/myRime) - 我的 Rime 配置，适用于朙月拼音／小鹤双拼／小狼毫 ／ibus / MacOS
 
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 

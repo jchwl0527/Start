@@ -630,7 +630,7 @@
 
 *   [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 
-*   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - Python 易經筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。A python package of Ichingshifa (also known as Yarrow Stalks Divination).
+*   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination). Python 易經筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。
 
 *   [realzhangliu/liuyao](https://github.com/realzhangliu/liuyao) - 六爻排盘
 

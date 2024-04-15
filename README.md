@@ -1358,7 +1358,7 @@
 
 *   [CangShui/CloudflareCustomPages](https://github.com/CangShui/CloudflareCustomPages) - My Cloudflare Custom Pages ,It is Beautiful!
 
-*   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 后渗透
+*   [ybdt/post-hub](https://github.com/ybdt/post-hub) - 后渗透相关笔记
 
 *   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 

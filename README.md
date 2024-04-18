@@ -102,8 +102,6 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
 
-*   [chenjinnian/bt\_clean](https://github.com/chenjinnian/bt_clean) -
-
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
 *   [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-Body Problem".         中文说明： 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
@@ -1115,6 +1113,8 @@
 *   [asiacny/zero-width-qrcode-shortener](https://github.com/asiacny/zero-width-qrcode-shortener) - 零宽度短网址与二维码生成工具(PHP+ORACLE/MYSQL/SQLite)
 
 *   [KitePig/FatRat-Collect](https://github.com/KitePig/FatRat-Collect) - 胖鼠采集 WordPress优秀开源采集插件
+
+*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 
 ## Kotlin
 

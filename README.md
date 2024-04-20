@@ -348,7 +348,7 @@
 
 *   [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 
-*   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 
 *   [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more. :electron:
 
@@ -411,6 +411,8 @@
 *   [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/CSGO开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
 
 *   [tgnav/tgwiki](https://github.com/tgnav/tgwiki) - TGwiki - Telegram知识库，由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
 
 *   [stayor/git-gui-zh](https://github.com/stayor/git-gui-zh) -
 
@@ -853,8 +855,6 @@
 *   [constanline/XQuickEnergy](https://github.com/constanline/XQuickEnergy) -
 
 *   [MinaMichita/MiuiEULocalizationToolsBox](https://github.com/MinaMichita/MiuiEULocalizationToolsBox) - Miui EU 本地化项目工具箱app
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
 
 *   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 

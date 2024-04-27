@@ -104,6 +104,8 @@
 
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
+*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
+
 *   [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-Body Problem".         中文说明： 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 
 *   [NianBroken/Payment-Code](https://github.com/NianBroken/Payment-Code) - 一个拥有高度自适应设备尺寸的HTML网页 用于展示您所有钱包的收款码|多合一收款码|万能收款码|支付宝收款|微信收款|QQ收款|三合一收款码
@@ -1369,8 +1371,6 @@
 *   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 
 *   [rust-net/remote-bind](https://github.com/rust-net/remote-bind) - 内网穿透，支持服务器中继和基于quic的P2P直连两种模式
-
-*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 
 *   [hoothin/RustClock](https://github.com/hoothin/RustClock) - A digital clock for desktop popup every half hour, support 20-20-20 rule. 每隔半小時彈出一次的桌面電子時鐘
 

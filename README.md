@@ -37,6 +37,7 @@
 *   [C#](#c-2)
 *   [Batchfile](#batchfile)
 *   [AngelScript](#angelscript)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Haxe](#haxe)
 *   [CSS](#css)
 *   [MDX](#mdx)
@@ -616,8 +617,6 @@
 
 *   [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
 
-*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
-
 *   [Diaoxiaozhang/Ximalaya-Downloader](https://github.com/Diaoxiaozhang/Ximalaya-Downloader) - 喜马拉雅专辑音频一键下载工具
 
 *   [inpanel/inpanel](https://github.com/inpanel/inpanel) - A Web-based Linux Management Tools
@@ -632,7 +631,7 @@
 
 *   [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 
-*   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination). Python 易經筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。
+*   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination). Python 周易、易經筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。
 
 *   [realzhangliu/liuyao](https://github.com/realzhangliu/liuyao) - 六爻排盘
 
@@ -1431,6 +1430,10 @@
 ## AngelScript
 
 *   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
+
+## Jupyter Notebook
+
+*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 
 ## Haxe
 

@@ -369,7 +369,7 @@
 
 *   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
 
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠  A robust, feature-rich online toolbox designed for efficiency and simplicity. | 极简，强大，高效的在线工具箱，遵循MD设计规范
+*   [RiverTwilight/Geekits](https://github.com/RiverTwilight/Geekits) - 🛠  A robust, feature-rich online toolbox designed for efficiency and simplicity. | 极简，强大，高效的在线工具箱，遵循MD设计规范
 
 *   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
 

@@ -1297,7 +1297,7 @@
 
 *   [tholman/binary-music-player](https://github.com/tholman/binary-music-player) - A binary music player, with customizable notes & playback.
 
-*   [xsy2004/chrome\_dino\_game](https://github.com/xsy2004/chrome_dino_game) - 更容易嵌入的 Chrome "恐龙快跑"游戏.
+*   [linusxiong/chrome\_dino\_game](https://github.com/linusxiong/chrome_dino_game) - 更容易嵌入的 Chrome "恐龙快跑"游戏.
 
 *   [nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus) - 一个Material Design风格的探针
 

@@ -41,6 +41,7 @@
 *   [Haxe](#haxe)
 *   [CSS](#css)
 *   [MDX](#mdx)
+*   [Fluent](#fluent)
 *   [R](#r)
 *   [Brainfuck](#brainfuck)
 *   [Roff](#roff)
@@ -663,8 +664,6 @@
 
 *   [jhao104/proxy\_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-
 *   [cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 
 *   [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1099,7 +1098,7 @@
 
 *   [sy-records/GetFavicon](https://github.com/sy-records/GetFavicon) - 用 PHP 获取网站 favicon 的API，可用于美化网站外链显示效果。
 
-*   [jiix/xiunobbs](https://github.com/jiix/xiunobbs) - Xiuno BBS 4.0 是一款轻论坛程序。 本版修复了php7.4、php8.0兼容问题；采用utf8mb4，支持emoji；，jQuery更新到 3.5.1；bootstrap更新到4.5.0。移除部分插件，更新默认主题。
+*   [jiix/xiunobbs](https://github.com/jiix/xiunobbs) - Xiuno BBS 是一款高性能轻论坛程序，采用 MIT 协议发布，您可以自由修改、派生版本、商用而不用担心任何法律风险。
 
 *   [klsf/kldns](https://github.com/klsf/kldns) - 快乐二级域名分发系统
 
@@ -1466,6 +1465,10 @@
 ## MDX
 
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+
+## Fluent
+
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## R
 

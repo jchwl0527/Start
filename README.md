@@ -41,7 +41,6 @@
 *   [Haxe](#haxe)
 *   [CSS](#css)
 *   [MDX](#mdx)
-*   [Fluent](#fluent)
 *   [R](#r)
 *   [Roff](#roff)
 *   [Svelte](#svelte)
@@ -345,7 +344,7 @@
 
 *   [jchwl0527/chaoxing-sign-cli](https://github.com/jchwl0527/chaoxing-sign-cli) - 超星学习通签到Nodejs程序。支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测。
 
-*   [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub Reader.
+*   [pacexy/flow](https://github.com/pacexy/flow) - Browser-based ePub reader
 
 *   [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 
@@ -1273,6 +1272,8 @@
 
 *   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
 
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
 *   [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 
 *   [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
@@ -1466,10 +1467,6 @@
 ## MDX
 
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
-
-## Fluent
-
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## R
 

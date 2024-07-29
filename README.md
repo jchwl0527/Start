@@ -697,7 +697,7 @@
 
 *   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
 
-*   [ytai-chn/GLaDOS\_Checkin](https://github.com/ytai-chn/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
+*   [yyytai/GLaDOS\_Checkin](https://github.com/yyytai/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
 
 *   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 

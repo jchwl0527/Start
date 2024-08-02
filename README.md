@@ -943,7 +943,7 @@
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 
-*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository
+*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
 
 *   [OneB1ank/A1Memory](https://github.com/OneB1ank/A1Memory) - Android third-party memory management
 
@@ -1251,7 +1251,7 @@
 
 *   [jchwl0527/Hexo\_Blog\_vercel](https://github.com/jchwl0527/Hexo_Blog_vercel) -
 
-*   [helloxz/ccaa](https://github.com/helloxz/ccaa) - Linux一键安装Aria2 + AriaNg + FileBrowse实现离线下载、文件管理。
+*   [helloxz/ccaa](https://github.com/helloxz/ccaa) - 此项目不再维护，推荐使用Zdir替代！
 
 *   [GodLikeZeal/family](https://github.com/GodLikeZeal/family) - 家族族谱，族谱树管理后台系统
 

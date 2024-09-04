@@ -29,6 +29,7 @@
 *   [C](#c-1)
 *   [Lua](#lua)
 *   [PHP](#php)
+*   [Markdown](#markdown)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
 *   [Ruby](#ruby)
@@ -53,7 +54,6 @@
 *   [Perl](#perl)
 *   [SCSS](#scss)
 *   [EJS](#ejs)
-*   [Markdown](#markdown)
 *   [PowerShell](#powershell)
 *   [Thanks](#thanks)
 
@@ -388,8 +388,6 @@
 *   [pennyliang/ciku](https://github.com/pennyliang/ciku) -
 
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
-
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 *   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 
@@ -1115,6 +1113,12 @@
 
 *   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 
+## Markdown
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+
 ## Kotlin
 
 *   [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
@@ -1526,10 +1530,6 @@
 ## EJS
 
 *   [ChenYFan/blog](https://github.com/ChenYFan/blog) - 陈YFの博客 - 基于GithubAction+Wexagonal自动部署
-
-## Markdown
-
-*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## PowerShell
 

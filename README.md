@@ -829,8 +829,6 @@
 
 *   [jchwl0527/YesPlayMusic](https://github.com/jchwl0527/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
-*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - 轻量、现代化的服务器运维管理面板
-
 *   [iiop123/dingding](https://github.com/iiop123/dingding) - 丁丁快传-基于cloudflare workers的文件传输工具
 
 *   [jchwl0527/workers-image-hosting](https://github.com/jchwl0527/workers-image-hosting) - cloudflare worker简易图床
@@ -1191,11 +1189,13 @@
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
+*   [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子面板 - 轻量、现代化的服务器运维管理面板
+
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
 *   [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
 
-*   [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) -
+*   [Potterli20/trojan-go-fork](https://github.com/Potterli20/trojan-go-fork) - 社区trojan-go(欢迎各位给pr和修复bug)
 
 *   [jchwl0527/qndxx](https://github.com/jchwl0527/qndxx) - 青年大学习截图生成
 

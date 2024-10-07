@@ -407,8 +407,6 @@
 
 *   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持alpine系统，多端口跳跃、自签/acme双证书切换、Argo固定临时双隧道（可共存）；附singbox电脑网页客户端下载
-
 *   [jeffreycayao/pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard.
 
 *   [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
@@ -940,6 +938,8 @@
 *   [Misaka-blog/hysteria-install](https://github.com/Misaka-blog/hysteria-install) - Hysteria 一键安装脚本
 
 *   [Lynn-Becky/v6\_only](https://github.com/Lynn-Becky/v6_only) - 一个在仅ipv6的系统上一键获得双栈访问能力的脚本
+
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持alpine系统、自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能；附singbox电脑网页客户端下载
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 

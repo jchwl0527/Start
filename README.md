@@ -91,7 +91,7 @@
 
 *   [avscms/avscms](https://github.com/avscms/avscms) - avscms
 
-*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
+*   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
 *   [qd-today/get-cookies](https://github.com/qd-today/get-cookies) - 一键获取 Cookies 的 Chrome 扩展, 用于配合 QD 框架使用
 

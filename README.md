@@ -427,7 +427,7 @@
 
 *   [azwhikaru/fish\_helper\_config](https://github.com/azwhikaru/fish_helper_config) -
 
-*   [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 
 *   [Misaka-blog/cf-wkrs-sub](https://github.com/Misaka-blog/cf-wkrs-sub) - 使用 CloudFlare Workers 订阅免费节点
 
@@ -823,7 +823,7 @@
 
 *   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
 
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP)
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP). 更新通知tg：
 
 *   [jchwl0527/YesPlayMusic](https://github.com/jchwl0527/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -943,8 +943,6 @@
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 
-*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
-
 *   [OneB1ank/A1Memory](https://github.com/OneB1ank/A1Memory) - Android third-party memory management
 
 *   [Adonis142857/GLaDOS-Signin](https://github.com/Adonis142857/GLaDOS-Signin) - 通过 GitHub Action 自动签到，每天延时一天，签到一定次数后奖励会变少
@@ -1058,6 +1056,8 @@
 *   [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 *   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
+
+*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
 
 *   [linux-jin/ShareYourV2raySubscription](https://github.com/linux-jin/ShareYourV2raySubscription) - VMESS/SS 订阅链接与节点管理器，有效解决自建多个节点多设备同步更新问题。编辑存储多个节点，自动提取别名，并生成属于自己的订阅链接。
 

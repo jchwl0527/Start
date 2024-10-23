@@ -475,8 +475,6 @@
 
 *   [jchwl0527/tg\_web\_api](https://github.com/jchwl0527/tg_web_api) - TelegramWEBApi
 
-*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
-
 *   [xdash/GHacker\_Newsletter](https://github.com/xdash/GHacker_Newsletter) - 增长黑客周刊
 
 *   [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) - 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk or KernelSU) 。
@@ -966,6 +964,8 @@
 *   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 
 *   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
+
+*   [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 
 *   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
 

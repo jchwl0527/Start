@@ -397,7 +397,7 @@
 
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 
-*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
+*   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 
 *   [byoungd/how-to-find-love](https://github.com/byoungd/how-to-find-love) - A Beneficial Guide to find LOVE  ❤️  离谱的恋爱指南
 
@@ -973,7 +973,7 @@
 
 *   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
 
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
 
 *   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
 
@@ -1307,7 +1307,7 @@
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
-*   [TheTNB/panel](https://github.com/TheTNB/panel) - 新一代企业级全能服务器运维管理面板。简单轻量，高效运维。
+*   [TheTNB/panel](https://github.com/TheTNB/panel) - 企业级全能服务器运维管理面板。简单轻量，高效运维。
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 

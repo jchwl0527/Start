@@ -735,7 +735,7 @@
 
 *   [admintony/Digger](https://github.com/admintony/Digger) - 从百度爬取子域名
 
-*   [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
+*   [noionion/Twikoo-Magic](https://github.com/noionion/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
 
 *   [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 
@@ -1293,7 +1293,7 @@
 
 *   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
 
 *   [maintell/webBenchmark](https://github.com/maintell/webBenchmark) - a simple tool of website benchmark.
 

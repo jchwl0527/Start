@@ -1175,7 +1175,7 @@
 
 *   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
 
 *   [maintell/webBenchmark](https://github.com/maintell/webBenchmark) - a simple tool of website benchmark.
 
@@ -1393,7 +1393,7 @@
 
 ## C\#
 
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and sing-box-core and others
 
 *   [Ormicron/Sharp-dumpkey](https://github.com/Ormicron/Sharp-dumpkey) - 基于C#实现的获取微信数据库密钥的小工具
 
@@ -1525,7 +1525,7 @@
 
 ## SCSS
 
-*   [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
+*   [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme, perfect for ACG lovers.
 
 ## EJS
 

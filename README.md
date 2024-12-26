@@ -77,7 +77,7 @@
 
 *   [MatsuriDayo/plugins](https://github.com/MatsuriDayo/plugins) - Matsuri 插件仓库
 
-*   [VirgilClyne/Cloudflare](https://github.com/VirgilClyne/Cloudflare) - Cloudflare相关插件/模块
+*   [Auraflare/1.1.1.1](https://github.com/Auraflare/1.1.1.1) - Cloudflare相关插件/模块
 
 *   [daymade/Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
 

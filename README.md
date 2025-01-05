@@ -691,7 +691,7 @@
 
 *   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
 
-*   [y-tai/GLaDOS\_Checkin](https://github.com/y-tai/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
+*   [Jiu-chn/GLaDOS\_Checkin](https://github.com/Jiu-chn/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
 
 *   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 
@@ -987,6 +987,8 @@
 
 *   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
 
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
 *   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 *   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
@@ -1086,8 +1088,6 @@
 *   [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
 
 *   [rehiy/cloudflare-panel](https://github.com/rehiy/cloudflare-panel) - Cloudflare DNS 管理面板
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
 
 *   [xiaoxinpro/xxjzWeb](https://github.com/xiaoxinpro/xxjzWeb) - 小歆记账WebApp项目(Web服务端)
 

@@ -691,7 +691,7 @@
 
 *   [zhule0601/glados\_checkin](https://github.com/zhule0601/glados_checkin) - glados 网页端自动签到
 
-*   [JiuZ-chn/GLaDOS\_Checkin](https://github.com/JiuZ-chn/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
+*   [JiuZ-Chn/GLaDOS\_Checkin](https://github.com/JiuZ-Chn/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
 
 *   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 
@@ -1157,7 +1157,7 @@
 
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
-*   [FynnFbc/TunnelProxyPool](https://github.com/FynnFbc/TunnelProxyPool) - http代理池 隧道代理 动态代理IP
+*   [ByteStardust/TunnelProxyPool](https://github.com/ByteStardust/TunnelProxyPool) - http代理池 隧道代理 动态代理IP
 
 *   [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 

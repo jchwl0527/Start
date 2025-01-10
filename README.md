@@ -371,7 +371,7 @@
 
 *   [djyde/ossart](https://github.com/djyde/ossart) - Print your GitHub activity as an artwork
 
-*   [RiverTwilight/Geekits](https://github.com/RiverTwilight/Geekits) - 🛠️ Feature-rich all-in-one digital toolbox designed for efficiency and simplicity. | 极简，强大，高效的在线工具箱
+*   [RiverTwilight/Geekits](https://github.com/RiverTwilight/Geekits) - 🛠️ Feature-rich all-in-one digital toolbox designed for daily Paper-Cuts with efficiency and simplicity.
 
 *   [EtherDream/freecdn-js](https://github.com/EtherDream/freecdn-js) - freecdn browser side files
 

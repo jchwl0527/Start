@@ -69,7 +69,7 @@
 
 *   [binux/qiandao](https://github.com/binux/qiandao) - 签到
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
 
 *   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 
@@ -937,7 +937,7 @@
 
 *   [Lynn-Becky/v6\_only](https://github.com/Lynn-Becky/v6_only) - 一个在仅ipv6的系统上一键获得双栈访问能力的脚本
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00三合一进程保活脚本
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00多平台三合一代理协议进程保活脚本
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 

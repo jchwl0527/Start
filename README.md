@@ -63,7 +63,7 @@
 
 *   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 
-*   [libccy/noname](https://github.com/libccy/noname) -
+*   [libnoname/noname](https://github.com/libnoname/noname) -
 
 *   [liu673cn/box](https://github.com/liu673cn/box) - 自用，勿宣传。
 

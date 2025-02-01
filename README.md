@@ -93,6 +93,8 @@
 
 *   [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 
+*   [Diaoxiaozhang/Ximalaya-Downloader](https://github.com/Diaoxiaozhang/Ximalaya-Downloader) - 喜马拉雅专辑音频一键下载工具
+
 *   [qd-today/get-cookies](https://github.com/qd-today/get-cookies) - 一键获取 Cookies 的 Chrome 扩展, 用于配合 QD 框架使用
 
 *   [vfarid/cf-ip-scanner](https://github.com/vfarid/cf-ip-scanner) - Cloudflare IP Scanner
@@ -610,8 +612,6 @@
 *   [XuanRanDev/Auto-ZhiXiaoJiaYuan](https://github.com/XuanRanDev/Auto-ZhiXiaoJiaYuan) - 职校家园 & 实习备案自动打卡（之前的代码被封了，此版本移除了Github自动任务）
 
 *   [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
-
-*   [Diaoxiaozhang/Ximalaya-Downloader](https://github.com/Diaoxiaozhang/Ximalaya-Downloader) - 喜马拉雅专辑音频一键下载工具
 
 *   [inpanel/inpanel](https://github.com/inpanel/inpanel) - 程江服务器控制面板
 

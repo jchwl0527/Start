@@ -847,7 +847,7 @@
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
+*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代全能服务器运维管理面板。简单轻量，高效运维。
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 

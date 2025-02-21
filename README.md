@@ -833,7 +833,7 @@
 
 *   [lpdswing/GPTFusion](https://github.com/lpdswing/GPTFusion) - GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 *   [maintell/webBenchmark](https://github.com/maintell/webBenchmark) - a simple tool of website benchmark.
 
@@ -891,7 +891,7 @@
 
 *   [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
 
-*   [yzy613/ddns-watchdog](https://github.com/yzy613/ddns-watchdog) - 简单快速的可常驻的 Dynamic DNS 软件，自动更新域名解析记录值。现已支持 DNSPod AliDNS(阿里云 DNS) Cloudflare HuaweiCloud(华为云)，支持 IPv4 IPv6 双栈，支持使用网卡 IP 地址。可在绝大多数系统上运行。若需其他域名解析服务商，欢迎到 Issues 提出需求
+*   [y1jiong/ddns-watchdog](https://github.com/y1jiong/ddns-watchdog) - 简单快速的可常驻的 Dynamic DNS 软件，自动更新域名解析记录值。现已支持 DNSPod AliDNS(阿里云 DNS) Cloudflare HuaweiCloud(华为云)，支持 IPv4 IPv6 双栈，支持使用网卡 IP 地址。可在绝大多数系统上运行。若需其他域名解析服务商，欢迎到 Issues 提出需求
 
 *   [PeerXu/meepo](https://github.com/PeerXu/meepo) - Connect to your service without public IP in p2p channel
 

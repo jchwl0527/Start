@@ -493,7 +493,7 @@
 
 *   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
 
-*   [tzchz/webogram-api](https://github.com/tzchz/webogram-api) -
+*   [tzchz/webogram-api](https://github.com/tzchz/webogram-api) - Proxy the nodes for self-deployed Telegram Web.
 
 *   [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 

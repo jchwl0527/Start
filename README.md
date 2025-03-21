@@ -993,7 +993,7 @@
 
 *   [Lynn-Becky/v6\_only](https://github.com/Lynn-Becky/v6_only) - 一个在仅ipv6的系统上一键获得双栈访问能力的脚本
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00三合一代理脚本【独家支持网页端四大功能：保活、重启、重置端口，查看节点】
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端四大功能：保活、重启、重置端口，查看节点】
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 

@@ -847,7 +847,7 @@
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
@@ -995,7 +995,7 @@
 
 *   [Lynn-Becky/v6\_only](https://github.com/Lynn-Becky/v6_only) - 一个在仅ipv6的系统上一键获得双栈访问能力的脚本
 
-*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端四大功能：保活、重启、重置端口，查看节点】
+*   [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端五大功能：保活、重启、重置端口、查看进程、查看节点】
 
 *   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 
@@ -1035,7 +1035,7 @@
 
 *   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
 
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用 ==> https://github.com/oneclickvirt/ecs
 
 *   [zq/superspeed](https://github.com/zq/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh
 

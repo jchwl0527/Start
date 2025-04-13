@@ -407,6 +407,8 @@
 
 *   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
 *   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
 
 *   [chenyukang/remote-jobs-cn](https://github.com/chenyukang/remote-jobs-cn) - 国内远程办公职位
@@ -588,8 +590,6 @@
 *   [ProbiusOfficial/TCL](https://github.com/ProbiusOfficial/TCL) - TCL-TencentCloudListener 腾讯云抢占式实例监听器
 
 *   [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 
 *   [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
 

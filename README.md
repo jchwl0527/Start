@@ -387,7 +387,7 @@
 
 *   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 *   [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 
@@ -623,7 +623,7 @@
 
 *   [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 
-*   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination). Python 周易、易經筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。
+*   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - Python 周易筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination).
 
 *   [realzhangliu/liuyao](https://github.com/realzhangliu/liuyao) - 六爻排盘
 

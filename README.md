@@ -63,7 +63,7 @@
 
 *   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 
-*   [IonRh/Cloudflare-BestIP](https://github.com/IonRh/Cloudflare-BestIP) - 将优选IP推送到CF和阿里云和DNSpod进行DNS解析,也可动态支持本地公网IP推送到需要的平台
+*   [IonRh/Cloudflare-BestIP](https://github.com/IonRh/Cloudflare-BestIP) - 将优选IP推送到CF和阿里云和DNSpod进行DNS解析，定期延时检测，web页面展示等
 
 *   [libnoname/noname](https://github.com/libnoname/noname) -
 

@@ -111,8 +111,6 @@
 
 *   [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-Body Problem".         中文说明： 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 
-*   [NianBroken/Payment-Code](https://github.com/NianBroken/Payment-Code) - 一个拥有高度自适应设备尺寸的HTML网页 用于展示您所有钱包的收款码|多合一收款码|万能收款码|支付宝收款|微信收款|QQ收款|三合一收款码
-
 *   [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 
 *   [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索引擎助手 - Google & Baidu Switcher.user.js), etc.
@@ -1224,6 +1222,8 @@
 *   [laike9m/My\_Blog](https://github.com/laike9m/My_Blog) - My Django Blog
 
 *   [A-Lang-Y/-](https://github.com/A-Lang-Y/-) - 前端静态博客源码模板，所有资料都来自公共网络收集,收集整理提供给大家学习使用
+
+*   [NianBroken/Payment-Code](https://github.com/NianBroken/Payment-Code) - 一个拥有高度自适应设备尺寸的HTML网页 用于展示您所有钱包的收款码|多合一收款码|万能收款码|支付宝收款|微信收款|QQ收款|三合一收款码
 
 *   [A10ha/EmailSender](https://github.com/A10ha/EmailSender) - 钓鱼邮件便捷发送工具（GUI）
 

@@ -455,8 +455,6 @@
 
 *   [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 
-*   [WuSuoV/Markdown2HTML](https://github.com/WuSuoV/Markdown2HTML) - 在线渲染任意Markdown文件
-
 *   [TDesktop-x64/Localization](https://github.com/TDesktop-x64/Localization) - Localization for TDesktop x64
 
 *   [askyzz/proxypool](https://github.com/askyzz/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表。欢迎star
@@ -913,7 +911,7 @@
 
 *   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 
-*   [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿工具，也支持twitch、ytb频道搬运。
+*   [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。
 
 *   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
 
@@ -1006,6 +1004,8 @@
 *   [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 
 *   [sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG known as PAL.
+
+*   [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 
 ## Lua
 

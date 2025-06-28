@@ -1525,7 +1525,7 @@
 
 ## SCSS
 
-*   [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme, perfect for ACG lovers.
+*   [Chanshiyucx/aurora](https://github.com/Chanshiyucx/aurora) - An awesome blog theme, perfect for ACG lovers.
 
 ## EJS
 

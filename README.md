@@ -1303,7 +1303,7 @@
 
 *   [haoduck/random-backgroundimages](https://github.com/haoduck/random-backgroundimages) -
 
-*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人
+*   [anhao/TgMessage](https://github.com/anhao/TgMessage) - TG 消息推送机器人, 支持 EdgeOne，Vercel 部署
 
 *   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 

@@ -617,7 +617,7 @@
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (AcePanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
@@ -745,7 +745,7 @@
 
 *   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 
-*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、ローマ字検索、快速选择扩展
+*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、ローマ字検索、通配符、快速选择扩展
 
 *   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
 

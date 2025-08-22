@@ -395,6 +395,8 @@
 
 *   [pennyliang/ciku](https://github.com/pennyliang/ciku) -
 
+*   [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+
 *   [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 
 *   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
@@ -617,7 +619,7 @@
 
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (AcePanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）是新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 
@@ -678,8 +680,6 @@
 *   [sunyuting83/v2rss-go](https://github.com/sunyuting83/v2rss-go) - v2rss-go
 
 ## Java
-
-*   [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 *   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
 

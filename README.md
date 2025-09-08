@@ -1179,7 +1179,7 @@
 
 ## Kotlin
 
-*   [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
+*   [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite tracker and pass predictor for Android, inspired by Gpredict
 
 *   [wangdaye078/AntiZhaPian](https://github.com/wangdaye078/AntiZhaPian) - 伪反诈中心，最好别用，后果自负。
 
@@ -1525,7 +1525,7 @@
 
 ## SCSS
 
-*   [Chanshiyucx/aurora](https://github.com/Chanshiyucx/aurora) - An awesome blog theme, perfect for ACG lovers.
+*   [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme, perfect for ACG lovers.
 
 ## EJS
 

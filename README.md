@@ -767,6 +767,8 @@
 
 *   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 
+*   [cryptonotefoundation/cryptonote](https://github.com/cryptonotefoundation/cryptonote) - CryptoNote protocol implementation. This is the reference repository for starting a new CryptoNote currency. See /src/cryptonote\_config.h
+
 ## Python
 
 *   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
@@ -1224,8 +1226,6 @@
 *   [GodLikeZeal/family](https://github.com/GodLikeZeal/family) - 家族族谱，族谱树管理后台系统
 
 *   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [laike9m/My\_Blog](https://github.com/laike9m/My_Blog) - My Django Blog
 
 *   [A-Lang-Y/-](https://github.com/A-Lang-Y/-) - 前端静态博客源码模板，所有资料都来自公共网络收集,收集整理提供给大家学习使用
 

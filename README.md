@@ -1013,7 +1013,7 @@
 
 ## Lua
 
-*   [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - Yet another sanguosha clone, written in Qt and Lua.
+*   [Qsgs-Fans/FreeKill](https://github.com/Qsgs-Fans/FreeKill) - An open source board game engine, written in Qt and Lua.
 
 *   [ASC8384/myRime](https://github.com/ASC8384/myRime) - 我的 Rime 配置，适用于朙月拼音／小鹤双拼／小狼毫 ／ibus / MacOS
 

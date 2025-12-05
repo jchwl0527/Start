@@ -567,6 +567,8 @@
 
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
+*   [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
+
 ## Stylus
 
 *   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
@@ -820,8 +822,6 @@
 *   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - Python 周易筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination).
 
 *   [realzhangliu/liuyao](https://github.com/realzhangliu/liuyao) - 六爻排盘
-
-*   [Angious/wxpush](https://github.com/Angious/wxpush) - 告别server酱、wxpusher，利用企业微信搭建属于自己的微信推送服务，保护隐私
 
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 

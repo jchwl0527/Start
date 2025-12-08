@@ -103,6 +103,8 @@
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 
+*   [jchwl0527/sub-web](https://github.com/jchwl0527/sub-web) - 基于 vue-cli 与 tindy2013/subconverter 后端实现的配置自动生成。
+
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
 *   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
@@ -295,7 +297,7 @@
 
 *   [niracler/nyaruko-telegram-bot](https://github.com/niracler/nyaruko-telegram-bot) - A Nyaruko bot deployed on Cloudflare | 一个部署在 Cloudflare 上的奈亚子机器人
 
-*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
+*   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Your Personal AI-Powered Information Hub
 
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
@@ -1336,8 +1338,6 @@
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 *   [leif0419/sub-web](https://github.com/leif0419/sub-web) -
-
-*   [jchwl0527/sub-web](https://github.com/jchwl0527/sub-web) - 基于 vue-cli 与 tindy2013/subconverter 后端实现的配置自动生成。
 
 *   [SvenShi/sven\_ninja](https://github.com/SvenShi/sven_ninja) - 对ninjia青龙环境变量管理工具的一次改造
 

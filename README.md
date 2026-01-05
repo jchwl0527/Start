@@ -760,7 +760,7 @@
 
 *   [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 
-*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器：ML307R+ESP32C3
+*   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器：ML307R+ESP32C3 支持移动联通电信
 
 *   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
 

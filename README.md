@@ -438,7 +438,7 @@
 
 *   [azwhikaru/fish\_helper\_config](https://github.com/azwhikaru/fish_helper_config) -
 
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
 
 *   [Misaka-blog/cf-wkrs-sub](https://github.com/Misaka-blog/cf-wkrs-sub) - 使用 CloudFlare Workers 订阅免费节点
 
@@ -1134,7 +1134,7 @@
 
 *   [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
 
-*   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+*   [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
 *   [bohanwood/debi](https://github.com/bohanwood/debi) - Reinstall your VPS to minimal Debian
 

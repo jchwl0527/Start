@@ -910,7 +910,7 @@
 
 *   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 
-*   [3150601355/WhistleTalk](https://github.com/3150601355/WhistleTalk) - 用口哨声“说话”
+*   [39665558/WhistleTalk](https://github.com/39665558/WhistleTalk) - 用口哨声“说话”
 
 *   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 

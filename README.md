@@ -412,8 +412,6 @@
 
 *   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
 
-*   [Netskao/MacOS-Utils](https://github.com/Netskao/MacOS-Utils) - MacOS-Apps-Utils
-
 *   [chenyukang/remote-jobs-cn](https://github.com/chenyukang/remote-jobs-cn) - 国内远程办公职位
 
 *   [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) -
@@ -725,6 +723,8 @@
 *   [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
 
 *   [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
+
+*   [luoyesiqiu/Wodemo-Client](https://github.com/luoyesiqiu/Wodemo-Client) - 我的磨（wodemo.com）助手
 
 ## Dart
 

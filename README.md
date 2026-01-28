@@ -446,8 +446,6 @@
 
 *   [zhangweibo413/yixue](https://github.com/zhangweibo413/yixue) - 易学案例整理（奇门，八字，风水，六爻等等）
 
-*   [whherui/02-liuyao](https://github.com/whherui/02-liuyao) - 六爻笔记
-
 *   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
 
 *   [jchwl0527/Start](https://github.com/jchwl0527/Start) -
@@ -507,8 +505,6 @@
 *   [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
 
 *   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 
@@ -736,6 +732,8 @@
 
 *   [ComicSparks/jasmine](https://github.com/ComicSparks/jasmine) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
+*   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
+
 ## C++
 
 *   [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
@@ -905,6 +903,8 @@
 *   [moxun33/real-url](https://github.com/moxun33/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
 *   [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+
+*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
 
 *   [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 

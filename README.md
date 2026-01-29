@@ -1138,7 +1138,7 @@
 
 *   [bohanwood/debi](https://github.com/bohanwood/debi) - Reinstall your VPS to minimal Debian
 
-*   [ours1505/scaleway-auto-start](https://github.com/ours1505/scaleway-auto-start) -
+*   [MiaM1ku/scaleway-auto-start](https://github.com/MiaM1ku/scaleway-auto-start) -
 
 *   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 

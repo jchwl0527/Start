@@ -35,11 +35,11 @@
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [C#](#c-2)
-*   [Rust](#rust)
 *   [Batchfile](#batchfile)
 *   [AngelScript](#angelscript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Haxe](#haxe)
+*   [Rust](#rust)
 *   [MDX](#mdx)
 *   [Fluent](#fluent)
 *   [CSS](#css)
@@ -1184,6 +1184,8 @@
 
 *   [sunpma/mtp](https://github.com/sunpma/mtp) - MTProxy TLS 绿色版一键安装脚本
 
+*   [rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell) - 基于DNSPod用户API实现的纯Shell动态域名客户端
+
 ## Kotlin
 
 *   [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite tracker and pass predictor for Android, inspired by Gpredict
@@ -1400,9 +1402,23 @@
 
 *   [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 
-## Rust
+## Batchfile
 
-*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
+*   [FongMi/Release](https://github.com/FongMi/Release) -
+
+## AngelScript
+
+*   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
+
+## Jupyter Notebook
+
+*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
+
+## Haxe
+
+*   [saharan/works](https://github.com/saharan/works) - The code of several works on oimo.io/works
+
+## Rust
 
 *   [rust-net/remote-bind](https://github.com/rust-net/remote-bind) - 内网穿透，支持服务器中继和基于quic的P2P直连两种模式
 
@@ -1425,22 +1441,6 @@
 *   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 
 *   [iovxw/rssbot](https://github.com/iovxw/rssbot) - Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人
-
-## Batchfile
-
-*   [FongMi/Release](https://github.com/FongMi/Release) -
-
-## AngelScript
-
-*   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
-
-## Jupyter Notebook
-
-*   [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
-
-## Haxe
-
-*   [saharan/works](https://github.com/saharan/works) - The code of several works on oimo.io/works
 
 ## MDX
 

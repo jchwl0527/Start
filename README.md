@@ -658,7 +658,7 @@
 
 *   [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 
-*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+*   [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
 
 *   [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
 

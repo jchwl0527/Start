@@ -680,7 +680,7 @@
 
 ## Java
 
-*   [HSSkyBoy/NPatch](https://github.com/HSSkyBoy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
+*   [hsskyboy/NPatch](https://github.com/hsskyboy/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 
 *   [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) -
 

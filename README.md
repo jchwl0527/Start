@@ -292,7 +292,7 @@
 
 ## TypeScript
 
-*   [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 Cloudflare email
+*   [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 smail
 
 *   [niracler/nyaruko-telegram-bot](https://github.com/niracler/nyaruko-telegram-bot) - A Nyaruko bot deployed on Cloudflare | 一个部署在 Cloudflare 上的奈亚子机器人
 

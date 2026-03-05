@@ -994,6 +994,8 @@
 
 *   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 
+*   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
 ## C
 
 *   [dnomd343/ClearDNS](https://github.com/dnomd343/ClearDNS) - 容器化的无污染DNS服务
@@ -1323,8 +1325,6 @@
 *   [gaowanliang/MagicPassword](https://github.com/gaowanliang/MagicPassword) - Need to generate a password? Try Gaowanliang Strong Password Generator. Just need a master password to generate secure passwords to keep your network safe.
 
 *   [BlueSkyXN/TencentCloud-Order](https://github.com/BlueSkyXN/TencentCloud-Order) - 腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面
-
-*   [zkysimon/snake](https://github.com/zkysimon/snake) -
 
 *   [CangShui/CloudflareCustomPages](https://github.com/CangShui/CloudflareCustomPages) - My Cloudflare Custom Pages ,It is Beautiful!
 

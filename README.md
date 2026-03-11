@@ -290,6 +290,8 @@
 
 *   [252860883/ArtQRCode](https://github.com/252860883/ArtQRCode) - :crystal\_ball:艺术二维码生成工具（Art QRcode productivity tool ）
 
+*   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
+
 ## TypeScript
 
 *   [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 smail
@@ -777,8 +779,6 @@
 ## Python
 
 *   [gacjie/cf2dns](https://github.com/gacjie/cf2dns) - cf2dns宝塔插件版
-
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
 
 *   [HyukIsBack/KARMA-DDoS](https://github.com/HyukIsBack/KARMA-DDoS) - DDoS Script (DDoS Panel) with Multiple Bypass ( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )
 

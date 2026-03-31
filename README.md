@@ -616,7 +616,7 @@
 
 *   [jchwl0527/gogs](https://github.com/jchwl0527/gogs) - Gogs is a painless self-hosted Git service
 
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -681,6 +681,8 @@
 *   [Sansui233/proxypool](https://github.com/Sansui233/proxypool) - 自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重后提供节点列表
 
 *   [sunyuting83/v2rss-go](https://github.com/sunyuting83/v2rss-go) - v2rss-go
+
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
 
 ## Java
 
@@ -813,8 +815,6 @@
 *   [inpanel/inpanel](https://github.com/inpanel/inpanel) - 程江服务器控制面板
 
 *   [dd178/BILI\_judgement](https://github.com/dd178/BILI_judgement) - B站风纪委员投票，仅用作学习用途
-
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
@@ -1076,7 +1076,7 @@
 
 *   [sy-records/GetFavicon](https://github.com/sy-records/GetFavicon) - 用 PHP 获取网站 favicon 的API，可用于美化网站外链显示效果。
 
-*   [klsf/kldns](https://github.com/klsf/kldns) - 快乐二级域名分发系统
+*   [klsf/kldns](https://github.com/klsf/kldns) - KLDNS 是一个面向二级域名分发场景的 DNS 管理系统，适用于主域开放、用户自助申请前缀、解析记录维护、积分控制、审核流和统一运维管理。
 
 *   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
 

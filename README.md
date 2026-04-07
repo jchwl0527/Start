@@ -292,6 +292,8 @@
 
 *   [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
 
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+
 ## TypeScript
 
 *   [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 smail
@@ -616,7 +618,7 @@
 
 *   [jchwl0527/gogs](https://github.com/jchwl0527/gogs) - Gogs is a painless self-hosted Git service
 
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
@@ -1243,8 +1245,6 @@
 *   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 
 *   [A-Lang-Y/-](https://github.com/A-Lang-Y/-) - 前端静态博客源码模板，所有资料都来自公共网络收集,收集整理提供给大家学习使用
-
-*   [NianBroken/Payment-Code](https://github.com/NianBroken/Payment-Code) - 一个拥有高度自适应设备尺寸的HTML网页 用于展示您所有钱包的收款码|多合一收款码|万能收款码|支付宝收款|微信收款|QQ收款|三合一收款码
 
 *   [A10ha/EmailSender](https://github.com/A10ha/EmailSender) - 钓鱼邮件便捷发送工具（GUI）
 

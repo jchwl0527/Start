@@ -294,6 +294,8 @@
 
 *   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
+*   [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
+
 ## TypeScript
 
 *   [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 smail
@@ -305,8 +307,6 @@
 *   [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
 *   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
-
-*   [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。
 
 *   [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 
@@ -570,6 +570,8 @@
 
 *   [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
 
+*   [HuaweiJoke/Huawei-Joke](https://github.com/HuaweiJoke/Huawei-Joke) - 本项目将收集因审查而被删除的关于华为公司的笑话。欢迎大家投稿。
+
 ## Stylus
 
 *   [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
@@ -804,8 +806,6 @@
 
 *   [zycn0910/Sign-ZXJY](https://github.com/zycn0910/Sign-ZXJY) - 职校家园（实习备案）打卡-2024.9.1可用
 
-*   [rialll/fuckZXJY](https://github.com/rialll/fuckZXJY) - 职校家园自动打卡-2023-11-04更新
-
 *   [iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump) - 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
 
 *   [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
@@ -820,7 +820,7 @@
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
-*   [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+*   [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 
 *   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - Python 周易筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination).
 

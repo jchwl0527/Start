@@ -162,6 +162,8 @@
 
 *   [daxiong404/DOMTree](https://github.com/daxiong404/DOMTree) - 用html表单元素画的一棵旋转圣诞树
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
 *   [lan-tianxiang/JS\_TOOL](https://github.com/lan-tianxiang/JS_TOOL) - Node网页开发工具
 
 *   [unixzii/the-silence-campaign](https://github.com/unixzii/the-silence-campaign) - They don't let us talk, they just want to silence us.
@@ -1501,8 +1503,6 @@
 *   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 
 ## Dockerfile
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [jchwl0527/reference](https://github.com/jchwl0527/reference) - 为开发人员分享快速参考备忘清单(速查表)
 

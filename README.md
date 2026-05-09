@@ -1344,7 +1344,7 @@
 
 *   [leif0419/sub-web](https://github.com/leif0419/sub-web) -
 
-*   [SvenShi/sven\_ninja](https://github.com/SvenShi/sven_ninja) - 对ninjia青龙环境变量管理工具的一次改造
+*   [svenshi/sven\_ninja](https://github.com/svenshi/sven_ninja) - 对ninjia青龙环境变量管理工具的一次改造
 
 *   [liyunkun11/official-website](https://github.com/liyunkun11/official-website) - 企业官方网站模板（响应式）
 

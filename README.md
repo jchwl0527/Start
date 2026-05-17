@@ -344,7 +344,7 @@
 
 *   [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+*   [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
 
 *   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 

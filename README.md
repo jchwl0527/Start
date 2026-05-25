@@ -94,7 +94,7 @@
 
 *   [sld272/Ximalaya-Downloader](https://github.com/sld272/Ximalaya-Downloader) - 喜马拉雅专辑音频一键下载工具
 
-*   [qd-today/get-cookies](https://github.com/qd-today/get-cookies) - 一键获取 Cookies 的 Chrome 扩展, 用于配合 QD 框架使用
+*   [qd-today/get-cookies](https://github.com/qd-today/get-cookies) - 一键获取 Cookies 的 Chrome/Firefox 扩展, 用于配合 QD 框架使用
 
 *   [vfarid/cf-ip-scanner](https://github.com/vfarid/cf-ip-scanner) - Cloudflare IP Scanner
 

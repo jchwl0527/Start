@@ -720,8 +720,6 @@
 
 *   [kentang2017/ichingshifa](https://github.com/kentang2017/ichingshifa) - Python 周易筮法、大衍之數、六十四卦、六爻、京房易、爻辭、日期占卦、占卜。A python package of Ichingshifa (also known as I-ching or Yarrow Stalks Divination).
 
-*   [realzhangliu/liuyao](https://github.com/realzhangliu/liuyao) - 六爻排盘
-
 *   [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 
 *   [saveweb/fourdimensions-archive](https://github.com/saveweb/fourdimensions-archive) - bcy.net archive
@@ -1335,6 +1333,8 @@
 *   [CangShui/CloudflareCustomPages](https://github.com/CangShui/CloudflareCustomPages) - My Cloudflare Custom Pages ,It is Beautiful!
 
 *   [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
+
+*   [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 
 ## Vue
 
